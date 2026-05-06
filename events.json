@@ -1,0 +1,112 @@
+{
+  "501004708": {
+    "event_name": "Victory!",
+    "check_position": 2,
+    "outcomes": {
+      "1": "good",
+      "2": "good",
+      "3": "bad",
+      "4": "bad"
+    },
+    "notes": ""
+  },
+  "501019708": {
+    "event_name": "Victory!",
+    "check_position": 2,
+    "outcomes": {
+      "1": "good",
+      "2": "good",
+      "3": "bad",
+      "4": "bad"
+    },
+    "notes": ""
+  },
+  "501004709": {
+    "event_name": "Solid Showing",
+    "check_position": 2,
+    "outcomes": {
+      "1": "good",
+      "2": "good",
+      "3": "bad",
+      "4": "bad"
+    },
+    "notes": "Didnt test this enough yet"
+  },
+  "809006004": {
+    "event_name": "Unexpected Side",
+    "check_position": 1,
+    "outcomes": {
+      "1": "good",
+      "2": "bad"
+    },
+    "notes": "3-choice event"
+  },
+  "830078001": {
+    "event_name": "Mystery Fortune Ritual!",
+    "check_position": 1,
+    "outcomes": {
+      "1": "good",
+      "2": "bad"
+    },
+    "notes": ""
+  },
+  "830078002": {
+    "event_name": "Fortune Favors the Friends!",
+    "check_position": 1,
+    "outcomes": {
+      "1": "good",
+      "2": "bad"
+    },
+    "notes": ""
+  },
+  "501004516": {
+    "event_name": "Slow Metabolism Event",
+    "check_position": 2,
+    "outcomes": {
+      "1": "good"
+    },
+    "notes": "⚠ single data point - check_position may be wrong"
+  },
+  "830028002": {
+    "event_name": "Paying It Forward",
+    "check_position": 2,
+    "outcomes": {
+      "1": "good",
+      "2": "bad"
+    },
+    "notes": ""
+  },
+  "820035001": {
+    "event_name": "Nail Artist on the Turf",
+    "check_position": 1,
+    "outcomes": {
+      "1": "good"
+    },
+    "notes": "⚠ single data point - check_position may be wrong"
+  },
+  "501004713": {
+    "event_name": "Get Well Soon!",
+    "check_position": 2,
+    "outcomes": {
+      "2": "good"
+    },
+    "notes": "⚠ single data point - check_position may be wrong"
+  },
+  "400000043": {
+    "event_name": "Get Well Soon!",
+    "check_position": 2,
+    "outcomes": {
+      "1": "bad"
+    },
+    "notes": "⚠ single data point - check_position may be wrong"
+  },
+  "830071001": {
+    "event_name": "A Legendary Smile in the House!",
+    "check_position": 1,
+    "outcomes": {
+      "1": "good",
+      "2": "bad"
+    },
+    "notes": "good outcome implied from bad-only data point"
+  }
+}
