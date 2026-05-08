@@ -30,7 +30,29 @@
       "3": "bad",
       "4": "bad"
     },
-    "notes": "Didnt test this enough yet"
+    "notes": "should be correct now"
+  },
+    "400000036": {
+    "event_name": "Defeat",
+    "check_position": 2,
+    "outcomes": {
+      "1": "bad",
+      "2": "bad",
+      "3": "good",
+      "4": "good"
+    },
+    "notes": "should be correct?"
+  },
+    "400004405": {
+    "event_name": "Defeat",
+    "check_position": 2,
+    "outcomes": {
+      "1": "bad",
+      "2": "bad",
+      "3": "good",
+      "4": "good"
+    },
+    "notes": "should be correct?"
   },
   "809006004": {
     "event_name": "Unexpected Side",
@@ -63,9 +85,10 @@
     "event_name": "Slow Metabolism Event",
     "check_position": 2,
     "outcomes": {
-      "1": "good"
+      "1": "good",
+      "2": "bad"
     },
-    "notes": "⚠ single data point - check_position may be wrong"
+    "notes": ""
   },
   "830028002": {
     "event_name": "Paying It Forward",
@@ -88,17 +111,19 @@
     "event_name": "Get Well Soon!",
     "check_position": 2,
     "outcomes": {
+      "1": "bad",
       "2": "good"
     },
-    "notes": "⚠ single data point - check_position may be wrong"
+    "notes": "should be correct now"
   },
   "400000043": {
     "event_name": "Get Well Soon!",
     "check_position": 2,
     "outcomes": {
-      "1": "bad"
+      "1": "bad",
+      "2": "good"
     },
-    "notes": "⚠ single data point - check_position may be wrong"
+    "notes": "should be correct now"
   },
   "830071001": {
     "event_name": "A Legendary Smile in the House!",
@@ -108,5 +133,13 @@
       "2": "bad"
     },
     "notes": "good outcome implied from bad-only data point"
+  },
+    "501004720": {
+    "event_name": "Acupuncture",
+    "check_position": 1,
+    "outcomes": {
+      "2": "bad"
+    },
+    "notes": "⚠ single data point - check_position may be wrong"
   }
 }

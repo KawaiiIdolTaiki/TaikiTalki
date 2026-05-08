@@ -17,14 +17,17 @@ from watchdog.events import FileSystemEventHandler
 
 PORT         = 8071
 
-# Line 21 — path to your Firefox executable      # dont ask for different browser
+# Line 21 — must match your page <title> tag exactly
+WINDOW_TITLE = "TaikiTalki"
+
+# Line 24 — path to your Firefox executable      # dont ask for different browser
 BROWSER_PATH = r"C:\Program Files\Mozilla Firefox\firefox.exe"
 
-# Lines 24-27 — window size and position (pixels)
+# Lines 27-30 — window size and position (pixels)
 WIN_WIDTH    = 420
 WIN_HEIGHT   = 187
 WIN_X        = 1500    # distance from left edge of screen
-WIN_Y        = 800    # distance from top edge of screen
+WIN_Y        = 900    # distance from top edge of screen
 
 # ─────────────────────────────────────────────────────────────────
 #  PATHS
@@ -182,17 +185,17 @@ class DumpWatcher(FileSystemEventHandler):
 
 
 # ─────────────────────────────────────────────────────────────────
-#  ALWAYS ON TOP  (line 153)
+#  ALWAYS ON TOP 
 #  Uses Windows API via ctypes to pin the Firefox window.
 #  This is the only reliable always-on-top method — browser JS
 #  cannot do this on its own.
 # ─────────────────────────────────────────────────────────────────
 
-def set_firefox_topmost(enable: bool) -> bool:
+def set_firefox_topmost(enable: bool) -> bool:  
     """
-    Finds all visible Firefox windows by class name (MozillaWindowClass)
-    and sets or clears HWND_TOPMOST via SetWindowPos.
-    Using class name is reliable regardless of window title or Firefox version.
+    Finds all visible Firefox windows by title and sets or clears
+    the HWND_TOPMOST flag using SetWindowPos.
+    Returns True if at least one window was found.
     """
     try:
         user32         = ctypes.windll.user32
@@ -200,11 +203,11 @@ def set_firefox_topmost(enable: bool) -> bool:
         HWND_NOTOPMOST = ctypes.wintypes.HWND(-2)
         SWP_NOMOVE     = 0x0002
         SWP_NOSIZE     = 0x0001
-        SWP_NOACTIVATE = 0x0010
-        flags          = SWP_NOMOVE | SWP_NOSIZE | SWP_NOACTIVATE
+        flags          = SWP_NOMOVE | SWP_NOSIZE
 
         found_handles = []
 
+        # EnumWindows callback — must be defined as a C-callable
         CallbackType = ctypes.WINFUNCTYPE(
             ctypes.c_bool,
             ctypes.wintypes.HWND,
@@ -213,17 +216,17 @@ def set_firefox_topmost(enable: bool) -> bool:
 
         def _enum_callback(hwnd, _lparam):
             if user32.IsWindowVisible(hwnd):
-                # Match by window class name — always "MozillaWindowClass" for Firefox
-                class_buf = ctypes.create_unicode_buffer(256)
-                user32.GetClassNameW(hwnd, class_buf, 256)
-                if class_buf.value == "MozillaWindowClass":
-                    # Log the window title so we can confirm which window was found
-                    title_len = user32.GetWindowTextLengthW(hwnd)
+                title_len = user32.GetWindowTextLengthW(hwnd)
+                if title_len > 0:
                     title_buf = ctypes.create_unicode_buffer(title_len + 1)
                     user32.GetWindowTextW(hwnd, title_buf, title_len + 1)
-                    print(f"[AOT] Found: '{title_buf.value}'")
-                    found_handles.append(hwnd)
+                    title = title_buf.value
+                    # Only target the tool window by its exact page title
+                    if title.startswith(WINDOW_TITLE):
+                        print(f"[AOT] Targeting: '{title}'")
+                        found_handles.append(hwnd)
             return True
+
 
         cb = CallbackType(_enum_callback)
         user32.EnumWindows(cb, 0)
@@ -233,7 +236,7 @@ def set_firefox_topmost(enable: bool) -> bool:
             user32.SetWindowPos(hwnd, insert_after, 0, 0, 0, 0, flags)
 
         status = "ON" if enable else "OFF"
-        print(f"[AOT] {status} — applied to {len(found_handles)} window(s)")
+        print(f"[AOT] Always-on-top {status} — {len(found_handles)} window(s) found")
         return len(found_handles) > 0
 
     except Exception as e:
@@ -242,12 +245,12 @@ def set_firefox_topmost(enable: bool) -> bool:
 
 
 # ─────────────────────────────────────────────────────────────────
-#  BROWSER LAUNCHER  (line 205)
+#  BROWSER LAUNCHER 
 #  Opens /launch which uses window.open() to create a correctly
 #  sized and positioned popup, then closes itself.
 # ─────────────────────────────────────────────────────────────────
 
-def open_browser():                                  # line 211
+def open_browser():                                
     try:
         url = f"http://localhost:{PORT}/launch"
         subprocess.Popen([BROWSER_PATH, "--new-window", url])
@@ -267,7 +270,7 @@ app  = Flask(__name__)
 sock = Sock(app)
 
 
-@app.route("/launch")                                # line 226
+@app.route("/launch")                               
 def launch_page():
     """
     Opens the real tool as a correctly sized popup via window.open(),
@@ -320,12 +323,12 @@ if (w) {{
 </html>"""
 
 
-@app.route("/")                                      # line 271
+@app.route("/")                                    
 def index():
     return HTML
 
 
-@app.route("/api/topmost/<int:enable>")              # line 275
+@app.route("/api/topmost/<int:enable>")          
 def api_topmost(enable):
     ok = set_firefox_topmost(bool(enable))
     return json.dumps({"ok": ok})
@@ -352,7 +355,7 @@ def websocket(ws):
 
 
 # ─────────────────────────────────────────────────────────────────
-#  UI HTML  (line 299)
+#  UI HTML 
 # ─────────────────────────────────────────────────────────────────
 
 HTML = """<!DOCTYPE html>
@@ -420,7 +423,7 @@ HTML = """<!DOCTYPE html>
   .dot.on  { background: var(--good); box-shadow: 0 0 8px var(--good); }
   .dot.off { background: var(--bad); }
 
-  /* always-on-top checkbox  line 363 */
+  /* always-on-top checkbox */
   #aot-label {
     display: flex; align-items: center; gap: 6px;
     font-size: 0.7rem; font-weight: 700;
@@ -588,7 +591,7 @@ function setStatus(ok) {
   statusText.textContent = ok ? 'Connected' : 'Reconnecting';
 }
 
-/* ── Always on top  line 485
+/* ── Always on top 
    Calls /api/topmost/1 or /api/topmost/0 on the Python backend.
    Python uses Windows ctypes to set HWND_TOPMOST on Firefox. ── */
 document.getElementById('aot-cb').addEventListener('change', function () {
@@ -606,7 +609,7 @@ document.getElementById('aot-cb').addEventListener('change', function () {
     .catch(() => {});
 });
 
-/* ── Render  line 501 ── */
+/* ── Render ── */
 function render(data) {
   if (data.type === 'ping') return;
 
@@ -681,7 +684,7 @@ function render(data) {
   </div>`;
 }
 
-/* ── WebSocket with auto-reconnect  line 558 ── */
+/* ── WebSocket with auto-reconnect  ── */
 function connect() {
   const ws = new WebSocket('ws://localhost:8071/ws');
   ws.onopen    = ()  => setStatus(true);
