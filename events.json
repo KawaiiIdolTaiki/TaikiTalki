@@ -63,14 +63,14 @@
     "ids": [
       "830011001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Take a Step",
     "ids": [
       "830011002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Aim for That Sparkling Moment!",
@@ -79,21 +79,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) A Grand Slam Energy Boost!",
     "ids": [
       "820030001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) You'll Always Be in My Heart...",
     "ids": [
       "820030002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Hanging Out with Big Sis!",
@@ -1304,28 +1304,28 @@
     "ids": [
       "820012001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Report: N/A (On Break)",
     "ids": [
       "820012002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 交感：走力の限界突破に関する質的研究",
     "ids": [
       "830101001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 夢寐：走力の限界突破に関する質的研究",
     "ids": [
       "830101002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 疾駆：走力の限界突破に関する質的研究",
@@ -1334,21 +1334,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 考察・科学者はお世話を望むのか",
     "ids": [
       "820059001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 結論・タキオン、甘味を語る",
     "ids": [
       "820059002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Expression of Conviction",
@@ -1547,35 +1547,35 @@
     "ids": [
       "820005001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) My Love for Umamusume is Eternal!",
     "ids": [
       "820005002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) A Simp's Aesthetics",
     "ids": [
       "830085001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Simp's Burdens",
     "ids": [
       "830085002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) A Simp's Lifestyle",
     "ids": [
       "830085003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Teach Us Your Ways, Digital!",
@@ -1762,35 +1762,35 @@
     "ids": [
       "820055001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) あがくのです、新天地まで",
     "ids": [
       "820055002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 思い出には、鍵があります",
     "ids": [
       "830149001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 鍵を並べましょう",
     "ids": [
       "830149002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) しっかり鍵をかけましょう",
     "ids": [
       "830149003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "むすんでおぼえて",
@@ -1946,35 +1946,35 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Ayabe Doesn't Cut Corners",
     "ids": [
       "830077002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Ayabe Won't Be Disheartened!",
     "ids": [
       "830077003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) The Joy of Being Together",
     "ids": [
       "820041001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Toward the Brightest Star",
     "ids": [
       "820041002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Hear My Heart",
@@ -2441,49 +2441,49 @@
     "ids": [
       "820025001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Ikuno-Style Support",
     "ids": [
       "820025002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) That's How U Solve the Case",
     "ids": [
       "830063001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Are U the Problem?",
     "ids": [
       "830063002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Just U and I",
     "ids": [
       "830063003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Ikuno-style Cuteness Research",
     "ids": [
       "830099001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Glasses-style Umadol Song ☆",
     "ids": [
       "830099002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Ikuno-style Socializing",
@@ -2492,49 +2492,49 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) ひとつひとつに、真心を",
     "ids": [
       "830143001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 誠心誠意、感謝をこめて",
     "ids": [
       "830143002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 心づかいは、巡り巡って",
     "ids": [
       "830143003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) “成果”を求めて",
     "ids": [
       "830238001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 貴方の“強み”は",
     "ids": [
       "830238002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) マネジメントは誰がために",
     "ids": [
       "830238003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Let's Tussle! Booyah!",
@@ -2555,14 +2555,14 @@
     "ids": [
       "820032001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Good Ruckus!",
     "ids": [
       "820032002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "The Art of Class",
@@ -2795,63 +2795,63 @@
     "ids": [
       "830012001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Everyone Was Sore for Days!",
     "ids": [
       "830012002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) We Are BNW!",
     "ids": [
       "830012003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Hot Derby Special!",
     "ids": [
       "830033001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Special Rival Training!",
     "ids": [
       "830033002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Dream-Fulfilling Challenge!",
     "ids": [
       "830033003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Tickezo☆Expedition!",
     "ids": [
       "830046001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Tickezo☆Friendship!",
     "ids": [
       "830046002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Tickezo☆Night Fever!",
     "ids": [
       "830046003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Full-Power Testing!",
@@ -3075,21 +3075,21 @@
     "ids": [
       "830005001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Vow to the Setting Sun",
     "ids": [
       "830005002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Put That on the Record, Okay?",
     "ids": [
       "830005003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Slacking Off at Sundown",
@@ -3098,35 +3098,35 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Persistence Pays Off",
     "ids": [
       "820039002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 俺のGreat！！",
     "ids": [
       "830150001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 俺のGreatest！！！",
     "ids": [
       "830150002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 俺のGOAT！！！！",
     "ids": [
       "830150003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Vintage Style",
@@ -3387,70 +3387,70 @@
     "ids": [
       "830106001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) You Make Me Who I Am",
     "ids": [
       "830106002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Dynamic Duo",
     "ids": [
       "830106003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 異端児は来ませり",
     "ids": [
       "830124001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) お前の脚が役に立つのさ",
     "ids": [
       "830124002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 過ぎしあの夜、星は光り",
     "ids": [
       "830124003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 想うゆえに届かず",
     "ids": [
       "830159001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 想うゆえに進めず",
     "ids": [
       "830159002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 想うゆえに離れず",
     "ids": [
       "830159003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) As Dignified as a Moth Orchid",
     "ids": [
       "820004001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Bloom by the Oak",
@@ -3459,7 +3459,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Flowers for You",
@@ -3704,42 +3704,42 @@
     "ids": [
       "830013001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Realist's Passion",
     "ids": [
       "830013002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) I'm the Strongest",
     "ids": [
       "830013003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Both High and Low",
     "ids": [
       "830092001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) BPM in Sync",
     "ids": [
       "830092002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Connected EQs",
     "ids": [
       "830092003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Feature:“Me”",
@@ -3748,21 +3748,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Beta:“Me”",
     "ids": [
       "830226002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Release:“Me”",
     "ids": [
       "830226003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "This Is the Proof",
@@ -3977,21 +3977,21 @@
     "ids": [
       "820013001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Good Friend",
     "ids": [
       "820013002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 汝、ギャルの守護者たるべし",
     "ids": [
       "830122001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 汝、ウマドルとなりて盛り上げるべし",
@@ -4000,7 +4000,7 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 汝、苫小牧を愛す友を愛すべし",
@@ -4009,7 +4009,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Worthy of Wearing Pride",
@@ -4214,28 +4214,28 @@
     "ids": [
       "830007001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Uma-me",
     "ids": [
       "830007002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Luchadora El!",
     "ids": [
       "830007003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Where My Courage Comes From",
     "ids": [
       "830102001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Mask With Many Faces",
@@ -4244,7 +4244,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) With All the Courage I Have",
@@ -4253,21 +4253,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) With Passion and Joy!",
     "ids": [
       "820033001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Muddy Heroes",
     "ids": [
       "820033002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Determination of the World's Strongest",
@@ -4493,42 +4493,42 @@
     "ids": [
       "830024001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) How Should I Respond?",
     "ids": [
       "830024002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) What I Want to Say",
     "ids": [
       "830024003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) \"I Just Can't Quit Food\" —Oguri Cap",
     "ids": [
       "820048001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) \"Happiness? Don't Mind If I Do\" —Oguri Cap",
     "ids": [
       "820048002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) ありがとうが聞きたくて",
     "ids": [
       "830146001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 喜ぶ顔に変えたくて",
@@ -4537,7 +4537,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) みんなと笑顔になりたくて",
@@ -4546,7 +4546,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Pinned Hopes",
@@ -4792,21 +4792,21 @@
     "ids": [
       "830135001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) No Way Home",
     "ids": [
       "830135002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Through Telepathy",
     "ids": [
       "830135003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "#UrUniqueCuteness",
@@ -4829,14 +4829,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) #CurrenQuandary",
     "ids": [
       "830068002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) #KeepItCurren",
@@ -4845,42 +4845,42 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) #AWildCurrenAppeared",
     "ids": [
       "820044001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) #CuteFluffyOverload",
     "ids": [
       "820044002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) #おうち時間",
     "ids": [
       "830237001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) #カレン奮闘中",
     "ids": [
       "830237002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) #Curren for U♡",
     "ids": [
       "830237003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Which Curren Do You Like?",
@@ -5103,35 +5103,35 @@
     "ids": [
       "830039001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Princess Power ☆ to the Max!",
     "ids": [
       "830039002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Hit It! Princess Road!",
     "ids": [
       "830039003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) OH! MY! Ghost Hunt!",
     "ids": [
       "830096001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Together as One! Grand Ghost Hunting Finale!",
     "ids": [
       "830096003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Dress of Determination",
@@ -5359,7 +5359,7 @@
     "ids": [
       "830028001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Paying It Forward",
@@ -5368,7 +5368,7 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) We Walk Together",
@@ -5377,7 +5377,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Forget Me Not!",
@@ -5612,28 +5612,28 @@
     "ids": [
       "820020001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) First-Rate Advice",
     "ids": [
       "820020002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) A Captivating Invitation",
     "ids": [
       "830056001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Dancer's Pride",
     "ids": [
       "830056002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Glittering Star of the Ball",
@@ -5642,7 +5642,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "The Outfit That Suits Me Most",
@@ -5827,7 +5827,7 @@
     "ids": [
       "830006001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Moment's Respite",
@@ -5836,7 +5836,7 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Hidden Petals",
@@ -5845,28 +5845,28 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 導き手の憂い",
     "ids": [
       "830129001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) あの日の背比べ",
     "ids": [
       "830129002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 背中合わせ",
     "ids": [
       "830129003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Hidden Meaning",
@@ -6095,35 +6095,35 @@
     "ids": [
       "820051001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 薄氷の上にて",
     "ids": [
       "820051002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) できること",
     "ids": [
       "830130001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) やってみたこと",
     "ids": [
       "830130002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) やりたいこと",
     "ids": [
       "830130003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "08:36 / Crap, I Overslept",
@@ -6144,56 +6144,56 @@
     "ids": [
       "830014001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Struggle",
     "ids": [
       "830014002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) One Step",
     "ids": [
       "830014003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) I Can Do It Myself",
     "ids": [
       "820049001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Relying On Others",
     "ids": [
       "820049002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) リスケの嵐",
     "ids": [
       "830153001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 仕方ない……のかな",
     "ids": [
       "830153002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 伝えるべき言葉は",
     "ids": [
       "830153003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Client's Orders",
@@ -6424,21 +6424,21 @@
     "ids": [
       "830004001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Respect the Salmon!",
     "ids": [
       "830004002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Can't Spell \"Rival\" without \"Friend\"!",
     "ids": [
       "830004003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Adventurer Gold Ship",
@@ -6452,14 +6452,14 @@
     "ids": [
       "830057001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Plotting the Uma Lord's Dungeon",
     "ids": [
       "830057002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Assembling the Uma Lord's Minions",
@@ -6471,21 +6471,21 @@
       2
     ],
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 勝ち取れ、内定！",
     "ids": [
       "820061001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 焼きそばは全てを救う",
     "ids": [
       "820061002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "The Red of the Protagonist!",
@@ -6946,77 +6946,77 @@
     "ids": [
       "830002001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Letters → Feelings → ?",
     "ids": [
       "830002002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Letters → Feelings → Wait for Me, Okay?",
     "ids": [
       "830002003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) A Winning Vocalist",
     "ids": [
       "830062001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Dream Dance",
     "ids": [
       "830062002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) A Stage to Remember",
     "ids": [
       "830062003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Guided to Scenery",
     "ids": [
       "830076001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Shared Scenery",
     "ids": [
       "830076002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) The Scenery Ahead",
     "ids": [
       "830076003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 空まで届け",
     "ids": [
       "820063001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 快晴の心模様",
     "ids": [
       "820063002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "The Color of the Landscape",
@@ -7253,7 +7253,7 @@
     "ids": [
       "830038001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Blooming Hope!",
@@ -7262,7 +7262,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Someday, I'll Bloom!",
@@ -7271,21 +7271,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 優しいあなたに",
     "ids": [
       "830109001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 思いっきり笑ってほしいから",
     "ids": [
       "830109002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 『楽しい』を贈ります！",
@@ -7294,7 +7294,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Nothing Quite like Everyday Life",
@@ -7555,35 +7555,35 @@
     "ids": [
       "830015001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Bakushin's Love!",
     "ids": [
       "830015002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Bakushin's Huge Success!",
     "ids": [
       "830015003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Uma Kids Footrace Meet",
     "ids": [
       "830083001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Chasing My Sister",
     "ids": [
       "830083002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Just the Way You Are",
@@ -7592,21 +7592,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) A Bakushin Greeting!",
     "ids": [
       "820042001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) The Value of Greetings",
     "ids": [
       "820042002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Bakushin for Love!",
@@ -7841,35 +7841,35 @@
     "ids": [
       "830125001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 元気のヒケツ、教えてあげる",
     "ids": [
       "830125002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 閉じ込められちゃった、ね？",
     "ids": [
       "830125003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) みんなはひとりのために！",
     "ids": [
       "830142001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) いつかの桜餅の味は",
     "ids": [
       "830142002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) ひとりはみんなのために！",
@@ -7878,7 +7878,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "お姉さんな2人の",
@@ -8204,7 +8204,7 @@
     "ids": [
       "830029001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Diamond Fixation",
@@ -8213,28 +8213,28 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Only for You",
     "ids": [
       "830029003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Unseen Assistance",
     "ids": [
       "830088001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Words Aren't Enough",
     "ids": [
       "830088002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) The Dream We All Share",
@@ -8243,7 +8243,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "A Sturdy Diamond Wrapped in Silk",
@@ -8499,49 +8499,49 @@
     "ids": [
       "820029001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Never Give Up! Endless Possibilities!",
     "ids": [
       "820029002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) It'll All Turn Out Fine",
     "ids": [
       "830095001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Re: START!",
     "ids": [
       "830095002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) You Are Me",
     "ids": [
       "830095003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) ハロー、ディス地球！",
     "ids": [
       "830236001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 夢と友情のディス地球",
     "ids": [
       "830236002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) ディス地球、それは……",
@@ -8550,7 +8550,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "前人未踏のチャレンジ",
@@ -8745,14 +8745,14 @@
     "ids": [
       "820056001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) “追いつ追われつ”（チェイス）は上等",
     "ids": [
       "820056002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 粗野な茶会と綺羅星",
@@ -8761,7 +8761,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 衝撃が心臓を殴りつけて",
@@ -8770,7 +8770,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 咆哮はすべてを飲み込んで",
@@ -8779,7 +8779,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) マブダチ3人、最強屋台",
@@ -8788,7 +8788,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 仲間ってのは……",
@@ -8797,7 +8797,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 頂上作戦",
@@ -8806,7 +8806,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Want Me to Teach You?",
@@ -8827,7 +8827,7 @@
     "ids": [
       "820038001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Oil and Water",
@@ -8836,28 +8836,28 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Those with the Name of Symboli",
     "ids": [
       "830091001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) To Set Oneself Free",
     "ids": [
       "830091002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Tipped Scales",
     "ids": [
       "830091003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Chomp Extermination!",
@@ -8878,7 +8878,7 @@
     "ids": [
       "820031001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) C'mon Gates, Open Already!",
@@ -8887,28 +8887,28 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) マンネリなのだ！？",
     "ids": [
       "830117001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) びっくり計画なのだ！",
     "ids": [
       "830117002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 計画実行なのだ！",
     "ids": [
       "830117003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "悪は自由でカッコいいのだ！",
@@ -9124,42 +9124,42 @@
     "ids": [
       "830118001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 対極の矜持",
     "ids": [
       "830118002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 鬼教官クリスエス",
     "ids": [
       "830118003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) トレセン学園の奇妙な日常",
     "ids": [
       "830136001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) トレセン学園の非日常",
     "ids": [
       "830136002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) ようこそトレセン学園へ",
     "ids": [
       "830136003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "一族の色",
@@ -9364,49 +9364,49 @@
     "ids": [
       "830090001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) That Which Generates Heat",
     "ids": [
       "830090002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Passions That Guide",
     "ids": [
       "830090003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 流行りを極めし者たち",
     "ids": [
       "820058001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) “皇帝”の小さなお友だち",
     "ids": [
       "820058002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 空の道標",
     "ids": [
       "830037001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 夢の道標",
     "ids": [
       "830037002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 天の道標",
@@ -9415,21 +9415,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 在りし日の“皇帝”",
     "ids": [
       "830233001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 掲げた理想は遥か高く",
     "ids": [
       "830233002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 尊き大望はその胸に",
@@ -9441,7 +9441,7 @@
       2
     ],
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Midway Reflection",
@@ -9716,14 +9716,14 @@
     "ids": [
       "820023001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Premeditated Mischief",
     "ids": [
       "820023002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Fickle Genius Magical Girl Sweepy ☆",
@@ -9732,7 +9732,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Drop of Black Magic ☆",
@@ -9741,28 +9741,28 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Her Mood Like a Flower ☆",
     "ids": [
       "830045003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) What's Behind the Foul Mood?",
     "ids": [
       "820046001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) The Trick to Perseverance!",
     "ids": [
       "820046002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) むかし、袖を通した着物",
@@ -9771,21 +9771,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) いま、帯をしめる",
     "ids": [
       "830128002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) みらい、鼻緒はきりりと",
     "ids": [
       "830128003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "By the Power of Magic! (Clang!)",
@@ -9918,21 +9918,21 @@
     "ids": [
       "830016001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) The Taste of Warmth",
     "ids": [
       "830016002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Have a Second Helping!",
     "ids": [
       "830016003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Leave it to Me to Help Out! ♪",
@@ -10207,14 +10207,14 @@
     "ids": [
       "830001001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Roller Coaster of Feelings!",
     "ids": [
       "830001002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Our Audience",
@@ -10223,21 +10223,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Someday, I'll Be Just Like Her!",
     "ids": [
       "830025001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Just a Little Closer",
     "ids": [
       "830025002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Forms of Aspiration",
@@ -10246,14 +10246,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Unspoken Feelings",
     "ids": [
       "820043001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Small Thank You",
@@ -10262,49 +10262,49 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) I'm Gonna Buckle Down'n Work Hard!",
     "ids": [
       "830105001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) I'm Gonna Run with Everyone!",
     "ids": [
       "830105002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) I'm Gonna Visit Home!",
     "ids": [
       "830105003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) おなじ気持ちで、夢中に",
     "ids": [
       "830127001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) おなじ気持ちで、真心を",
     "ids": [
       "830127002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) おなじ気持ちで、願いを",
     "ids": [
       "830127003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "How Should I Pose?",
@@ -10561,35 +10561,35 @@
     "ids": [
       "830017001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Shining Always and Everywhere ☆",
     "ids": [
       "830017002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) My Umadol Way ☆",
     "ids": [
       "830017003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) What Is an Umadol?",
     "ids": [
       "820045001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) This Is an Umadol!",
     "ids": [
       "820045002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Polished ☆ Diamond",
@@ -10824,14 +10824,14 @@
     "ids": [
       "830008001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Beware of the Trap",
     "ids": [
       "830008002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) It's All to Win",
@@ -10840,21 +10840,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Sudden Murder Mystery! Part 1",
     "ids": [
       "830055001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Sudden Murder Mystery! Part 2",
     "ids": [
       "830055002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Sudden Murder Mystery! Part 3",
@@ -10863,21 +10863,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 船釣りの後に……",
     "ids": [
       "820050001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) また船釣りに行こう",
     "ids": [
       "820050002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) どうぞ、お気になさらず",
@@ -10886,14 +10886,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) そぶりも、見せず",
     "ids": [
       "830204002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 誰にも、悟られず",
@@ -10902,7 +10902,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Sleepy Time Incense",
@@ -11152,56 +11152,56 @@
     "ids": [
       "820028001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Someday, I'll Be the Main Character",
     "ids": [
       "820028002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) The Bookworm and the Secret Meeting",
     "ids": [
       "830065001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) The Bookworm and the Mage's Event",
     "ids": [
       "830065002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) The Bookworm and Her Froggy Friend",
     "ids": [
       "830065003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) A Nostalgic Book",
     "ids": [
       "830104001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Rainbow-Colored Cooking",
     "ids": [
       "830104002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Hobbies Bring Us Together",
     "ids": [
       "830104003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "英雄は物語と共に",
@@ -11391,21 +11391,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 辣腕振るうは何のため",
     "ids": [
       "830114002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) その優しさは誰のため",
     "ids": [
       "830114003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "その心、高貴なりて",
@@ -11616,7 +11616,7 @@
     "ids": [
       "830053001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Lesson Two: The Show Must Go On",
@@ -11625,14 +11625,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Lesson Three: Live in the Moment",
     "ids": [
       "830053003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Quick Draw Showdown",
@@ -11902,7 +11902,7 @@
     "ids": [
       "820024001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) #LOL #Party! #Round2",
@@ -11911,21 +11911,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) A Legendary Smile in the House!",
     "ids": [
       "830071001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Helios's ☆ Hype Channel!",
     "ids": [
       "830071002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) A Smile for the World",
@@ -11934,49 +11934,49 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) ヘリオス・アゲヘヴン前日たん☆",
     "ids": [
       "830116001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ヘリオス・アゲヘヴン・ウィーク開幕！",
     "ids": [
       "830116002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) アゲヘヴン・延長戦！",
     "ids": [
       "830116003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 太陽、裏から見てみる？",
     "ids": [
       "830155001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) メンブレところによりゲリラ旅行☆",
     "ids": [
       "830155002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) やったる☆やっちゃんライブ！",
     "ids": [
       "830155003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "壇上参上モチ上々！",
@@ -12250,28 +12250,28 @@
     "ids": [
       "820002001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) I Can Clean Better than Anyone!",
     "ids": [
       "820002002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Number One Reactions?",
     "ids": [
       "830047001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Learning to Look Scared",
     "ids": [
       "830047002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Poolside Fun",
@@ -12280,63 +12280,63 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Distant Feelings",
     "ids": [
       "830093001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) An Important Signal",
     "ids": [
       "830093002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) This is Who I Am",
     "ids": [
       "830093003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 披露宴ラプソディ",
     "ids": [
       "830148001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ブライダル・プライド",
     "ids": [
       "830148002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 幸せを彩るヒト",
     "ids": [
       "830148003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 納得するまでやるんだからっ！",
     "ids": [
       "830227001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) たとえ子どもっぽくたって！",
     "ids": [
       "830227002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) バブリー水泳競技会！",
@@ -12348,7 +12348,7 @@
       2
     ],
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "The Best Pose",
@@ -12784,21 +12784,21 @@
     "ids": [
       "830145001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 北国の罪人の如く……",
     "ids": [
       "830145002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 葡萄酒の神の如く……",
     "ids": [
       "830145003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "幼き日の別れに",
@@ -12987,35 +12987,35 @@
     "ids": [
       "830009001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Got My Priorities Straight",
     "ids": [
       "830009002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) My Flaws Make Me Who I Am!",
     "ids": [
       "830009003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Mummy Hunt! Drop the Jokes!",
     "ids": [
       "830064001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Mummy Hunt! The Hunter Awakens!",
     "ids": [
       "830064002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Mummy Hunt! Terrifyingly Tender",
@@ -13024,21 +13024,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Rhapsody of Kindness",
     "ids": [
       "820022001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) The Path of Profit and People",
     "ids": [
       "820022002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Lightning Heart",
@@ -13273,7 +13273,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Can't Catch Me!",
@@ -13282,7 +13282,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Turbo Is Strong!",
@@ -13291,21 +13291,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Ad Squad, Go!",
     "ids": [
       "830060001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Ad Squad, Full Throttle!",
     "ids": [
       "830060002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Ad Squad Rocks!",
@@ -13314,7 +13314,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) ターボを追っかけて！",
@@ -13323,21 +13323,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ターボとゲームして！",
     "ids": [
       "830112002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) ターボが最強！",
     "ids": [
       "830112003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "最終兵器トリプルターボ！",
@@ -13556,7 +13556,7 @@
     "ids": [
       "820052001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 私だけの強み！！",
@@ -13565,7 +13565,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "言葉は力となって",
@@ -13686,35 +13686,35 @@
     "ids": [
       "820054001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) みんなのテイエムオペラオー",
     "ids": [
       "820054002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 開幕は突然に",
     "ids": [
       "830152001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) イヌさんウサギさん、あとオペラオー",
     "ids": [
       "830152002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 輝きの影で",
     "ids": [
       "830152003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Fit for a King",
@@ -13945,63 +13945,63 @@
     "ids": [
       "830003001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Short Interlude",
     "ids": [
       "830003002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Legendary Act",
     "ids": [
       "830003003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) A Model Rivalry",
     "ids": [
       "830058001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Rhapsody of Rumors",
     "ids": [
       "830058002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) A Shining Path Toward the Future",
     "ids": [
       "830058003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) A Selfish (?) Desire",
     "ids": [
       "820047001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Spreading the Love of Dance!",
     "ids": [
       "820047002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 帝王の泣きどころ",
     "ids": [
       "830111001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) “カッコよさ”は1つじゃない",
@@ -14010,35 +14010,35 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 帝王的プレイスタイル",
     "ids": [
       "830111003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) LESSON.1　道具をそろえましょう",
     "ids": [
       "830140001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) LESSON.2　マナーを学びましょう",
     "ids": [
       "830140002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) LESSON.3　おもてなしをしましょう",
     "ids": [
       "830140003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Good Luck Charm",
@@ -14301,7 +14301,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Not Just for Show",
@@ -14310,21 +14310,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Leave It to the Roomie",
     "ids": [
       "830084001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Gal's Gotta Glam",
     "ids": [
       "830084002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) If You Got It, Own It",
@@ -14333,7 +14333,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Let the Glitter Take You",
@@ -14517,63 +14517,63 @@
     "ids": [
       "820019001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Visible Improvement (But So What?!)",
     "ids": [
       "820019002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Chasing Their Backs",
     "ids": [
       "820026001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Wind at My Back",
     "ids": [
       "820026002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) The Extraordinary Nature",
     "ids": [
       "830054001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Irrepressible Feelings",
     "ids": [
       "830054002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Revenge with a Quiz!",
     "ids": [
       "830054003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) お節介上手なネイチャさん",
     "ids": [
       "830138001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) キラキラカフェで捕まえて",
     "ids": [
       "830138002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) それがアタシの生きる道",
@@ -14582,7 +14582,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Nature and Her Tired Trainer",
@@ -14843,14 +14843,14 @@
     "ids": [
       "830043001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Midday Match",
     "ids": [
       "830043002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Sundown Sinks into Night",
@@ -14860,21 +14860,21 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 揺るぎなき眼",
     "ids": [
       "830108001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 炎は冷たい背の内に",
     "ids": [
       "830108002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) デスパレートに輝いて",
@@ -14887,7 +14887,7 @@
       2
     ],
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "その遠吠えは群れから離れ",
@@ -15082,28 +15082,28 @@
     "ids": [
       "820014001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Enjoy the Musical!",
     "ids": [
       "820014002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Taishin's Debt of Gratitude",
     "ids": [
       "830073001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Learning to Mean It!",
     "ids": [
       "830073002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Yours Sincerely!",
@@ -15112,7 +15112,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Strong Just the Way I Am",
@@ -15358,28 +15358,28 @@
     "ids": [
       "830086001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Great Expectations",
     "ids": [
       "830086002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Rivals Know Best",
     "ids": [
       "830086003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) いいんだよ、委員長！",
     "ids": [
       "820053001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) それでも、委員長！",
@@ -15388,7 +15388,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Student Council Member!",
@@ -15409,28 +15409,28 @@
     "ids": [
       "830044001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Only a Sister Knows",
     "ids": [
       "830044002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Running for the Dream",
     "ids": [
       "830044003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Target Across Time",
     "ids": [
       "830069001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Lord of the Ducks",
@@ -15439,28 +15439,28 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Battlefield Experience",
     "ids": [
       "830069003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 混沌に浮かぶ不知火",
     "ids": [
       "830123001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 今はまだ、その光には気づけない",
     "ids": [
       "830123002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 不器用な2人",
@@ -15469,7 +15469,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Strategy",
@@ -15751,7 +15751,7 @@
     "ids": [
       "830018002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) What's Important!",
@@ -15760,42 +15760,42 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) I Want You to Rest!",
     "ids": [
       "820027001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) I Want to Say Thank You!",
     "ids": [
       "820027002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Nourishment for a Flower Bud",
     "ids": [
       "830082001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) I'm Gonna Be a Mommy!",
     "ids": [
       "830082002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Blooming Emotions, with Love",
     "ids": [
       "830082003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Snapshots of Form and Color",
@@ -16235,21 +16235,21 @@
     "ids": [
       "830019001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Trying Hard with King!",
     "ids": [
       "830019002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Trying Hard with Everyone's Support!",
     "ids": [
       "830019003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) A Wonderful Wedding?",
@@ -16258,21 +16258,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) The Theme's Decided!",
     "ids": [
       "830098002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) The Gift of Excitement",
     "ids": [
       "830098003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "The Racewear I Love!",
@@ -16502,7 +16502,7 @@
     "ids": [
       "830042001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) No One Is Above Discipline!",
@@ -16511,7 +16511,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Someday, I'll Be Your Rival!",
@@ -16520,21 +16520,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) The Ultimate Omlet Training Arc",
     "ids": [
       "830094001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Sweat, Discipline, and Friendship!",
     "ids": [
       "830094002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Miracle Makers! The Red-Hot Cheer Squad!",
@@ -16543,7 +16543,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "アツい夢をライバルと！",
@@ -16768,42 +16768,42 @@
     "ids": [
       "830020001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Brace Yourself: Training with Carrot Ranger!",
     "ids": [
       "830020002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Showdown! Glorious Victory!",
     "ids": [
       "830020003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 熱い絆！ボノとヒーローに！",
     "ids": [
       "830132001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) まっすぐに！心通わすお菓子作り",
     "ids": [
       "830132002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 変身！ネイチャはプリファイ！？",
     "ids": [
       "830132003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Eat Up ♪",
@@ -16824,7 +16824,7 @@
     "ids": [
       "830040001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Let's Go... Buono ☆",
@@ -16833,7 +16833,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Buono For You, Buono For Me ☆",
@@ -16842,42 +16842,42 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) なんでもあります、ボノ食堂",
     "ids": [
       "830133001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ほっとひと息、ボノ食堂",
     "ids": [
       "830133002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) あなたのそばに、ボノ食堂",
     "ids": [
       "830133003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) ヒシアケボノ、プロレスを観る",
     "ids": [
       "820060001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ボーノの恩返し",
     "ids": [
       "820060002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Bringing the Buono!",
@@ -17085,14 +17085,14 @@
     "ids": [
       "820003001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Hishiama Solution",
     "ids": [
       "820003002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Another Level",
@@ -17482,7 +17482,7 @@
     "ids": [
       "820006001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Training in Theory",
@@ -17491,14 +17491,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) A Precautionary Tale",
     "ids": [
       "830061001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Large Noodles, Extra Bold",
@@ -17507,35 +17507,35 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) What My Friends Gave Me",
     "ids": [
       "830061003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 実家業務において生じる諸問題について",
     "ids": [
       "830113001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 仮想空間を活用した認知の修正について",
     "ids": [
       "830113002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 幹事の特性が宴会に与える影響について",
     "ids": [
       "830113003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "A Realistic Fairytale",
@@ -17714,14 +17714,14 @@
     "ids": [
       "830010001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Lovely Concert Weather ♪",
     "ids": [
       "830010002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Lovely Racing Weather ♪",
@@ -17730,21 +17730,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) What Even Is Normal?",
     "ids": [
       "820037001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Clovers For You Too ♪",
     "ids": [
       "820037002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "This Shamrock Is My Oath",
@@ -18006,14 +18006,14 @@
     "ids": [
       "820001001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Out of This World",
     "ids": [
       "820001002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "What a Wonderful Stage!",
@@ -18386,28 +18386,28 @@
     "ids": [
       "820015001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Marvelously Marvelous ☆",
     "ids": [
       "820015002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Marvelous Guidance ☆",
     "ids": [
       "830074001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Dazzling and Marvelous ☆",
     "ids": [
       "830074002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Pure White Marvelousness ☆",
@@ -18416,49 +18416,49 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Marvelous☆Dive!",
     "ids": [
       "830089001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Marvelous☆School!",
     "ids": [
       "830089002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Marvelous☆Victory!",
     "ids": [
       "830089003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) マーベラス的異文化交流",
     "ids": [
       "830131001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) マーベラス無限チャージ☆",
     "ids": [
       "830131002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) マーベラス枯渇問題",
     "ids": [
       "830131003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "マーベラス☆ブルーミング",
@@ -18648,14 +18648,14 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Becoming a Prankster",
     "ids": [
       "830030002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Unique Running?",
@@ -18664,7 +18664,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) I'm Just Embarrassed",
@@ -18673,7 +18673,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) I Just Need Practice",
@@ -18682,14 +18682,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Just Another Way to Show Love",
     "ids": [
       "830103003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "A Step Beyond Ordinary",
@@ -18950,7 +18950,7 @@
     "ids": [
       "820016001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Guidance and Friends",
@@ -18959,7 +18959,7 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Mystery Fortune Ritual!",
@@ -18968,7 +18968,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Fortune Favors the Friends!",
@@ -18977,14 +18977,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Finding Miraculous Joy!",
     "ids": [
       "830078003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Room of the Chosen Ones",
@@ -19210,14 +19210,14 @@
     "ids": [
       "820007001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Take Off toward Trendy ♪",
     "ids": [
       "820007002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Just Because ♪",
@@ -19226,21 +19226,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Wonderful Weekend ♪",
     "ids": [
       "830072002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Special Gifts for a Special Day ♪",
     "ids": [
       "830072003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Maya's Thrilling ☆ Test of Courage",
@@ -19479,7 +19479,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 思い出のときめき 今も My Heartに",
@@ -19488,28 +19488,28 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) ずっと Zutto 輝いて Forever",
     "ids": [
       "830107003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) どきっ☆お泊まりトゥナイト！",
     "ids": [
       "820062001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ぶいっ！チョベリグを目指して！",
     "ids": [
       "820062002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Trendsetter",
@@ -19701,21 +19701,21 @@
     "ids": [
       "820008001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Invitation on a Stormy Day",
     "ids": [
       "820008002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Drawn In",
     "ids": [
       "830075001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Discovery",
@@ -19724,56 +19724,56 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Shadowing",
     "ids": [
       "830075003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 見えないものは、見なくてもいい",
     "ids": [
       "830110001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 大きなことは、大きくない",
     "ids": [
       "830110002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 解けないものは、解けないままでいい",
     "ids": [
       "830110003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 静寂に沈む",
     "ids": [
       "830157001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 温かな呼び声",
     "ids": [
       "830157002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 水面の向こうに",
     "ids": [
       "830157003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "At Long Last...",
@@ -19988,7 +19988,7 @@
     "ids": [
       "830097001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Thinking Freely",
@@ -19997,14 +19997,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Overwhelming Freedom",
     "ids": [
       "830097003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "『幸運のシンガー』を追って",
@@ -20250,28 +20250,28 @@
     "ids": [
       "820009001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) New Values Installed",
     "ids": [
       "820009002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) How to Make Friends: Research",
     "ids": [
       "830059001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) How to Make Friends: Investigation",
     "ids": [
       "830059002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) How to Make Friends: Implementation",
@@ -20280,49 +20280,49 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Status—Boring?",
     "ids": [
       "830066001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Status—As I Am",
     "ids": [
       "830066002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Status—Fun!",
     "ids": [
       "830066003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) タスクを再実行します。",
     "ids": [
       "830121001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 共通項は……？",
     "ids": [
       "830121002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) ファン感謝企画抽選会！",
     "ids": [
       "830121003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) ミッション『雷特訓』",
@@ -20331,21 +20331,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ミッション『友を応援』",
     "ids": [
       "830141002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 緊急ミッション『エネルギー注入』",
     "ids": [
       "830141003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Trail of Light",
@@ -20577,35 +20577,35 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) What I'm Looking For...",
     "ids": [
       "820017002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Doomsday for the Overlord?!",
     "ids": [
       "830079001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Coupon Gone Wrong",
     "ids": [
       "830079002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) New Recruit",
     "ids": [
       "830079003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Fierce Fight! A Spicy Match",
@@ -20992,56 +20992,56 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) The Place I Wish to Stand",
     "ids": [
       "820034002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 空想してみましょう",
     "ids": [
       "830119001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) きかせてあげましょう",
     "ids": [
       "830119002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 体験してみましょう",
     "ids": [
       "830119003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) いつもそこにいる優しさ",
     "ids": [
       "830234001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 笑顔の贈り物",
     "ids": [
       "830234002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 夜空、刹那に輝き",
     "ids": [
       "830234003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Faith in One Another",
@@ -21304,7 +21304,7 @@
     "ids": [
       "820018001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Don't Need to Be Seen",
@@ -21313,7 +21313,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) One Step Forward",
@@ -21322,21 +21322,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Two Steps Up",
     "ids": [
       "830041002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Three Steps Forward, Two Steps Back",
     "ids": [
       "830041003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "頼れる先輩",
@@ -21351,7 +21351,7 @@
     "ids": [
       "820057002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Mejiro Colors",
@@ -21609,14 +21609,14 @@
     "ids": [
       "830027001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Runaway Romance",
     "ids": [
       "830027002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Optimistic Escapism: Never Give Up!",
@@ -21625,42 +21625,42 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) お菓子を配るのが得意でさ",
     "ids": [
       "830115001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) それで満足なんだけど",
     "ids": [
       "830115002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 別の『味』も楽しみたいワケ",
     "ids": [
       "830115003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 気楽に、冷静に",
     "ids": [
       "830154001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ほどよく、コスパよく",
     "ids": [
       "830154002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) サイコーに、テンアゲで！！",
@@ -21669,7 +21669,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "A Precious Place",
@@ -21857,21 +21857,21 @@
     "ids": [
       "830087001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) I'll Go on Stage!",
     "ids": [
       "830087002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) I'll Win!",
     "ids": [
       "830087003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "The Blues Beneath the Green and White",
@@ -22099,35 +22099,35 @@
     "ids": [
       "830022001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Expectations Are Affection",
     "ids": [
       "830022002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Meeting Expectations",
     "ids": [
       "830022003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 優美なる花々を仰いで",
     "ids": [
       "830139001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) つぼみの記憶",
     "ids": [
       "830139002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 凜々しく、花開き",
@@ -22136,7 +22136,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Resolve and Duty",
@@ -22398,49 +22398,49 @@
     "ids": [
       "820010001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Carried by Cheers",
     "ids": [
       "820010002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Flustered Afternoon Tea!",
     "ids": [
       "830048001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Home Run Derby!",
     "ids": [
       "830048002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Indomitable Hearts on Fire!",
     "ids": [
       "830048003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) All Roads Lead to Gains!",
     "ids": [
       "820040001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Success Starts with Reps!",
     "ids": [
       "820040002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "My Signature Racewear",
@@ -22668,35 +22668,35 @@
     ],
     "check_position": 3,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 水晶越しに覗く",
     "ids": [
       "830134002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 金剛石を履き潰して",
     "ids": [
       "830134003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 全ては愛しいものがため",
     "ids": [
       "820083001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 愛は遍く",
     "ids": [
       "820083002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Firm and Plain, Yet Close to Virtue",
@@ -22717,14 +22717,14 @@
     "ids": [
       "830032001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Reasonable Diet vs. an Explosive Diet",
     "ids": [
       "830032002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Yaeno Muteki's Love Song Nightmare",
@@ -22733,7 +22733,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 一、己を見つめ",
@@ -22742,7 +22742,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 二、為すべきを定め",
@@ -22751,14 +22751,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 三、魅せるは闘志",
     "ids": [
       "830120003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "The Weight of Recognition",
@@ -22962,14 +22962,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 味わい深く香る風",
     "ids": [
       "830126002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) いつか見た夢を",
@@ -22978,7 +22978,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "紅玉の風を追って",
@@ -23130,56 +23130,56 @@
     "ids": [
       "820011001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Natural City Girl",
     "ids": [
       "820011002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Cozy Memories of Wanko Soba",
     "ids": [
       "830031001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) The Class Rep's Intense Crash Course",
     "ids": [
       "830031002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) I Wanna Win!",
     "ids": [
       "830031003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) A Help'n Hand!",
     "ids": [
       "830070001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Plain Ol' Charm",
     "ids": [
       "830070002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Star of the Show",
     "ids": [
       "830070003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "ふるさと、想えば",
@@ -23386,63 +23386,63 @@
     "ids": [
       "830023001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Page from a Day Spent with Friends",
     "ids": [
       "830023002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) A Page from a Day of Hard Work",
     "ids": [
       "830023003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Rainy Day, Floating Flowers",
     "ids": [
       "830034001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Magical Flowers, Forever Fair",
     "ids": [
       "830034002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) A Bouquet Fluttering in the Sun",
     "ids": [
       "830034003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Forever a Child in Our Eyes",
     "ids": [
       "830100001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) They Grow Up So Fast",
     "ids": [
       "830100002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Hearts Full of Bittersweet Joy",
     "ids": [
       "830100003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Am I Enough?",
@@ -23824,28 +23824,28 @@
     "ids": [
       "809006005"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) A Change of Pace",
     "ids": [
       "809006006"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Picture Their Joy",
     "ids": [
       "809006007"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯❯) Confused by Kindness",
     "ids": [
       "809006008"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "A Priceless Connection",
@@ -23875,7 +23875,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "ちゃっかりリサーチ♪",
@@ -23896,35 +23896,35 @@
     "ids": [
       "809008005"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ティコの輝き",
     "ids": [
       "809008006"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) レゴリスで隠して",
     "ids": [
       "809008007"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯❯) ホイヘンス山、越えし君",
     "ids": [
       "809008008"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯❯❯) 虹の入り江にて",
     "ids": [
       "830052001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "ハローとの絆・きょうはぶれいこー",
@@ -24278,7 +24278,7 @@
     "ids": [
       "809004005"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) How I Play at the Park",
@@ -24287,21 +24287,21 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Reckless Training",
     "ids": [
       "809004007"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯❯) The Joy of Respect",
     "ids": [
       "809004008"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯❯❯) Chasing Dreams",
@@ -24310,7 +24310,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "My Chosen Way of Life",
@@ -24338,28 +24338,28 @@
     "ids": [
       "809001005"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Inexplicable Speed",
     "ids": [
       "809001006"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Memories of Cinema",
     "ids": [
       "809001007"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯❯) A Sigh and a Bandage",
     "ids": [
       "809001008"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯❯❯) A Surprise Breather",
@@ -24368,7 +24368,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "From Just a Little Closer",
@@ -24443,7 +24443,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Storied ☆ Sunglasses",
@@ -24452,7 +24452,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Healing Hot Spring Holiday ☆",
@@ -24494,7 +24494,7 @@
       2
     ],
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "The Little Marvelous Match Girl",
@@ -24960,14 +24960,14 @@
     "ids": [
       "830151001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ワクワク！デートプランニング",
     "ids": [
       "830151002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 最高のデートの作り方",
@@ -24976,7 +24976,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "開運☆あなたもハッピー",
@@ -24997,14 +24997,14 @@
     "ids": [
       "820064001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) トレセン学園が滅ぶ！？",
     "ids": [
       "820064002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "葛城栄主",
@@ -25308,28 +25308,28 @@
     "ids": [
       "830156001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 指先に想い込めて",
     "ids": [
       "830156002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) あたしができること、全部",
     "ids": [
       "830156003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) グラスさんの大好物",
     "ids": [
       "820065001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 蒲公英に秘めた想い",
@@ -25338,7 +25338,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "サッカーしよう！",
@@ -25380,28 +25380,28 @@
     "ids": [
       "809043005"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 克服は近い未来に？",
     "ids": [
       "809043006"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 縁がいずれ行きつくは",
     "ids": [
       "809043007"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯❯) 憧憬は始まりの地に",
     "ids": [
       "809043008"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯❯❯) 結ぶは、星空の誓い",
@@ -25410,7 +25410,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "祝杯の前払い",
@@ -25440,14 +25440,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) いつか頂点に立つために！",
     "ids": [
       "830161002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 世界への飛翔",
@@ -25459,7 +25459,7 @@
       2
     ],
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "朝焼けの色",
@@ -25580,21 +25580,21 @@
     "ids": [
       "830162001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 淡い灯に感謝を",
     "ids": [
       "830162002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 空の下で伝えましょう",
     "ids": [
       "830162003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 勝負師にはまだ早い",
@@ -25603,7 +25603,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 『生』の条件",
@@ -25612,7 +25612,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 欲しいものは、1つ",
@@ -25621,21 +25621,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 魔法の力、求める先は",
     "ids": [
       "820066001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) あなたの言葉、魔法の言葉",
     "ids": [
       "820066002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "正反対の似た者同士",
@@ -25741,56 +25741,56 @@
     "ids": [
       "830164001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) タイマンの原風景",
     "ids": [
       "830164002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 戦友と書いて『マブダチ』と読む",
     "ids": [
       "830164003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 甘えてもいいデスカ？",
     "ids": [
       "820067001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 甘えてもいいんデスヨ？",
     "ids": [
       "820067002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) デカメロンの神託",
     "ids": [
       "830165001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 破壊と再生のフォースタス",
     "ids": [
       "830165002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 顕現せし我がユートピア",
     "ids": [
       "830165003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "いざ守らん、Precious Venue",
@@ -25813,21 +25813,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Crisis!　はちみーのお店",
     "ids": [
       "830166002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) See Ya!　夢追う友人",
     "ids": [
       "830166003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Where is my mission?",
@@ -25855,35 +25855,35 @@
     "ids": [
       "830167001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Psychicは何を見る？",
     "ids": [
       "830167002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) キミは私のPsychic",
     "ids": [
       "830167003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 毎日がラストラン",
     "ids": [
       "830168001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 悔いのない生き方",
     "ids": [
       "830168002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 未来の向こう岸",
@@ -25892,21 +25892,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) いつものネイチャは？ばいばいちゃ～♪",
     "ids": [
       "820068001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ピンチも笑顔で！ばいばいちゃ～♪",
     "ids": [
       "820068002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "愛は炎に似ている",
@@ -26053,35 +26053,35 @@
     "ids": [
       "830170001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) キングの流儀／ドレスアップ編",
     "ids": [
       "830170002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) キングの流儀／相伝編",
     "ids": [
       "830170003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 過去からの忘れ物",
     "ids": [
       "830169001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 今に繋げて",
     "ids": [
       "830169002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 未来は私がつくります！",
@@ -26090,42 +26090,42 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 先輩がんばる！",
     "ids": [
       "830171001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 修行がんばる！",
     "ids": [
       "830171002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 後輩がんばれ！",
     "ids": [
       "830171003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 直球、投げ抜く勇気",
     "ids": [
       "830172001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) エンジョイ・ベースボール！",
     "ids": [
       "830172002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 白球にエール乗せて",
@@ -26134,21 +26134,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 占い屋新装開店！！",
     "ids": [
       "820069001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 地球最後の日！……か？",
     "ids": [
       "820069002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "突発アンサンブル",
@@ -26169,21 +26169,21 @@
     "ids": [
       "830173001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) クインディチェージマからローコ…でも",
     "ids": [
       "830173002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) いずれグランディオーソなセッションへ",
     "ids": [
       "830173003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "女王様の意外な一面",
@@ -26204,49 +26204,49 @@
     "ids": [
       "830205001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) デカめのファイルをzip形式で",
     "ids": [
       "830205002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) その一輪、凜と咲く",
     "ids": [
       "830205003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 長姉とあまあま三女",
     "ids": [
       "820070001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 長姉と素直になれない次女",
     "ids": [
       "820070002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 言えない言葉",
     "ids": [
       "830174001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 隠しきれぬ牙",
     "ids": [
       "830174003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 虚ろなる灰簾石",
@@ -26255,42 +26255,42 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 不香の花に燃ゆ",
     "ids": [
       "830175002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 恍惚の色彩",
     "ids": [
       "830175003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) あたしとあなたの距離",
     "ids": [
       "830176001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) あたしでも",
     "ids": [
       "830176002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 一歩ずつ、あなたとの距離を",
     "ids": [
       "830176003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "背負い、背負われ",
@@ -26390,42 +26390,42 @@
     "ids": [
       "830177001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 野球！みんなでやろうよ！",
     "ids": [
       "830177002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 絶対！ときめきパワー！",
     "ids": [
       "830177003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) ヴィブ・ラ・フランス♪",
     "ids": [
       "830206001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) スキップを止めないで",
     "ids": [
       "830206002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 夢見る私の手を取って",
     "ids": [
       "830206003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "いつの間にかあまーい時間♪",
@@ -26446,14 +26446,14 @@
     "ids": [
       "820071001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 再試行＆再検証！",
     "ids": [
       "820071002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "最強のセルフプロデュース",
@@ -26609,21 +26609,21 @@
     "ids": [
       "830179001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) シリマナイトの渚",
     "ids": [
       "830179002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) カルセドニーが輝く",
     "ids": [
       "830179003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "流すべきこの汗",
@@ -26644,14 +26644,14 @@
     "ids": [
       "830178001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Vol.2 『脈々と』",
     "ids": [
       "830178002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Vol.3 『その名はドゥラメンテ』",
@@ -26660,7 +26660,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "お助け王子、なっちゃいます！",
@@ -26688,21 +26688,21 @@
     "ids": [
       "830181001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 発動！ターボのちょーのーりょく！",
     "ids": [
       "830181002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) みんなで！いっしょに校内放送！",
     "ids": [
       "830181003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "頑張ったあとのお楽しみ",
@@ -26807,14 +26807,14 @@
     "ids": [
       "830182001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 学べロコドル！！",
     "ids": [
       "830182002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 進めロコドル！！",
@@ -26823,7 +26823,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "今はまだおとぎ話",
@@ -26931,49 +26931,49 @@
     "ids": [
       "820072001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 迷える子羊に捧ぐ祝杯",
     "ids": [
       "820072002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) ぶっ飛べ！空き缶と学級委員長！！",
     "ids": [
       "830184001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ちがう2人で、いっしょの1日",
     "ids": [
       "830184002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 飛び越えたい、隣の貴方",
     "ids": [
       "830184003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 完売！？思い出の味！！",
     "ids": [
       "830183001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 完敗！？全力クッキング！！",
     "ids": [
       "830183002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 完成！！世界で1つのスイーツ！！",
@@ -26982,7 +26982,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "わたしをデコレート",
@@ -27003,21 +27003,21 @@
     "ids": [
       "830185001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) なくしてしまった楽しさ",
     "ids": [
       "830185002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 忘れていた輝き",
     "ids": [
       "830185003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "都会で『おあげんしぇ』！",
@@ -27195,7 +27195,7 @@
     "ids": [
       "809044008"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "涼花との絆・彼女の『強み』",
@@ -27209,21 +27209,21 @@
     "ids": [
       "809044005"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 『貴方のおっしゃる通りでした』",
     "ids": [
       "809044006"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 貴方の胸にも灯を",
     "ids": [
       "809044007"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯❯❯) その働きに敬意を",
@@ -27232,7 +27232,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 王の気稟",
@@ -27244,14 +27244,14 @@
       2
     ],
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 王の下知",
     "ids": [
       "830187002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 王の天資",
@@ -27260,7 +27260,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "忙しいは楽しい！",
@@ -27363,21 +27363,21 @@
     "ids": [
       "830186001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 強き器に気高き華",
     "ids": [
       "830186002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 強き器に『心技脚』あり",
     "ids": [
       "830186003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "集い、あるいは分かれる道",
@@ -27662,14 +27662,14 @@
     "ids": [
       "820073001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) えらすぎ賞あげてーんだが",
     "ids": [
       "820073002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 燃える心と、心強さと",
@@ -27678,14 +27678,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 萌ゆる心を忍ぶれど",
     "ids": [
       "820074002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "そこに、マシンがあるから",
@@ -27815,14 +27815,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Sloppy Captain",
     "ids": [
       "820075002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "ティアラの輝きは燦然と",
@@ -27952,7 +27952,7 @@
     "ids": [
       "830193001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) しんけん・クッキング",
@@ -27961,7 +27961,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) ひたむき・トレーニング",
@@ -27970,7 +27970,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "ワクワクでキラキラな夢",
@@ -27991,21 +27991,21 @@
     "ids": [
       "830194001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 花冠に懸ける夢",
     "ids": [
       "830194002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) もう1度！何度でも！",
     "ids": [
       "830194003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "リベンジパーリナイ！",
@@ -28054,63 +28054,63 @@
     "ids": [
       "830195001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 『ごめんね』",
     "ids": [
       "830195002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 『どういたしまして！』",
     "ids": [
       "830195003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 憧憬の風",
     "ids": [
       "830196001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 本音を聞かせて",
     "ids": [
       "830196002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) あなたの止まり木",
     "ids": [
       "830196003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) じっとしてるなんて……無理っス！",
     "ids": [
       "830197001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 『みんな』でファイヤー！っス！",
     "ids": [
       "830197002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) アンタに足りないのはコレっス！！",
     "ids": [
       "830197003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "手加減無用っ！！",
@@ -28157,14 +28157,14 @@
     "ids": [
       "830198001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) “TAMA”探索ミッション",
     "ids": [
       "830198002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 大豆は宇宙",
@@ -28173,21 +28173,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) well-behavedの変化",
     "ids": [
       "820076001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ill-behavedの感化",
     "ids": [
       "820076002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "ペダンティストの流儀",
@@ -28329,14 +28329,14 @@
     "ids": [
       "830199001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 無意識の特技……？",
     "ids": [
       "830199002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) やっぱり普通だ！",
@@ -28345,14 +28345,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 1人でだって",
     "ids": [
       "830201001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 周りに目を向けて",
@@ -28361,14 +28361,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 助ける番",
     "ids": [
       "830201003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "甘味争奪合戦之巻",
@@ -28389,21 +28389,21 @@
     "ids": [
       "830200001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) うっかりショーグン、撃沈！",
     "ids": [
       "830200002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) これぞ天下の大将軍！",
     "ids": [
       "830200003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "いいこいいこを貴方に",
@@ -28488,21 +28488,21 @@
     "ids": [
       "830202001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 俺のノーティ・キッズ",
     "ids": [
       "830202002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 俺なりにストレート！！",
     "ids": [
       "830202003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "いつものわたしは",
@@ -28523,14 +28523,14 @@
     "ids": [
       "820077001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) すべすべ。ぷにぷに。",
     "ids": [
       "820077002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "心まで輝かせて",
@@ -28635,84 +28635,84 @@
     "ids": [
       "830190001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) そして2人はア・ポコ・ア・ポコ",
     "ids": [
       "830190002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) リヴァーレだからこそ",
     "ids": [
       "830190003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) めくるめくミルテの花",
     "ids": [
       "830191001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 愛を込めて、乾杯の歌を",
     "ids": [
       "830191002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) そして私は、君を愛す",
     "ids": [
       "830191003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) お姉ちゃんにもご褒美を",
     "ids": [
       "830192001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) この気持ち、受け取って？",
     "ids": [
       "830192002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 言わなくても伝わっちゃうの♪",
     "ids": [
       "830192003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 新月は満ちる",
     "ids": [
       "830203001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 時雨のように",
     "ids": [
       "830203002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 代演者はいらない",
     "ids": [
       "830203003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "俺の勝負服【トップク】！",
@@ -28819,14 +28819,14 @@
     "ids": [
       "830208001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) よすがを探して",
     "ids": [
       "830208002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 憧れに手をのべて",
@@ -28838,35 +28838,35 @@
       2
     ],
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 提案ッ！まずはご褒美を！",
     "ids": [
       "809002005"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 堪能ッ！もふもふモーモー！",
     "ids": [
       "809002006"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 記憶ッ！蘇るはあの日のこと",
     "ids": [
       "809002007"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯❯) 邂逅ッ！同じ空の下で",
     "ids": [
       "809002008"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯❯❯) 展望ッ！これからのわたしと君と",
@@ -28875,7 +28875,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "激励ッ！そのまま進め！",
@@ -29037,35 +29037,35 @@
     "ids": [
       "830209001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) わたしの苦手なこと！",
     "ids": [
       "830209002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) （わたしの大切なこと）",
     "ids": [
       "830209003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) これぞ、思し召し？",
     "ids": [
       "820078001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) これぞ、大吉なのですっ！",
     "ids": [
       "820078002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "直線番長の名のもとに",
@@ -29188,28 +29188,28 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 陰陽四象、陽の陽",
     "ids": [
       "830211002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 五行相剋・大ピンチ？",
     "ids": [
       "830211003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 願うごとに☆",
     "ids": [
       "830210001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) どんな時だってウマドル☆",
@@ -29218,7 +29218,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 幸運のウマドル☆",
@@ -29227,56 +29227,56 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) AIマスター・アキュート",
     "ids": [
       "830212001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) チャンプへの道",
     "ids": [
       "830212002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 困ったときはお互い様",
     "ids": [
       "830212003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 耕せ！デリシャス・フィールド！",
     "ids": [
       "820036001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 弾けろ！感謝のバーベキュー",
     "ids": [
       "820036002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) この一撃は我が決意",
     "ids": [
       "830214001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) この眼差しは我が切望",
     "ids": [
       "830214002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 全て、我が愛のため",
@@ -29285,28 +29285,28 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 月下のヴァンパイア",
     "ids": [
       "830215001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 渇きのヴァンパイア",
     "ids": [
       "830215002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 魔女とヴァンパイア",
     "ids": [
       "830215003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "朧の夢",
@@ -29327,21 +29327,21 @@
     "ids": [
       "830216001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ピュアな心で、フェア準備！",
     "ids": [
       "830216002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) いざ開幕！グルメフェアinレース場",
     "ids": [
       "830216003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "ときめく彼女",
@@ -29362,14 +29362,14 @@
     "ids": [
       "820079001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 轟け世界にマーベラス☆",
     "ids": [
       "820079002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "赤",
@@ -29533,84 +29533,84 @@
     "ids": [
       "830218001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 積極トーキング、デス！",
     "ids": [
       "830218002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 前向きシンキング、デス！",
     "ids": [
       "830218003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Complete the mission",
     "ids": [
       "830220001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Reciprocate Your Dreams",
     "ids": [
       "830220002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) For You",
     "ids": [
       "830220003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) Etude",
     "ids": [
       "830219001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) Premiere",
     "ids": [
       "830219002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Remake",
     "ids": [
       "830219003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) ハチャメチャに、ウマ娘！",
     "ids": [
       "830213001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ハチャメチャに、元気なボクがいい！",
     "ids": [
       "830213002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) ハチャメチャに、――面白いんだから！",
     "ids": [
       "830213003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "戦う者",
@@ -29750,35 +29750,35 @@
     "ids": [
       "830222001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) プライドと根性",
     "ids": [
       "830222002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) メンツの問題",
     "ids": [
       "830222003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 同室からの贈り物",
     "ids": [
       "820080001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) サクラの想いは重なって",
     "ids": [
       "820080002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "騎士たる矜持ここにあり",
@@ -29915,21 +29915,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 『希求』",
     "ids": [
       "830224002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 『共鳴』",
     "ids": [
       "830224003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "ハロウィンの楽しみ方♪",
@@ -29957,42 +29957,42 @@
     "ids": [
       "830225001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 七転び八起き六昆布",
     "ids": [
       "830225002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 伝説再臨",
     "ids": [
       "830225003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 姉御は怯まず",
     "ids": [
       "830223001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 姉御はこだわらず",
     "ids": [
       "830223002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) ただ力で喰らいあう",
     "ids": [
       "830223003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "元気の源を詰め込んで",
@@ -30120,35 +30120,35 @@
     "ids": [
       "830228001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) The Best Partner",
     "ids": [
       "830228002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) WOTAGEI",
     "ids": [
       "830228003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 大切を見つけて",
     "ids": [
       "820081001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) しっかりとちゃっかりと",
     "ids": [
       "820081002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "繊細な猫",
@@ -30288,7 +30288,7 @@
     "ids": [
       "830229001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 伝えたい！ゼッタイ！広めてみたい！",
@@ -30297,14 +30297,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 隠れたい！ゼッタイ！忍んでいたい！",
     "ids": [
       "830229003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 探求・辛ウマの極意！",
@@ -30313,14 +30313,14 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) これぞはなむけ、ウマ景色",
     "ids": [
       "830230002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 栄光は唐辛子を添えて",
@@ -30329,7 +30329,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "舞台に咲く深紅の華",
@@ -30444,21 +30444,21 @@
     "ids": [
       "830232001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 試される咬合力……！？",
     "ids": [
       "830232002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 違いがあるのは、すっごく楽しい！",
     "ids": [
       "830232003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "レッツトライ！",
@@ -30479,14 +30479,14 @@
     "ids": [
       "820082001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 揺るがぬ矜持",
     "ids": [
       "820082002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "その禍を直さむと",
@@ -30753,14 +30753,14 @@
     "ids": [
       "830242001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) アイは貪欲",
     "ids": [
       "830242002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 果てしなきアーモンドアイ",
@@ -30772,7 +30772,7 @@
       2
     ],
     "pattern": "odd_good",
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "マイ・オウン・ウェイ、です！",
@@ -30793,35 +30793,35 @@
     "ids": [
       "830243001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 見たことのない頂へ！",
     "ids": [
       "830243002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 一番強いのは！",
     "ids": [
       "830243003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) パフェの誘惑",
     "ids": [
       "820085001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 愛の激励！",
     "ids": [
       "820085002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "ほな、気張っていこか（A面）",
@@ -30842,14 +30842,14 @@
     "ids": [
       "820084001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) どうすんねん！？どうにかすんねん！",
     "ids": [
       "820084002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "王の覇道、王への忠勤",
@@ -31052,21 +31052,21 @@
     "ids": [
       "830244001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) お話ランチ",
     "ids": [
       "820086001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 学園見学で……",
     "ids": [
       "820086002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "纏うは野心、備うるは覚悟",
@@ -31167,21 +31167,21 @@
     "ids": [
       "830245001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 魂に憩いもたらす賛歌よ",
     "ids": [
       "830245002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 見せつけよ暗き眩き閃光を",
     "ids": [
       "830245003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "親切丁寧で思慮深く",
@@ -31202,21 +31202,21 @@
     "ids": [
       "830246001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) それはただただ咲き誇る",
     "ids": [
       "830246002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) そして今日も花が咲く",
     "ids": [
       "830246003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Parley!",
@@ -31312,21 +31312,21 @@
     "ids": [
       "830248001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 母なる大地の教え",
     "ids": [
       "830248002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) Innocent Wildflower",
     "ids": [
       "830248003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Queen's Heart",
@@ -31347,14 +31347,14 @@
     "ids": [
       "820087001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) いつだってEnjoy!",
     "ids": [
       "820087002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "その足が世界を踏みしめるのならば",
@@ -31538,42 +31538,42 @@
     "ids": [
       "830250001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 以心伝心……？",
     "ids": [
       "830250002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 優しさのおすそ分け",
     "ids": [
       "830250003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 優しさは陰より出でて",
     "ids": [
       "830249001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) すれ違いに効く潤滑油",
     "ids": [
       "830249002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 感謝困惑雨あられ",
     "ids": [
       "830249003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "未知への潜入",
@@ -31594,21 +31594,21 @@
     "ids": [
       "830260001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) グレイな釣り日和",
     "ids": [
       "830260002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) グレイなカラオケ大会",
     "ids": [
       "830260003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "見守る視線の先で",
@@ -31695,21 +31695,21 @@
     "ids": [
       "830252001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 走って、私に似た――",
     "ids": [
       "830252002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 走って、私と、走って",
     "ids": [
       "830252003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "争いの種は咲かせない",
@@ -31730,14 +31730,14 @@
     "ids": [
       "820088001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 花開くときを待つ",
     "ids": [
       "820088002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "その身に愛を纏って",
@@ -31871,42 +31871,42 @@
     "ids": [
       "830253001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 大人になるための魔法",
     "ids": [
       "830253002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 拝啓、お父さん",
     "ids": [
       "830253003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) バスがなければ脚を使えばいいじゃない",
     "ids": [
       "830254001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 彼方の栄冠へ",
     "ids": [
       "830254002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) ハートを懸けた対決",
     "ids": [
       "830254003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "大いなる一歩",
@@ -31986,35 +31986,35 @@
     "ids": [
       "809049011"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 理想のままに",
     "ids": [
       "809049012"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 言わなくていいこと",
     "ids": [
       "809049013"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯❯) 酔えど秘めごと",
     "ids": [
       "809049014"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯❯❯) 叫べ！響け！",
     "ids": [
       "809049015"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "本能的トレーニング",
@@ -32064,21 +32064,21 @@
     "ids": [
       "830256001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 誰かの道を照らすなら",
     "ids": [
       "830256002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 遠くで光るその走り",
     "ids": [
       "830256003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "無人島ハプニング！",
@@ -32117,21 +32117,21 @@
     "ids": [
       "830258001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯) 胸きゅん！小さな憧れはいつまでも",
     "ids": [
       "820089001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) タッグ結成！今、手を取り合って！",
     "ids": [
       "820089002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "裏方シフトチェンジ",
@@ -32169,7 +32169,7 @@
     "ids": [
       "400000090"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "最高のイケイケスポット",
@@ -32684,7 +32684,7 @@
       "501024724",
       "501021734"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Report: Uncertain Promises",
@@ -34085,7 +34085,7 @@
     "ids": [
       "830174002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "その瞳には、",
@@ -34323,21 +34323,21 @@
     "ids": [
       "830189001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 2人だけの輝き",
     "ids": [
       "830189002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 夢で共に輝いて",
     "ids": [
       "830189003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "体は最小、勇気は最大！",
@@ -35110,21 +35110,21 @@
     "ids": [
       "830217001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) シーザリオのお弁当",
     "ids": [
       "830217002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 導く者たちの休日",
     "ids": [
       "830217003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "オンステージ",
@@ -35320,21 +35320,21 @@
     "ids": [
       "830231001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 覇王に退却はない",
     "ids": [
       "830231002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 太陽の役割",
     "ids": [
       "830231003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "不屈のプリンシパル",
@@ -35452,21 +35452,21 @@
     "ids": [
       "830235001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) ナイショの横顔",
     "ids": [
       "830235002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) アコガレの背中",
     "ids": [
       "830235003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "不動の愛、不動の春",
@@ -35529,21 +35529,21 @@
     "ids": [
       "830239001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 友だちはどこに？",
     "ids": [
       "830239002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) みんなのネイチャとは",
     "ids": [
       "830239003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "たとえ錦がなくとも",
@@ -35894,21 +35894,21 @@
     "ids": [
       "830247001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 愛おしきMemories",
     "ids": [
       "830247002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 忘れじのPhotograph",
     "ids": [
       "830247003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "CASE.　希望",
@@ -35992,21 +35992,21 @@
     "ids": [
       "830251001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) 全力出せ！コラァ！！",
     "ids": [
       "830251002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 別に嬉しくなんかねーし！！",
     "ids": [
       "830251003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "Superb Sisters",
@@ -36230,21 +36230,21 @@
     "ids": [
       "830255001"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯) いつしか変わる、愛情へ",
     "ids": [
       "830255002"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "(❯❯❯) 愛情がもたらす決断",
     "ids": [
       "830255003"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   },
   {
     "event_name": "贈り贈られ、親子の絆",
@@ -36363,6 +36363,6 @@
     "ids": [
       "400006043"
     ],
-    "notes": "aggressive match - verify"
+    "notes": ""
   }
 ]
