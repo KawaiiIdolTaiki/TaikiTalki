@@ -40,7 +40,7 @@ python taikitalki.py
 python dumper.py
 ```
 
-dont close any of the terminals(this goes without saying)
+dont close the terminals(this goes without saying)
 
 ---
 
