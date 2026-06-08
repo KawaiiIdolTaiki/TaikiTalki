@@ -12,22 +12,22 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 # ─────────────────────────────────────────────────────────────────
-#  CONFIG  — edit these to match your setup      # i hardcorde my own setup gl to everyone else :smile
+#  CONFIG  — edit these to match your setup
 # ─────────────────────────────────────────────────────────────────
 
 PORT         = 8071
 
-# Line 21 — must match your page <title> tag exactly
+# Must match your page <title> tag exactly
 WINDOW_TITLE = "TaikiTalki"
 
-# Line 24 — path to your Firefox executable      # dont ask for different browser
+# Path to your Firefox executable
 BROWSER_PATH = r"C:\Program Files\Mozilla Firefox\firefox.exe"
 
-# Lines 27-30 — window size and position (pixels)
+# Window size and position (pixels)
 WIN_WIDTH    = 420
 WIN_HEIGHT   = 187
 WIN_X        = 1500    # distance from left edge of screen
-WIN_Y        = 900    # distance from top edge of screen
+WIN_Y        = 900     # distance from top edge of screen
 
 # ─────────────────────────────────────────────────────────────────
 #  PATHS
@@ -45,11 +45,15 @@ EVENTS_FILE = os.path.join(BASE_DIR, "events.json")
 def load_events():
     try:
         with open(EVENTS_FILE, "r", encoding="utf-8") as f:
-            db = json.load(f)
-            print(f"[OK] Loaded {len(db)} events from events.json")
-            return db
+            entries = json.load(f)
+        lookup = {}
+        for entry in entries:
+            for sid in entry.get("ids", []):
+                lookup[str(sid)] = entry
+        print(f"[OK] Loaded {len(entries)} events ({len(lookup)} IDs) from events.json")
+        return lookup
     except FileNotFoundError:
-        print("[WARN] events.json not found - starting with empty database")
+        print("[WARN] events.json not found")
         return {}
 
 events_db = load_events()
@@ -76,24 +80,18 @@ def broadcast(data: dict):
 #  FILE HELPERS
 # ─────────────────────────────────────────────────────────────────
 
-def get_two_newest_files():
+def get_newest_response_file():
     try:
         files = [
             os.path.join(DUMPS_DIR, f)
             for f in os.listdir(DUMPS_DIR)
-            if f.endswith(".json")
+            if f.endswith("_response.json")
         ]
-        files.sort(key=os.path.getmtime, reverse=True)
-        return files[:2]
+        if not files:
+            return None
+        return max(files, key=os.path.getmtime)
     except Exception:
-        return []
-
-def pick_response_file(files):
-    if not files:
         return None
-    if len(files) == 1:
-        return files[0]
-    return max(files, key=os.path.getsize)
 
 def find_key(obj, key):
     if isinstance(obj, dict):
@@ -109,6 +107,26 @@ def find_key(obj, key):
             if result is not None:
                 return result
     return None
+
+
+# ─────────────────────────────────────────────────────────────────
+#  PATTERN RESOLVER
+# ─────────────────────────────────────────────────────────────────
+
+PATTERNS = {
+    "odd_good":  lambda v: "good" if v % 2 == 1 else "bad",
+    "even_good": lambda v: "good" if v % 2 == 0 else "bad",
+    "top_good":  lambda v: "good" if v <= 2 else "bad",
+    "top_bad":   lambda v: "bad"  if v <= 2 else "good",
+}
+
+def resolve_outcome(pattern, found_value, outcomes=None):
+    if found_value is None:
+        return None
+    if pattern == "manual":
+        return outcomes.get(str(found_value)) if outcomes else None
+    fn = PATTERNS.get(pattern)
+    return fn(found_value) if fn else None
 
 
 # ─────────────────────────────────────────────────────────────────
@@ -139,33 +157,39 @@ def process_file(filepath: str):
 
     print(f"[EVENT] story_id={story_id}  slot_values={slot_values}")
 
-    db_entry = events_db.get(story_id)
+    db_entry    = events_db.get(story_id)
+    is_gambling = db_entry and "check_position" in db_entry and "pattern" in db_entry
 
-    if db_entry:
-        check_pos       = db_entry.get("check_position")
-        outcomes        = db_entry.get("outcomes", {})
-        found_value     = slot_values.get(check_pos)
-        found_value_str = str(found_value) if found_value is not None else None
-        result          = outcomes.get(found_value_str)
+    if is_gambling:
+        pattern   = db_entry.get("pattern")
+        check_pos = db_entry.get("check_position")
+        # normalize to list so single int and list both work
+        check_positions = [check_pos] if isinstance(check_pos, int) else check_pos
 
-        print(f"[EVENT] check_pos={check_pos}  value={found_value}  result={result}")
-
+        position_results = {
+            pos: resolve_outcome(pattern, slot_values.get(pos), db_entry.get("outcomes"))
+            for pos in check_positions
+        }
         broadcast({
-            "status":      "found",
-            "story_id":    story_id,
-            "event_name":  db_entry.get("event_name", f"Event {story_id}"),
-            "check_pos":   check_pos,
-            "found_value": found_value,
-            "result":      result,
-            "outcomes":    outcomes,
-            "slot_values": slot_values,
-            "notes":       db_entry.get("notes", ""),
+            "status":           "gambling",
+            "story_id":         story_id,
+            "event_name":       db_entry.get("event_name", f"Event {story_id}"),
+            "check_positions":  check_positions,
+            "position_results": position_results,
+            "slot_values":      slot_values,
+            "notes":            db_entry.get("notes", ""),
+        })
+    elif db_entry:
+        broadcast({
+            "status":     "known",
+            "story_id":   story_id,
+            "event_name": db_entry.get("event_name", f"Event {story_id}"),
+            "notes":      db_entry.get("notes", ""),
         })
     else:
         broadcast({
-            "status":      "unknown",
-            "story_id":    story_id,
-            "slot_values": slot_values,
+            "status":   "unknown",
+            "story_id": story_id,
         })
 
 
@@ -175,28 +199,18 @@ def process_file(filepath: str):
 
 class DumpWatcher(FileSystemEventHandler):
     def on_created(self, event):
-        if event.is_directory or not event.src_path.endswith(".json"):
+        if event.is_directory or not event.src_path.endswith("_response.json"):
             return
         time.sleep(0.05)
-        files = get_two_newest_files()
-        response_file = pick_response_file(files)
-        if response_file:
-            process_file(response_file)
+        process_file(event.src_path)
 
 
 # ─────────────────────────────────────────────────────────────────
-#  ALWAYS ON TOP 
+#  ALWAYS ON TOP
 #  Uses Windows API via ctypes to pin the Firefox window.
-#  This is the only reliable always-on-top method — browser JS
-#  cannot do this on its own.
 # ─────────────────────────────────────────────────────────────────
 
-def set_firefox_topmost(enable: bool) -> bool:  
-    """
-    Finds all visible Firefox windows by title and sets or clears
-    the HWND_TOPMOST flag using SetWindowPos.
-    Returns True if at least one window was found.
-    """
+def set_firefox_topmost(enable: bool) -> bool:
     try:
         user32         = ctypes.windll.user32
         HWND_TOPMOST   = ctypes.wintypes.HWND(-1)
@@ -207,7 +221,6 @@ def set_firefox_topmost(enable: bool) -> bool:
 
         found_handles = []
 
-        # EnumWindows callback — must be defined as a C-callable
         CallbackType = ctypes.WINFUNCTYPE(
             ctypes.c_bool,
             ctypes.wintypes.HWND,
@@ -221,12 +234,10 @@ def set_firefox_topmost(enable: bool) -> bool:
                     title_buf = ctypes.create_unicode_buffer(title_len + 1)
                     user32.GetWindowTextW(hwnd, title_buf, title_len + 1)
                     title = title_buf.value
-                    # Only target the tool window by its exact page title
                     if title.startswith(WINDOW_TITLE):
                         print(f"[AOT] Targeting: '{title}'")
                         found_handles.append(hwnd)
             return True
-
 
         cb = CallbackType(_enum_callback)
         user32.EnumWindows(cb, 0)
@@ -245,12 +256,10 @@ def set_firefox_topmost(enable: bool) -> bool:
 
 
 # ─────────────────────────────────────────────────────────────────
-#  BROWSER LAUNCHER 
-#  Opens /launch which uses window.open() to create a correctly
-#  sized and positioned popup, then closes itself.
+#  BROWSER LAUNCHER
 # ─────────────────────────────────────────────────────────────────
 
-def open_browser():                                
+def open_browser():
     try:
         url = f"http://localhost:{PORT}/launch"
         subprocess.Popen([BROWSER_PATH, "--new-window", url])
@@ -263,6 +272,22 @@ def open_browser():
 
 
 # ─────────────────────────────────────────────────────────────────
+#  CLEAR DUMPS
+# ─────────────────────────────────────────────────────────────────
+
+def clear_dumps():
+    cleared = 0
+    for f in os.listdir(DUMPS_DIR):
+        if f.endswith(".json"):
+            try:
+                os.remove(os.path.join(DUMPS_DIR, f))
+                cleared += 1
+            except Exception as e:
+                print(f"[WARN] Could not delete {f}: {e}")
+    print(f"[OK] Cleared {cleared} files from dumps folder")
+
+
+# ─────────────────────────────────────────────────────────────────
 #  FLASK
 # ─────────────────────────────────────────────────────────────────
 
@@ -270,18 +295,9 @@ app  = Flask(__name__)
 sock = Sock(app)
 
 
-@app.route("/launch")                               
+@app.route("/launch")
 def launch_page():
-    """
-    Opens the real tool as a correctly sized popup via window.open(),
-    then closes this tab. If the popup is blocked, it redirects instead.
-    NOTE: Firefox must allow popups for localhost:8071.
-          Allow it via: Preferences > Privacy > Block pop-up windows > Exceptions
-    """
     return f"""<!DOCTYPE html>
-@app.route("/static/<path:filename>")
-def static_files(filename):
-    return app.send_static_file(filename)
 <html>
 <head>
 <style>
@@ -323,12 +339,17 @@ if (w) {{
 </html>"""
 
 
-@app.route("/")                                    
+@app.route("/static/<path:filename>")
+def static_files(filename):
+    return app.send_static_file(filename)
+
+
+@app.route("/")
 def index():
     return HTML
 
 
-@app.route("/api/topmost/<int:enable>")          
+@app.route("/api/topmost/<int:enable>")
 def api_topmost(enable):
     ok = set_firefox_topmost(bool(enable))
     return json.dumps({"ok": ok})
@@ -355,7 +376,7 @@ def websocket(ws):
 
 
 # ─────────────────────────────────────────────────────────────────
-#  UI HTML 
+#  UI HTML
 # ─────────────────────────────────────────────────────────────────
 
 HTML = """<!DOCTYPE html>
@@ -397,8 +418,7 @@ HTML = """<!DOCTYPE html>
     padding: 5px 5px 5px;
   }
 
-
-  /* footer — status left, AoT right */
+  /* footer */
   #footer {
     width: 100%;
     max-width: 520px;
@@ -423,7 +443,6 @@ HTML = """<!DOCTYPE html>
   .dot.on  { background: var(--good); box-shadow: 0 0 8px var(--good); }
   .dot.off { background: var(--bad); }
 
-  /* always-on-top checkbox */
   #aot-label {
     display: flex; align-items: center; gap: 6px;
     font-size: 0.7rem; font-weight: 700;
@@ -434,7 +453,7 @@ HTML = """<!DOCTYPE html>
   #aot-cb { cursor: pointer; accent-color: var(--gold); }
   #aot-label.active { color: var(--gold); }
 
-  /* ── Card ── */
+  /* Card */
   .card {
     width: 100%; max-width: 520px;
     background: var(--bg2); border: 1px solid var(--border);
@@ -446,7 +465,7 @@ HTML = """<!DOCTYPE html>
     background: linear-gradient(90deg, var(--gold), var(--pink), var(--gold));
   }
 
-  /* ── Waiting ── */
+  /* Waiting */
   .waiting {
     display: flex; flex-direction: column;
     align-items: center; justify-content: center;
@@ -462,7 +481,7 @@ HTML = """<!DOCTYPE html>
     text-transform: uppercase; color: var(--text-dim);
   }
 
-  /* ── Event header ── */
+  /* Event header */
   .event-meta {
     font-size: 0.62rem; font-weight: 700; letter-spacing: 0.18em;
     text-transform: uppercase; color: var(--text-dim); margin-bottom: 0px;
@@ -472,19 +491,18 @@ HTML = """<!DOCTYPE html>
     color: var(--gold-light); line-height: 1.35; margin-bottom: 0px;
   }
 
-  /* ── Unknown event ── */
+  /* Unknown event */
   .unknown-banner {
     background: rgba(229,57,53,0.1); border: 1px solid rgba(229,57,53,0.35);
     border-radius: 3px; padding: 3px 3px; margin-bottom: 0px;
   }
   .unknown-banner .u-label {
-    font-size: 0.85 rem; font-weight: 700; letter-spacing: 0.18em;
+    font-size: 0.85rem; font-weight: 700; letter-spacing: 0.18em;
     text-transform: uppercase; color: var(--bad); margin-bottom: 0px;
   }
-  .unknown-banner .u-id   { font-family:'Cinzel',serif; font-size 1.10rem; font-weight:700; color:#ef9a9a; }
+  .unknown-banner .u-id { font-family:'Cinzel',serif; font-size:1.10rem; font-weight:700; color:#ef9a9a; }
 
-
-  /* ── Choices ── */
+  /* Choices */
   .choice {
     display:flex; align-items:center; gap:12px;
     padding:3px 10px; border-radius:5px; border:1px solid transparent;
@@ -527,7 +545,7 @@ HTML = """<!DOCTYPE html>
     text-transform:uppercase; flex-shrink:0;
   }
 
-  /* ── Notes ── */
+  /* Notes */
   .notes {
     margin-top:14px; padding:9px 12px 9px 13px;
     background:rgba(201,150,58,0.07);
@@ -536,7 +554,6 @@ HTML = """<!DOCTYPE html>
   }
   .notes b { color:var(--gold); margin-right:5px; font-size:0.62rem; letter-spacing:0.12em; text-transform:uppercase; }
 
-  /* result tag on the checked slot */
   .result-tag {
     display: inline-block;
     font-size: 1.1rem;
@@ -569,7 +586,6 @@ HTML = """<!DOCTYPE html>
   </div>
 </div>
 
-<!-- footer: status + always on top on the same line -->
 <div id="footer">
   <div class="status-pill">
     <div class="dot off" id="dot"></div>
@@ -585,18 +601,17 @@ const card       = document.getElementById('card');
 const dot        = document.getElementById('dot');
 const statusText = document.getElementById('status-text');
 const aotLabel   = document.getElementById('aot-label');
+const aotCb      = document.getElementById('aot-cb');
 
 function setStatus(ok) {
-  dot.className        = 'dot ' + (ok ? 'on' : 'off');
+  dot.className          = 'dot ' + (ok ? 'on' : 'off');
   statusText.textContent = ok ? 'Connected' : 'Reconnecting';
 }
 
-/* ── Always on top 
-   Calls /api/topmost/1 or /api/topmost/0 on the Python backend.
-   Python uses Windows ctypes to set HWND_TOPMOST on Firefox. ── */
 document.getElementById('aot-cb').addEventListener('change', function () {
   const enable = this.checked ? 1 : 0;
   aotLabel.classList.toggle('active', this.checked);
+  localStorage.setItem('aot_default', this.checked);
   fetch('/api/topmost/' + enable)
     .then(r => r.json())
     .then(data => {
@@ -604,6 +619,7 @@ document.getElementById('aot-cb').addEventListener('change', function () {
         alert('Always on top failed — may not work on non-Windows systems.');
         this.checked = false;
         aotLabel.classList.remove('active');
+        localStorage.setItem('aot_default', false);
       }
     })
     .catch(() => {});
@@ -626,40 +642,36 @@ function render(data) {
 
   /* unknown event */
   if (data.status === 'unknown') {
-    const rows = positions.map(pos => `
-      <div class="choice unk">
-        <div class="choice-num">${pos}</div>
-        <div class="choice-body">
-          <div class="choice-label">${posLabel(pos)}</div>
-          <div class="choice-val">value: ${slots[pos]}</div>
-        </div>
-      </div>`).join('');
-
     card.innerHTML = `<div class="fade-in">
       <div class="unknown-banner">
         <div class="u-label">⚠ Unmapped Event</div>
         <div class="u-id">ID: ${data.story_id}</div>
       </div>
-      <div class="choices">${rows}</div>
     </div>`;
     return;
   }
 
-  /* known event */
-  // non-checked slots are opposite colour to the result:
-  // if result=good → checked=green, others=red
-  // if result=bad  → checked=red,   others=green
-  const otherCls = data.result === 'good' ? 'bad'
-                 : data.result === 'bad'  ? 'optimal'
-                 : 'unk';
+  /* known non-gambling event — name only */
+  if (data.status === 'known') {
+    card.innerHTML = `<div class="fade-in">
+      <div class="event-meta">Event #${data.story_id}</div>
+      <div class="event-name">${data.event_name}</div>
+      ${data.notes ? `<div class="notes"><b>Note</b>${data.notes}</div>` : ''}
+    </div>`;
+    return;
+  }
+
+  /* gambling event — choices with colors */
+  const checkPositions  = data.check_positions || [];
+  const positionResults = data.position_results || {};
 
   const rows = positions.map(pos => {
-    const isChecked = pos === data.check_pos;
+    const isChecked = checkPositions.includes(pos);
     const val       = slots[pos];
-    const result    = isChecked ? (data.result || 'unknown') : '';
+    const result    = isChecked ? (positionResults[pos] || 'unknown') : '';
     const cls       = isChecked
-      ? (data.result === 'good' ? 'optimal' : data.result === 'bad' ? 'bad' : 'unk')
-      : otherCls;
+      ? (positionResults[pos] === 'good' ? 'optimal' : positionResults[pos] === 'bad' ? 'bad' : 'unk')
+      : 'unk';
     return `
       <div class="choice ${cls}">
         <div class="choice-num">${pos}</div>
@@ -668,8 +680,8 @@ function render(data) {
             ${isChecked ? '★ ' : ''}${posLabel(pos)}
           </div>
           ${isChecked
-            ? `<div class="result-tag ${data.result === 'good' ? 'result-good' : 'result-bad'}">${result.toUpperCase()}</div>`
-            : `<div class="result-tag ${otherCls === 'bad' ? 'result-bad' : 'result-good'}">${otherCls === 'bad' ? 'BAD' : 'GOOD'}</div>`
+            ? `<div class="result-tag ${positionResults[pos] === 'good' ? 'result-good' : 'result-bad'}">${result.toUpperCase()}</div>`
+            : ''
           }
         </div>
         <div class="choice-val-right">value: ${val}</div>
@@ -684,10 +696,18 @@ function render(data) {
   </div>`;
 }
 
-/* ── WebSocket with auto-reconnect  ── */
+/* ── WebSocket with auto-reconnect ── */
 function connect() {
   const ws = new WebSocket('ws://localhost:8071/ws');
-  ws.onopen    = ()  => setStatus(true);
+  ws.onopen = () => {
+    setStatus(true);
+    const savedAot = localStorage.getItem('aot_default') === 'true';
+    if (savedAot) {
+      aotCb.checked = true;
+      aotLabel.classList.add('active');
+      fetch('/api/topmost/1').catch(() => {});
+    }
+  };
   ws.onclose   = ()  => { setStatus(false); setTimeout(connect, 2000); };
   ws.onerror   = ()  => ws.close();
   ws.onmessage = (e) => { try { render(JSON.parse(e.data)); } catch (_) {} };
@@ -704,6 +724,7 @@ connect();
 
 if __name__ == "__main__":
     os.makedirs(DUMPS_DIR, exist_ok=True)
+    clear_dumps()
 
     observer = Observer()
     observer.schedule(DumpWatcher(), DUMPS_DIR, recursive=False)
