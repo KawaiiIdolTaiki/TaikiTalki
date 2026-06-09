@@ -41,7 +41,6 @@ python dumper.py
 ```
 
 dont close the terminals(this goes without saying)
-sometimes the launch.bat doesnt open both terminals. ig its time to go back to the mines
 
 ---
 
@@ -57,19 +56,22 @@ program is tested only on firefox and idc about other browser
 ### Dumper wont run
 1. Start the game first(lmao)
 
-2. update frida-server version
+2. run dumper.py as administrator
 
-3.restart computer(for now ill try to fix later)
+3. Restart computer(tried and tested method)
 
 ### If the event refreshes very slowly(not instant)
 -delete dump folder
 
 ## Changelog
-### 08-06-2025
+### 09-06-2026
+    -dumper update if it doesnt want to open(i shot the port and freed it for the process)
+
+### 08-06-2026
     -updated events.json to include all events(uma,support,scenario)
     -fixed always on top(again, but should works fine now)
     -auto dump made(yey)
     -make it more braindead easy to use
-### 08-05-2025
+### 08-05-2026
     -fix always on top
     -more maps
