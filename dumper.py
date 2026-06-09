@@ -131,27 +131,53 @@ def onMessage(message, data):
 
     decoded = decodeMsgpack(data, is_request)
     if decoded is None:
-        return 
+        return
 
     with open(os.path.join(DUMP_DIR, f"{ts}_{kind}.json"), 'w', encoding='utf-8') as f:
         json.dump(decoded, f, indent=2, ensure_ascii=False, cls=BytesEncoder)
 
 def main():
     os.makedirs(DUMP_DIR, exist_ok=True)
-    try:
-        session = frida.attach(PROCESS_NAME)
-    except Exception:
+
+    # Retry instead of dying instantly: handles launching before the game is
+    # fully up, and surfaces the real reason if attaching genuinely fails.
+    session = None
+    print(f"Looking for {PROCESS_NAME}...")
+    for attempt in range(60):  # ~60 seconds
+        try:
+            session = frida.attach(PROCESS_NAME)
+            print(f"[OK] Attached to {PROCESS_NAME}")
+            break
+        except frida.ProcessNotFoundError:
+            time.sleep(1)  # game not up yet, keep waiting
+        except Exception as e:
+            print(f"[ERROR] Could not attach: {type(e).__name__}: {e}")
+            print("  - 'access is denied'  -> the game may be running as admin; run this as admin too")
+            print("  - attach/trace errors -> close any other Dumper window, then retry")
+            input("\nPress Enter to close...")
+            return 1
+
+    if session is None:
+        print(f"[ERROR] {PROCESS_NAME} never appeared. Start the game first, then run this.")
+        input("\nPress Enter to close...")
         return 1
 
-    script = session.create_script(HOOK_JS)
-    script.on('message', onMessage)
-    script.load()
+    try:
+        script = session.create_script(HOOK_JS)
+        script.on('message', onMessage)
+        script.load()
+        print("[OK] Hook loaded. Waiting for events...")
+    except Exception as e:
+        print(f"[ERROR] Failed to load hook: {type(e).__name__}: {e}")
+        input("\nPress Enter to close...")
+        session.detach()
+        return 1
 
     try:
         while True:
             time.sleep(0.5)
     except KeyboardInterrupt:
-        pass
+        print("\n[OK] Shutting down.")
 
     session.detach()
     return 0
