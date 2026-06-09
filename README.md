@@ -41,6 +41,7 @@ python dumper.py
 ```
 
 dont close the terminals(this goes without saying)
+sometimes the launch.bat doesnt open both terminals. ig its time to go back to the mines
 
 ---
 
@@ -57,6 +58,8 @@ program is tested only on firefox and idc about other browser
 1. Start the game first(lmao)
 
 2. update frida-server version
+
+3.restart computer(for now ill try to fix later)
 
 ### If the event refreshes very slowly(not instant)
 -delete dump folder
