@@ -4,9 +4,8 @@ stolen project from https://github.com/SweepTosher/dumper
 if you are using this just be prepared if you suddenly get a love letter
 
 i made this thing more braindead easy to use now so uhh
-yep i think i should be done with everything i wanted to do now just need to fix and patch some stuffs(mostly on events.json file)
-
-this thing will die anyway soonish
+ok i have tested everything and yea everything should work. even the events.json is done
+i think from now till the day of this thing is death ill do minimal adjustments to events.json or minor patches to other stuffs
 
 oh welp gl and have fun with this thing
 
@@ -62,8 +61,12 @@ program is tested only on firefox and idc about other browser
 
 ### If the event refreshes very slowly(not instant)
 -delete dump folder
+-restart the program
 
 ## Changelog
+### 10-06-2026
+    -full global event updated
+
 ### 09-06-2026
     -dumper update if it doesnt want to open(i shot the port and freed it for the process)
 
