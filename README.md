@@ -64,6 +64,9 @@ program is tested only on firefox and idc about other browser
 -restart the program
 
 ## Changelog
+### 14-06-2026
+    -sweep fatty event updated(gambling broke)
+
 ### 10-06-2026
     -full global event updated
 
