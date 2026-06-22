@@ -1,5 +1,8 @@
 # TaikiTalki
 stolen project from https://github.com/SweepTosher/dumper
+---
+i just realized that this shit is only usable on MANT, the moment you step outside of MANT, lots of thing will break
+---
 
 if you are using this just be prepared if you suddenly get a love letter
 
