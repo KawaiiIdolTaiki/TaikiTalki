@@ -70,6 +70,10 @@ program is tested only on firefox and idc about other browser
 -delete dump folder
 -restart the program
 
+### todo list(dont look)
+-all 18 events that somehow requires gambling and the scraper dont catch it correctly(ill update all of them later)
+-new uma/support card events
+
 ## Changelog
 ### 14-06-2026
     -sweep fatty event updated(gambling broke)
