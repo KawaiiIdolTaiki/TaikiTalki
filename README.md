@@ -75,6 +75,9 @@ program is tested only on firefox and idc about other browser
 -new uma/support card events
 
 ## Changelog
+### 02-07-2026
+    -placeholder meek event(havent updated the other event yet)
+
 ### 14-06-2026
     -sweep fatty event updated(gambling broke)
 
