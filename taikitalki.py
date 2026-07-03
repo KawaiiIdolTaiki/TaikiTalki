@@ -120,6 +120,15 @@ PATTERNS = {
     "top_bad":   lambda v: "bad"  if v <= 2 else "good",
 }
 
+# Scenario whose events use the patterns stored in events.json.
+# Every other scenario forces odd_good, except NON_CLIMAX_EXCEPTIONS below.
+CLIMAX_SCENARIO_ID = 4
+
+# story_ids that keep a specific pattern even OUTSIDE Climax.
+NON_CLIMAX_EXCEPTIONS = {
+    "400001418": {"pattern": "top_good", "check_positions": [1, 2, 3]},
+}
+
 def resolve_outcome(pattern, found_value, outcomes=None):
     if found_value is None:
         return None
@@ -145,6 +154,9 @@ def process_file(filepath: str):
     if not event_array:
         return
 
+    chara_info  = find_key(data, "chara_info") or {}
+    scenario_id = chara_info.get("scenario_id")
+
     event        = event_array[0]
     story_id     = str(event.get("story_id", ""))
     choice_array = (event
@@ -155,19 +167,31 @@ def process_file(filepath: str):
     for i, choice in enumerate(choice_array):
         slot_values[i + 1] = choice.get("select_index")
 
-    print(f"[EVENT] story_id={story_id}  slot_values={slot_values}")
+    print(f"[EVENT] scenario_id={scenario_id}  story_id={story_id}  slot_values={slot_values}")
 
     db_entry    = events_db.get(story_id)
     is_gambling = db_entry and "check_position" in db_entry and "pattern" in db_entry
 
     if is_gambling:
-        pattern   = db_entry.get("pattern")
-        check_pos = db_entry.get("check_position")
-        # normalize to list so single int and list both work
+        check_pos       = db_entry.get("check_position")
         check_positions = [check_pos] if isinstance(check_pos, int) else check_pos
 
+        # Climax (4): use the stored pattern. Any other scenario: force odd_good,
+        # except the hardcoded non-Climax exceptions.
+        if scenario_id == CLIMAX_SCENARIO_ID:
+            eff_pattern  = db_entry.get("pattern")
+            eff_outcomes = db_entry.get("outcomes")
+        elif story_id in NON_CLIMAX_EXCEPTIONS:
+            exc             = NON_CLIMAX_EXCEPTIONS[story_id]
+            eff_pattern     = exc["pattern"]
+            check_positions = exc["check_positions"]
+            eff_outcomes    = None
+        else:
+            eff_pattern  = "odd_good"
+            eff_outcomes = None
+
         position_results = {
-            pos: resolve_outcome(pattern, slot_values.get(pos), db_entry.get("outcomes"))
+            pos: resolve_outcome(eff_pattern, slot_values.get(pos), eff_outcomes)
             for pos in check_positions
         }
         broadcast({

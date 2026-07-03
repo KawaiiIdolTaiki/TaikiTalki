@@ -3,8 +3,9 @@ stolen project from https://github.com/SweepTosher/dumper
 
 ---
 
-i just realized that this shit is only usable on MANT, the moment you step outside of MANT, lots of thing will break
--update the fix is easy, uhh ill make a new repo for mant only in a few months time
+big update ig whatever
+surely this bandaid patch works. anyways i dont have to make new repo for mant specific only
+if theres any problem ill prob die, or another 3 months before i finish them
 
 ---
 
@@ -75,6 +76,9 @@ program is tested only on firefox and idc about other browser
 -new uma/support card events
 
 ## Changelog
+### 03-07-2026
+    -bandaid patch so it works with all other scenario(please update other event i am crine)
+
 ### 02-07-2026
     -placeholder meek event(havent updated the other event yet)
 
