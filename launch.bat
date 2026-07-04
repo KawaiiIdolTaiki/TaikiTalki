@@ -22,8 +22,10 @@ echo Firefox installed.
 :firefox_ok
 
 :: ── Update ONLY events.json ───────────────────────────────────
-echo Updating events.json...
-powershell -Command "try { Invoke-WebRequest -UseBasicParsing -Uri 'https://raw.githubusercontent.com/KawaiiIdolTaiki/TaikiTalki/main/events.json' -OutFile '%~dp0events.json'; Write-Host 'events.json updated.' } catch { Write-Host 'Could not reach GitHub, using local copy.' }"
+echo Updating files from GitHub...
+powershell -Command "try { Invoke-WebRequest -UseBasicParsing -Uri 'https://raw.githubusercontent.com/KawaiiIdolTaiki/TaikiTalki/main/events.json' -OutFile '%~dp0events.json'; Write-Host 'events.json updated.' } catch { Write-Host 'events.json: using local copy.' }"
+powershell -Command "try { Invoke-WebRequest -UseBasicParsing -Uri 'https://raw.githubusercontent.com/KawaiiIdolTaiki/TaikiTalki/main/dumper.py' -OutFile '%~dp0dumper.py'; Write-Host 'dumper.py updated.' } catch { Write-Host 'dumper.py: using local copy.' }"
+powershell -Command "try { Invoke-WebRequest -UseBasicParsing -Uri 'https://raw.githubusercontent.com/KawaiiIdolTaiki/TaikiTalki/main/taikitalki.py' -OutFile '%~dp0taikitalki.py'; Write-Host 'taikitalki.py updated.' } catch { Write-Host 'taikitalki.py: using local copy.' }"
 echo.
 
 :: ── Install requirements ──────────────────────────────────────
