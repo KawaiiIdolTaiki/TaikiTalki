@@ -127,7 +127,8 @@ CLIMAX_SCENARIO_ID = 4
 # Everything else outside Climax is forced to odd_good.
 ALWAYS_PATTERN_NAMES = {
     "Get Well Soon!",       
-    "Happy Meek's Challenge!" 
+    "Happy Meek's Challenge!",
+    "Don't Overdo It!"
 }
 
 def resolve_outcome(pattern, found_value, outcomes=None):
