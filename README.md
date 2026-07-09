@@ -3,7 +3,7 @@ stolen project from https://github.com/SweepTosher/dumper
 
 ---
 
-ok i am finally done this time. i have updated the events.json to include all and every events in the game(i hope so)
+ok i am finally done this time. i have updated the events.json to include all and every events in the game(i hope so)  
 next update would be on grand live/grand concert whatever and i probably take some time to update new umas until someone
 pestered me enough to do so or i get motivation to do them 
 
@@ -14,32 +14,32 @@ Event Outcome Resolver for the hit game Umamusume: Pretty Derby
 
 if you are using this just be prepared if you suddenly get a love letter from saige
 
-i made this thing more braindead easy to use now so uhh
-ok i have tested everything and yea everything should work. even the events.json is done
+i made this thing more braindead easy to use now so uhh  
+ok i have tested everything and yea everything should work. even the events.json is done  
 i think from now till the day this thing dies ill do minimal adjustments to events.json or minor patches to other stuffs(<- lies look at what happen on 1.5 patch)
 
 oh welp gl and have fun with this thing
 
 ---
 
-basically what this is, it just gives you the best outcome for every gambling event
-i stole the dumper from sweepy but i populate the events.json to include all events in the game
-if you wanted to steal my events.json and make your own project, i am fine with it, but i would love to hear what you
+basically what this is, it just gives you the best outcome for every gambling event  
+i stole the dumper from sweepy but i populate the events.json to include all events in the game  
+if you wanted to steal my events.json and make your own project, i am fine with it, but i would love to hear what you  
 are going to do with it so just contact me or something
 
 and if you wanted to know how majority of the event works
 
-Literally every single events -> odd = good
-exception
-meek challenge(ura) -> value: 1,2 = good
-infirmary -> value 2 = good, or even = good
-unsure? -> etsuko exhaustive coverage -> ????
+Literally every single events -> odd = good  
+exception  
+meek challenge(ura) -> value: 1,2 = good  
+infirmary -> value 2 = good, or even = good  
+unsure? -> etsuko exhaustive coverage -> ????  
 
-MANT specific
-all post-race event -> value: 1,2 = good
-infirmary -> even = good
+MANT specific  
+all post-race event -> value: 1,2 = good  
+infirmary -> even = good  
 
-i think thats it for the summarization? 
+i think thats it for the summarization?   
 everything else is in the events.json for further detail 
 
 ---
