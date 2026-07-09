@@ -4,7 +4,7 @@ stolen project from https://github.com/SweepTosher/dumper
 ---
 
 ok i am finally done this time. i have updated the events.json to include all and every events in the game(i hope so)  
-next update would be on grand live/grand concert whatever and i probably take some time to update new umas until someone  
+next update would be on grand live/grand concert whatever and i probably take some time to update new umas until someone
 pestered me enough to do so or i get motivation to do them 
 
 ---
