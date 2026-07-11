@@ -32,8 +32,9 @@ and if you wanted to know how majority of the event works
 Literally every single events -> odd = good  
 exception  
 meek challenge(ura) -> value: 1,2 = good  
-infirmary -> value 2 = good, or even = good  
-unsure? -> etsuko exhaustive coverage -> ????  
+infirmary -> even = good  
+unsure? -> etsuko exhaustive coverage -> ????
+oguri gluttony championship -> maybe related to your hunger?? nothing makes sense  
 
 MANT specific  
 all post-race event -> value: 1,2 = good  
