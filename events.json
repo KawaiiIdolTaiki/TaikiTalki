@@ -64,14 +64,14 @@
     "ids": [
       "830011001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Take a Step",
     "ids": [
       "830011002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Aim for That Sparkling Moment!",
@@ -80,21 +80,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) A Grand Slam Energy Boost!",
     "ids": [
       "820030001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) You'll Always Be in My Heart...",
     "ids": [
       "820030002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Hanging Out with Big Sis!",
@@ -115,6 +115,12 @@
     "ids": [
       "501031515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -294,9 +300,10 @@
       "501069900",
       "501071900",
       "501072900",
-      "501074900"
+      "501074900",
+      "501098900"
     ],
-    "notes": ""
+    "notes": "pattern rule"
   },
   {
     "event_name": "New Year's Resolutions",
@@ -934,6 +941,7 @@
     ],
     "check_position": 2,
     "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -1060,6 +1068,7 @@
     ],
     "check_position": 2,
     "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -1430,8 +1439,6 @@
     "ids": [
       "400002113"
     ],
-    "check_position": 1,
-    "pattern": "odd_good",
     "notes": ""
   },
   {
@@ -1453,14 +1460,14 @@
     "ids": [
       "820012001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Report: N/A (On Break)",
     "ids": [
       "820012002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Expression of Conviction",
@@ -1481,6 +1488,12 @@
     "ids": [
       "501032515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -1586,6 +1599,9 @@
     "ids": [
       "501032523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -1632,35 +1648,35 @@
     "ids": [
       "820005001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) My Love for Umamusume is Eternal!",
     "ids": [
       "820005002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) A Simp's Aesthetics",
     "ids": [
       "830085001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Simp's Burdens",
     "ids": [
       "830085002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) A Simp's Lifestyle",
     "ids": [
       "830085003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Teach Us Your Ways, Digital!",
@@ -1681,6 +1697,12 @@
     "ids": [
       "501019515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -1712,6 +1734,9 @@
     "ids": [
       "501019523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -1829,35 +1854,35 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Ayabe Doesn't Cut Corners",
     "ids": [
       "830077002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Ayabe Won't Be Disheartened!",
     "ids": [
       "830077003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) The Joy of Being Together",
     "ids": [
       "820041001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Toward the Brightest Star",
     "ids": [
       "820041002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Hear My Heart",
@@ -1878,6 +1903,12 @@
     "ids": [
       "501033515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -2144,6 +2175,9 @@
     "ids": [
       "501033523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -2181,49 +2215,49 @@
     "ids": [
       "820025001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Ikuno-Style Support",
     "ids": [
       "820025002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) That's How U Solve the Case",
     "ids": [
       "830063001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Are U the Problem?",
     "ids": [
       "830063002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Just U and I",
     "ids": [
       "830063003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Ikuno-style Cuteness Research",
     "ids": [
       "830099001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Glasses-style Umadol Song ☆",
     "ids": [
       "830099002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Ikuno-style Socializing",
@@ -2232,7 +2266,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Let's Tussle! Booyah!",
@@ -2253,14 +2287,14 @@
     "ids": [
       "820032001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Good Ruckus!",
     "ids": [
       "820032002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "The Art of Class",
@@ -2281,6 +2315,12 @@
     "ids": [
       "501034515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -2425,6 +2465,9 @@
     "ids": [
       "501034523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -2462,63 +2505,63 @@
     "ids": [
       "830012001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Everyone Was Sore for Days!",
     "ids": [
       "830012002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) We Are BNW!",
     "ids": [
       "830012003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Hot Derby Special!",
     "ids": [
       "830033001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Special Rival Training!",
     "ids": [
       "830033002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Dream-Fulfilling Challenge!",
     "ids": [
       "830033003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Tickezo☆Expedition!",
     "ids": [
       "830046001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Tickezo☆Friendship!",
     "ids": [
       "830046002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Tickezo☆Night Fever!",
     "ids": [
       "830046003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Full-Power Testing!",
@@ -2539,6 +2582,12 @@
     "ids": [
       "501035515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -2672,6 +2721,9 @@
     "ids": [
       "501035523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -2716,21 +2768,21 @@
     "ids": [
       "830005001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Vow to the Setting Sun",
     "ids": [
       "830005002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Put That on the Record, Okay?",
     "ids": [
       "830005003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Slacking Off at Sundown",
@@ -2739,14 +2791,14 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Persistence Pays Off",
     "ids": [
       "820039002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Vintage Style",
@@ -2760,6 +2812,12 @@
     "ids": [
       "501008514"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -2767,6 +2825,12 @@
     "ids": [
       "501008515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -2926,6 +2990,9 @@
     "ids": [
       "501008523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -2974,28 +3041,28 @@
     "ids": [
       "830106001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) You Make Me Who I Am",
     "ids": [
       "830106002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Dynamic Duo",
     "ids": [
       "830106003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) As Dignified as a Moth Orchid",
     "ids": [
       "820004001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Bloom by the Oak",
@@ -3004,7 +3071,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Flowers for You",
@@ -3025,6 +3092,12 @@
     "ids": [
       "501018515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -3185,6 +3258,9 @@
     "ids": [
       "501018523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -3222,6 +3298,12 @@
     "ids": [
       "501018802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -3243,42 +3325,42 @@
     "ids": [
       "830013001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Realist's Passion",
     "ids": [
       "830013002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) I'm the Strongest",
     "ids": [
       "830013003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Both High and Low",
     "ids": [
       "830092001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) BPM in Sync",
     "ids": [
       "830092002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Connected EQs",
     "ids": [
       "830092003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Feature:“Me”",
@@ -3287,21 +3369,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Beta:“Me”",
     "ids": [
       "830226002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Release:“Me”",
     "ids": [
       "830226003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "This Is the Proof",
@@ -3322,12 +3404,19 @@
     "ids": [
       "501036515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
     "event_name": "After the Kikuka Sho: King of the Game",
     "ids": [
-      "501036310"
+      "501036310",
+      "501036425"
     ],
     "notes": ""
   },
@@ -3335,42 +3424,49 @@
     "event_name": "After the Japan C.: Noise",
     "ids": [
       "501036312",
-      "501036313"
+      "501036313",
+      "501036427",
+      "501036428"
     ],
     "notes": ""
   },
   {
     "event_name": "Noizy Dayz",
     "ids": [
-      "501036113"
+      "501036113",
+      "501036401"
     ],
     "notes": ""
   },
   {
     "event_name": "“Uncertainty”",
     "ids": [
-      "501036114"
+      "501036114",
+      "501036402"
     ],
     "notes": ""
   },
   {
     "event_name": "The Monster Under My Bed",
     "ids": [
-      "501036115"
+      "501036115",
+      "501036403"      
     ],
     "notes": ""
   },
   {
     "event_name": "FFA",
     "ids": [
-      "501036116"
+      "501036116",
+      "501036404"      
     ],
     "notes": ""
   },
   {
     "event_name": "Changes",
     "ids": [
-      "501036117"
+      "501036117",
+      "501036405"      
     ],
     "notes": ""
   },
@@ -3449,6 +3545,9 @@
     "ids": [
       "501036523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -3516,14 +3615,14 @@
     "ids": [
       "820013001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Good Friend",
     "ids": [
       "820013002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Worthy of Wearing Pride",
@@ -3544,6 +3643,12 @@
     "ids": [
       "501037515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -3639,6 +3744,8 @@
     "ids": [
       "501037524"
     ],
+    "check_position": 2,
+    "pattern": "odd_good",
     "notes": ""
   },
   {
@@ -3678,6 +3785,9 @@
     "ids": [
       "501037802"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -3699,28 +3809,28 @@
     "ids": [
       "830007001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Uma-me",
     "ids": [
       "830007002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Luchadora El!",
     "ids": [
       "830007003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Where My Courage Comes From",
     "ids": [
       "830102001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Mask with Many Faces",
@@ -3729,7 +3839,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) With All the Courage I Have",
@@ -3738,21 +3848,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) With Passion and Joy!",
     "ids": [
       "820033001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Muddy Heroes",
     "ids": [
       "820033002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Determination of the World's Strongest",
@@ -3773,6 +3883,12 @@
     "ids": [
       "501014515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -3904,6 +4020,9 @@
     "ids": [
       "501014523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -3950,6 +4069,12 @@
     "ids": [
       "501014802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -3971,21 +4096,21 @@
     "ids": [
       "830024001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) How Should I Respond?",
     "ids": [
       "830024002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) What I Want to Say",
     "ids": [
       "830024003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) \"I Just Can't Quit Food\" —Oguri Cap",
@@ -3994,14 +4119,14 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) \"Happiness? Don't Mind If I Do\" —Oguri Cap",
     "ids": [
       "820048002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Pinned Hopes",
@@ -4022,6 +4147,12 @@
     "ids": [
       "501006515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -4148,6 +4279,9 @@
     "ids": [
       "501006523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -4206,6 +4340,12 @@
     "ids": [
       "501006801"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -4220,21 +4360,21 @@
     "ids": [
       "830135001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) No Way Home",
     "ids": [
       "830135002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Through Telepathy",
     "ids": [
       "830135003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "#UrUniqueCuteness",
@@ -4257,14 +4397,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) #CurrenQuandary",
     "ids": [
       "830068002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) #KeepItCurren",
@@ -4273,28 +4413,28 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) #AWildCurrenAppeared",
     "ids": [
       "820044001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) #CuteFluffyOverload",
     "ids": [
       "820044002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) #Curren for U♡",
     "ids": [
       "830237003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Which Curren Do You Like?",
@@ -4323,6 +4463,12 @@
     "ids": [
       "501038515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -4462,6 +4608,9 @@
     "ids": [
       "501038523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -4522,35 +4671,35 @@
     "ids": [
       "830039001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Princess Power ☆ to the Max!",
     "ids": [
       "830039002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Hit It! Princess Road!",
     "ids": [
       "830039003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) OH! MY! Ghost Hunt!",
     "ids": [
       "830096001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Together as One! Grand Ghost Hunting Finale!",
     "ids": [
       "830096003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Dress of Determination",
@@ -4571,6 +4720,12 @@
     "ids": [
       "501039515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -4711,6 +4866,9 @@
     "ids": [
       "501039523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -4774,7 +4932,7 @@
     "ids": [
       "830028001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Paying It Forward",
@@ -4783,7 +4941,7 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) We Walk Together",
@@ -4792,7 +4950,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Forget Me Not!",
@@ -4806,6 +4964,12 @@
     "ids": [
       "501068515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -4957,6 +5121,9 @@
     "ids": [
       "501068523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -4994,28 +5161,28 @@
     "ids": [
       "820020001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) First-Rate Advice",
     "ids": [
       "820020002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) A Captivating Invitation",
     "ids": [
       "830056001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Dancer's Pride",
     "ids": [
       "830056002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Glittering Star of the Ball",
@@ -5024,7 +5191,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "The Outfit That Suits Me Most",
@@ -5045,6 +5212,12 @@
     "ids": [
       "501061515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -5162,6 +5335,9 @@
     "ids": [
       "501061802"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -5183,7 +5359,7 @@
     "ids": [
       "830006001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Moment's Respite",
@@ -5192,7 +5368,7 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Hidden Petals",
@@ -5201,7 +5377,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Hidden Meaning",
@@ -5222,6 +5398,12 @@
     "ids": [
       "501011515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -5357,6 +5539,9 @@
     "ids": [
       "501011523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -5401,6 +5586,12 @@
     "ids": [
       "501011802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -5422,35 +5613,35 @@
     "ids": [
       "830014001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Struggle",
     "ids": [
       "830014002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) One Step",
     "ids": [
       "830014003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) I Can Do It Myself",
     "ids": [
       "820049001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Relying On Others",
     "ids": [
       "820049002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Client's Orders",
@@ -5471,6 +5662,12 @@
     "ids": [
       "501040515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -5640,6 +5837,9 @@
     "ids": [
       "501040523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -5654,6 +5854,12 @@
     "ids": [
       "501040801"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -5675,21 +5881,21 @@
     "ids": [
       "830004001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Respect the Salmon!",
     "ids": [
       "830004002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Can't Spell \"Rival\" without \"Friend\"!",
     "ids": [
       "830004003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Adventurer Gold Ship",
@@ -5703,14 +5909,14 @@
     "ids": [
       "830057001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Plotting the Uma Lord's Dungeon",
     "ids": [
       "830057002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Assembling the Uma Lord's Minions",
@@ -5722,7 +5928,7 @@
       2
     ],
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "The Red of the Protagonist!",
@@ -5743,6 +5949,12 @@
     "ids": [
       "501007515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -5899,6 +6111,9 @@
     "ids": [
       "501007523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -5944,6 +6159,12 @@
     "ids": [
       "501007802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -5980,63 +6201,63 @@
     "ids": [
       "830002001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Letters → Feelings → ?",
     "ids": [
       "830002002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Letters → Feelings → Wait for Me, Okay?",
     "ids": [
       "830002003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) A Winning Vocalist",
     "ids": [
       "830062001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Dream Dance",
     "ids": [
       "830062002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) A Stage to Remember",
     "ids": [
       "830062003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Guided to Scenery",
     "ids": [
       "830076001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Shared Scenery",
     "ids": [
       "830076002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) The Scenery Ahead",
     "ids": [
       "830076003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "The Color of the Landscape",
@@ -6057,6 +6278,12 @@
     "ids": [
       "501002515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -6205,6 +6432,9 @@
     "ids": [
       "501002523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -6221,8 +6451,6 @@
     "ids": [
       "501002719"
     ],
-    "check_position": 1,
-    "pattern": "odd_good",
     "notes": ""
   },
   {
@@ -6251,7 +6479,7 @@
     "ids": [
       "830038001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Blooming Hope!",
@@ -6260,7 +6488,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Someday, I'll Bloom!",
@@ -6269,7 +6497,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Nothing Quite like Everyday Life",
@@ -6290,6 +6518,12 @@
     "ids": [
       "501069515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -6462,6 +6696,9 @@
     "ids": [
       "501069523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -6499,35 +6736,35 @@
     "ids": [
       "830015001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Bakushin's Love!",
     "ids": [
       "830015002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Bakushin's Huge Success!",
     "ids": [
       "830015003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Uma Kids Footrace Meet",
     "ids": [
       "830083001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Chasing My Sister",
     "ids": [
       "830083002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Just the Way You Are",
@@ -6536,21 +6773,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) A Bakushin Greeting!",
     "ids": [
       "820042001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) The Value of Greetings",
     "ids": [
       "820042002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Bakushin for Love!",
@@ -6571,6 +6808,12 @@
     "ids": [
       "501041515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -6724,6 +6967,9 @@
     "ids": [
       "501041523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -6772,7 +7018,7 @@
     "ids": [
       "830029001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Diamond Fixation",
@@ -6781,28 +7027,28 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Only for You",
     "ids": [
       "830029003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Unseen Assistance",
     "ids": [
       "830088001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Words Aren't Enough",
     "ids": [
       "830088002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) The Dream We All Share",
@@ -6811,7 +7057,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "A Sturdy Diamond Wrapped in Silk",
@@ -6832,6 +7078,12 @@
     "ids": [
       "501067515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -6977,6 +7229,9 @@
     "ids": [
       "501067523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -7007,8 +7262,6 @@
     "ids": [
       "801042002"
     ],
-    "check_position": 2,
-    "pattern": "odd_good",
     "notes": ""
   },
   {
@@ -7016,35 +7269,35 @@
     "ids": [
       "820029001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Never Give Up! Endless Possibilities!",
     "ids": [
       "820029002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) It'll All Turn Out Fine",
     "ids": [
       "830095001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Re: START!",
     "ids": [
       "830095002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) You Are Me",
     "ids": [
       "830095003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Want Me to Teach You?",
@@ -7065,7 +7318,7 @@
     "ids": [
       "820038001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Oil and Water",
@@ -7074,28 +7327,28 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Those with the Name of Symboli",
     "ids": [
       "830091001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) To Set Oneself Free",
     "ids": [
       "830091002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Tipped Scales",
     "ids": [
       "830091003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Chomp Extermination!",
@@ -7116,7 +7369,7 @@
     "ids": [
       "820031001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) C'mon Gates, Open Already!",
@@ -7125,7 +7378,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "JAPANESE OWARAI",
@@ -7218,21 +7471,21 @@
     "ids": [
       "830090001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) That Which Generates Heat",
     "ids": [
       "830090002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Passions That Guide",
     "ids": [
       "830090003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Midway Reflection",
@@ -7253,6 +7506,12 @@
     "ids": [
       "501017515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -7436,6 +7695,9 @@
     "ids": [
       "501017523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -7475,6 +7737,12 @@
     "ids": [
       "501017802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -7496,14 +7764,14 @@
     "ids": [
       "820023001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Premeditated Mischief",
     "ids": [
       "820023002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Fickle Genius Magical Girl Sweepy ☆",
@@ -7512,7 +7780,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Drop of Black Magic ☆",
@@ -7521,28 +7789,28 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Her Mood Like a Flower ☆",
     "ids": [
       "830045003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) What's Behind the Foul Mood?",
     "ids": [
       "820046001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) The Trick to Perseverance!",
     "ids": [
       "820046002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "By the Power of Magic! (Clang!)",
@@ -7563,6 +7831,12 @@
     "ids": [
       "501044515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -7655,21 +7929,21 @@
     "ids": [
       "830016001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) The Taste of Warmth",
     "ids": [
       "830016002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Have a Second Helping!",
     "ids": [
       "830016003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Leave it to Me to Help Out! ♪",
@@ -7704,6 +7978,12 @@
     "ids": [
       "501045515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -7875,6 +8155,9 @@
     "ids": [
       "501045523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -7919,6 +8202,12 @@
     "ids": [
       "501045802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -7940,14 +8229,14 @@
     "ids": [
       "830001001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Roller Coaster of Feelings!",
     "ids": [
       "830001002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Our Audience",
@@ -7956,21 +8245,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Someday, I'll Be Just Like Her!",
     "ids": [
       "830025001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Just a Little Closer",
     "ids": [
       "830025002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Forms of Aspiration",
@@ -7979,14 +8268,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Unspoken Feelings",
     "ids": [
       "820043001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Small Thank You",
@@ -7995,28 +8284,28 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) I'm Gonna Buckle Down 'n' Work Hard!",
     "ids": [
       "830105001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) I'm Gonna Run with Everyone!",
     "ids": [
       "830105002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) I'm Gonna Visit Home!",
     "ids": [
       "830105003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "How Should I Pose?",
@@ -8037,6 +8326,12 @@
     "ids": [
       "501001515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -8161,6 +8456,9 @@
     "ids": [
       "501001523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -8191,7 +8489,7 @@
     "ids": [
       "501001524"
     ],
-    "check_position": 3,
+    "check_position": 1,
     "pattern": "odd_good",
     "notes": ""
   },
@@ -8214,6 +8512,12 @@
     "ids": [
       "501001802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -8238,6 +8542,12 @@
     "ids": [
       "501001805"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -8259,35 +8569,37 @@
     "ids": [
       "830017001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Shining Always and Everywhere ☆",
     "ids": [
       "830017002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) My Umadol Way ☆",
     "ids": [
       "830017003"
     ],
-    "notes": ""
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) What Is an Umadol?",
     "ids": [
       "820045001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) This Is an Umadol!",
     "ids": [
       "820045002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Polished ☆ Diamond",
@@ -8308,6 +8620,12 @@
     "ids": [
       "501046515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -8452,6 +8770,9 @@
     "ids": [
       "501046523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -8497,37 +8818,35 @@
     "ids": [
       "830008001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Beware of the Trap",
     "ids": [
       "830008002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) It's All to Win",
     "ids": [
       "830008003"
     ],
-    "check_position": 1,
-    "pattern": "odd_good",
-    "notes": ""
+    "notes": "server-side"
   },
   {
     "event_name": "(❯) Sudden Murder Mystery! Part 1",
     "ids": [
       "830055001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Sudden Murder Mystery! Part 2",
     "ids": [
       "830055002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Sudden Murder Mystery! Part 3",
@@ -8536,7 +8855,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Sleepy Time Incense",
@@ -8557,6 +8876,12 @@
     "ids": [
       "501020515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -8724,6 +9049,9 @@
     "ids": [
       "501020523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -8761,6 +9089,12 @@
     "ids": [
       "501020802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -8782,56 +9116,56 @@
     "ids": [
       "820028001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Someday, I'll Be the Main Character",
     "ids": [
       "820028002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) The Bookworm and the Secret Meeting",
     "ids": [
       "830065001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) The Bookworm and the Mage's Event",
     "ids": [
       "830065002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) The Bookworm and Her Froggy Friend",
     "ids": [
       "830065003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) A Half-Remembered Book",
     "ids": [
       "830104001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Cooking Up a Rainbow",
     "ids": [
       "830104002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Hobbies Bring Us Together",
     "ids": [
       "830104003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Yes! Let's Hug ☆",
@@ -8852,7 +9186,7 @@
     "ids": [
       "830053001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Lesson Two: The Show Must Go On",
@@ -8861,14 +9195,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Lesson Three: Live in the Moment",
     "ids": [
       "830053003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Quick Draw Showdown",
@@ -8889,6 +9223,12 @@
     "ids": [
       "501010515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -9070,6 +9410,9 @@
     "ids": [
       "501010523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -9100,6 +9443,12 @@
     "ids": [
       "501010800"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -9135,7 +9484,7 @@
     "ids": [
       "820024001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) #LOL #Party! #Round2",
@@ -9144,7 +9493,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) A Legendary Smile in the House!",
@@ -9153,14 +9502,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Helios's ☆ Hype Channel!",
     "ids": [
       "830071002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) A Smile for the World",
@@ -9169,7 +9518,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Up To Eleven",
@@ -9197,28 +9546,28 @@
     "ids": [
       "820002001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) I Can Clean Better than Anyone!",
     "ids": [
       "820002002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Number One Reactions?",
     "ids": [
       "830047001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Learning to Look Scared",
     "ids": [
       "830047002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Poolside Fun",
@@ -9227,28 +9576,28 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Distant Feelings",
     "ids": [
       "830093001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) An Important Signal",
     "ids": [
       "830093002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) This is Who I Am",
     "ids": [
       "830093003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "The Best Pose",
@@ -9269,6 +9618,12 @@
     "ids": [
       "501009515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -9416,6 +9771,9 @@
     "ids": [
       "501009523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -9517,35 +9875,35 @@
     "ids": [
       "830009001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Got My Priorities Straight",
     "ids": [
       "830009002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) My Flaws Make Me Who I Am!",
     "ids": [
       "830009003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Mummy Hunt! Drop the Jokes!",
     "ids": [
       "830064001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Mummy Hunt! The Hunter Awakens!",
     "ids": [
       "830064002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Mummy Hunt! Terrifyingly Tender",
@@ -9554,21 +9912,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Rhapsody of Kindness",
     "ids": [
       "820022001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) The Path of Profit and People",
     "ids": [
       "820022002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Lightning Heart",
@@ -9589,6 +9947,12 @@
     "ids": [
       "501021515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -9742,6 +10106,9 @@
     "ids": [
       "501021523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -9781,7 +10148,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Can't Catch Me!",
@@ -9790,7 +10157,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Turbo Is Strong!",
@@ -9799,21 +10166,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Ad Squad, Go!",
     "ids": [
       "830060001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Ad Squad, Full Throttle!",
     "ids": [
       "830060002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Ad Squad Rocks!",
@@ -9822,7 +10189,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Helping Out to the MAX!",
@@ -9871,6 +10238,12 @@
     "ids": [
       "501015515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -10016,6 +10389,9 @@
     "ids": [
       "501015523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -10053,6 +10429,12 @@
     "ids": [
       "501015802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -10074,56 +10456,56 @@
     "ids": [
       "830003001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Short Interlude",
     "ids": [
       "830003002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Legendary Act",
     "ids": [
       "830003003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) A Model Rivalry",
     "ids": [
       "830058001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Rhapsody of Rumors",
     "ids": [
       "830058002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) A Shining Path Toward the Future",
     "ids": [
       "830058003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) A Selfish (?) Desire",
     "ids": [
       "820047001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Spreading the Love of Dance!",
     "ids": [
       "820047002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Good Luck Charm",
@@ -10144,6 +10526,12 @@
     "ids": [
       "501003515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -10312,6 +10700,9 @@
     "ids": [
       "501003523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -10358,6 +10749,12 @@
     "ids": [
       "501003802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -10381,7 +10778,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Not Just for Show",
@@ -10390,21 +10787,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Leave It to the Roomie",
     "ids": [
       "830084001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Gal's Gotta Glam",
     "ids": [
       "830084002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) If You Got It, Own It",
@@ -10413,7 +10810,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Let the Glitter Take You",
@@ -10587,49 +10984,49 @@
     "ids": [
       "820019001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Visible Improvement (But So What?!)",
     "ids": [
       "820019002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Chasing Their Backs",
     "ids": [
       "820026001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Wind at My Back",
     "ids": [
       "820026002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) The Extraordinary Nature",
     "ids": [
       "830054001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Irrepressible Feelings",
     "ids": [
       "830054002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Revenge with a Quiz!",
     "ids": [
       "830054003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Nature and Her Tired Trainer",
@@ -10650,6 +11047,12 @@
     "ids": [
       "501060515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -10817,6 +11220,9 @@
     "ids": [
       "501060523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -10868,6 +11274,9 @@
     "ids": [
       "501060802"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -10889,14 +11298,14 @@
     "ids": [
       "830043001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Midday Match",
     "ids": [
       "830043002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Sundown Sinks into Night",
@@ -10906,21 +11315,21 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) All In",
     "ids": [
       "830108001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Eat 'Em and Weep",
     "ids": [
       "830108002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Upping the Ante",
@@ -10933,7 +11342,7 @@
       2
     ],
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Just Leave Me Alone",
@@ -10954,28 +11363,28 @@
     "ids": [
       "820014001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Enjoy the Musical!",
     "ids": [
       "820014002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Taishin's Debt of Gratitude",
     "ids": [
       "830073001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Learning to Mean It!",
     "ids": [
       "830073002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Yours Sincerely!",
@@ -10984,7 +11393,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Strong Just the Way I Am",
@@ -11005,6 +11414,12 @@
     "ids": [
       "501050515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -11162,6 +11577,9 @@
     "ids": [
       "501050523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -11208,21 +11626,21 @@
     "ids": [
       "830086001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Great Expectations",
     "ids": [
       "830086002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Rivals Know Best",
     "ids": [
       "830086003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Student Council Member!",
@@ -11243,28 +11661,28 @@
     "ids": [
       "830044001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Only a Sister Knows",
     "ids": [
       "830044002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Running for the Dream",
     "ids": [
       "830044003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Target Across Time",
     "ids": [
       "830069001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Lord of the Ducks",
@@ -11273,14 +11691,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Battlefield Experience",
     "ids": [
       "830069003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Strategy",
@@ -11301,6 +11719,12 @@
     "ids": [
       "501016515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -11493,6 +11917,9 @@
     "ids": [
       "501016523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -11531,14 +11958,14 @@
       "830018001",
       "501077513"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Aspiring to Adulthood",
     "ids": [
       "830018002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) What's Important!",
@@ -11547,42 +11974,42 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) I Want You to Rest!",
     "ids": [
       "820027001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) I Want to Say Thank You!",
     "ids": [
       "820027002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Nourishment for a Flower Bud",
     "ids": [
       "830082001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) I'm Gonna Be a Mommy!",
     "ids": [
       "830082002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Blooming Emotions, with Love",
     "ids": [
       "830082003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Snapshots of Form and Color",
@@ -11603,6 +12030,12 @@
     "ids": [
       "501051515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -11759,11 +12192,6 @@
       "501051524",
       "501051525"
     ],
-    "check_position": [
-      1,
-      2
-    ],
-    "pattern": "odd_good",
     "notes": ""
   },
   {
@@ -11771,6 +12199,9 @@
     "ids": [
       "501051523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -11810,42 +12241,42 @@
     "ids": [
       "830019001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Trying Hard with King!",
     "ids": [
       "830019002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Trying Hard with Everyone's Support!",
     "ids": [
       "830019003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) A Wonderful Wedding?",
     "ids": [
       "830098001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) The Theme's Decided!",
     "ids": [
       "830098002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) The Gift of Excitement",
     "ids": [
       "830098003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "The Racewear I Love!",
@@ -11866,6 +12297,12 @@
     "ids": [
       "501052515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -12012,6 +12449,9 @@
     "ids": [
       "501052523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -12053,6 +12493,9 @@
     "ids": [
       "501052802"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -12074,7 +12517,7 @@
     "ids": [
       "830042001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) No One Is Above Discipline!",
@@ -12083,7 +12526,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Someday, I'll Be Your Rival!",
@@ -12092,21 +12535,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) The Ultimate Omlet Training Arc",
     "ids": [
       "830094001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Sweat, Discipline, and Friendship!",
     "ids": [
       "830094002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Miracle Makers! The Red-Hot Cheer Squad!",
@@ -12115,7 +12558,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Dreaming Big With My Rivals!",
@@ -12136,40 +12579,35 @@
     "ids": [
       "501053515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
     "event_name": "A Dream like a Fierce Blaze!",
     "ids": [
-      "501053113"
+      "501053113",
+      "501053401"      
     ],
     "notes": ""
   },
   {
     "event_name": "A Dream of Cherry Blossoms in Full Bloom!",
     "ids": [
-      "501053114"
+      "501053114",
+      "501053402"      
     ],
     "notes": ""
   },
   {
     "event_name": "Till We Race Again!",
     "ids": [
-      "501053115"
-    ],
-    "notes": ""
-  },
-  {
-    "event_name": "Let Your Dreams Shine!",
-    "ids": [
-      "501053116"
-    ],
-    "notes": ""
-  },
-  {
-    "event_name": "For FRIENDSHIP!",
-    "ids": [
-      "501053117"
+      "501053115",
+      "501053403"      
     ],
     "notes": ""
   },
@@ -12278,6 +12716,9 @@
     "ids": [
       "501053523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -12317,21 +12758,21 @@
     "ids": [
       "830020001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Brace Yourself: Training with Carrot Ranger!",
     "ids": [
       "830020002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Showdown! Glorious Victory!",
     "ids": [
       "830020003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Eat Up ♪",
@@ -12352,7 +12793,7 @@
     "ids": [
       "830040001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Let's Go... Buono ☆",
@@ -12361,7 +12802,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Buono For You, Buono For Me ☆",
@@ -12370,7 +12811,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Bringing the Buono!",
@@ -12391,6 +12832,12 @@
     "ids": [
       "501028515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -12541,6 +12988,9 @@
     "ids": [
       "501028523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -12578,14 +13028,14 @@
     "ids": [
       "820003001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Hishiama Solution",
     "ids": [
       "820003002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Another Level",
@@ -12606,6 +13056,12 @@
     "ids": [
       "501012515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -12739,6 +13195,9 @@
     "ids": [
       "501012523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -12790,7 +13249,7 @@
     "ids": [
       "820006001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Training in Theory",
@@ -12799,14 +13258,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) A Precautionary Tale",
     "ids": [
       "830061001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Large Noodles, Extra Bold",
@@ -12815,14 +13274,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) What My Friends Gave Me",
     "ids": [
       "830061003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "A Realistic Fairytale",
@@ -12836,8 +13295,12 @@
     "ids": [
       "501023515"
     ],
-    "check_position": 1,
-    "pattern": "odd_good",
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -12954,6 +13417,12 @@
     "ids": [
       "501023802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -12975,14 +13444,14 @@
     "ids": [
       "830010001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Lovely Concert Weather ♪",
     "ids": [
       "830010002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Lovely Racing Weather ♪",
@@ -12991,21 +13460,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) What Even Is Normal?",
     "ids": [
       "820037001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Clovers For You Too ♪",
     "ids": [
       "820037002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "This Shamrock Is My Oath",
@@ -13026,6 +13495,12 @@
     "ids": [
       "501022515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -13210,6 +13685,9 @@
     "ids": [
       "501022523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -13248,7 +13726,8 @@
       "501022802"
     ],
     "check_position": 1,
-    "pattern": "odd_good",
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -13270,14 +13749,14 @@
     "ids": [
       "820001001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Out of This World",
     "ids": [
       "820001002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "What a Wonderful Stage!",
@@ -13298,6 +13777,12 @@
     "ids": [
       "501005515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -13457,6 +13942,9 @@
     "ids": [
       "501005523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -13494,6 +13982,12 @@
     "ids": [
       "501005802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -13515,56 +14009,56 @@
     "ids": [
       "820015001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Marvelously Marvelous ☆",
     "ids": [
       "820015002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Marvelous Guidance ☆",
     "ids": [
       "830074001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Dazzling and Marvelous ☆",
     "ids": [
       "830074002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Pure White Marvelousness ☆",
     "ids": [
       "830074003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Marvelous☆Dive!",
     "ids": [
       "830089001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Marvelous☆School!",
     "ids": [
       "830089002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Marvelous☆Victory!",
     "ids": [
       "830089003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Red Memory",
@@ -13594,14 +14088,14 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Becoming a Prankster",
     "ids": [
       "830030002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Unique Running?",
@@ -13610,7 +14104,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) I'm Just Embarrassed",
@@ -13619,7 +14113,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) I Just Need Practice",
@@ -13628,14 +14122,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Just Another Way to Show Love",
     "ids": [
       "830103003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "A Step Beyond Ordinary",
@@ -13656,6 +14150,12 @@
     "ids": [
       "501062515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -13832,6 +14332,9 @@
     "ids": [
       "501062523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -13869,7 +14372,7 @@
     "ids": [
       "820016001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Guidance and Friends",
@@ -13878,7 +14381,7 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Mystery Fortune Ritual!",
@@ -13887,7 +14390,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Fortune Favors the Friends!",
@@ -13896,14 +14399,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Finding Miraculous Joy!",
     "ids": [
       "830078003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Room of the Chosen Ones",
@@ -13924,6 +14427,12 @@
     "ids": [
       "501056515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -14062,6 +14571,9 @@
     "ids": [
       "501056523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -14106,6 +14618,12 @@
     "ids": [
       "501056802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -14127,14 +14645,14 @@
     "ids": [
       "820007001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Take Off toward Trendy ♪",
     "ids": [
       "820007002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Just Because ♪",
@@ -14143,21 +14661,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Wonderful Weekend ♪",
     "ids": [
       "830072002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Special Gifts for a Special Day ♪",
     "ids": [
       "830072003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Maya's Thrilling ☆ Test of Courage",
@@ -14178,6 +14696,12 @@
     "ids": [
       "501024515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -14310,7 +14834,8 @@
       "501024524"
     ],
     "check_position": 1,
-    "pattern": "odd_good",
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -14318,8 +14843,6 @@
     "ids": [
       "501024525"
     ],
-    "check_position": 1,
-    "pattern": "odd_good",
     "notes": ""
   },
   {
@@ -14327,6 +14850,9 @@
     "ids": [
       "501024523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -14371,6 +14897,12 @@
     "ids": [
       "501024802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -14394,7 +14926,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Thrilling Memories Still in My Heart",
@@ -14403,14 +14935,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Shine On Forever",
     "ids": [
       "830107003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Trendsetter",
@@ -14431,6 +14963,12 @@
     "ids": [
       "501004515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -14546,6 +15084,12 @@
     "ids": [
       "501004802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -14567,21 +15111,21 @@
     "ids": [
       "820008001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Invitation on a Stormy Day",
     "ids": [
       "820008002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Drawn In",
     "ids": [
       "830075001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Discovery",
@@ -14590,14 +15134,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Shadowing",
     "ids": [
       "830075003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "At Long Last...",
@@ -14618,6 +15162,12 @@
     "ids": [
       "501025515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -14625,6 +15175,9 @@
     "ids": [
       "501025523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -14810,7 +15363,7 @@
     "ids": [
       "830097001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Thinking Freely",
@@ -14819,14 +15372,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Overwhelming Freedom",
     "ids": [
       "830097003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "After the Kikuka Sho: Triple Crown Champion",
@@ -14857,28 +15410,28 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) New Values Installed",
     "ids": [
       "820009002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) How to Make Friends: Research",
     "ids": [
       "830059001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) How to Make Friends: Investigation",
     "ids": [
       "830059002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) How to Make Friends: Implementation",
@@ -14887,28 +15440,28 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Status—Boring?",
     "ids": [
       "830066001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Status—As I Am",
     "ids": [
       "830066002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Status—Fun!",
     "ids": [
       "830066003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Trail of Light",
@@ -14929,6 +15482,12 @@
     "ids": [
       "501026515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -15077,6 +15636,9 @@
     "ids": [
       "501026523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -15100,6 +15662,9 @@
     "ids": [
       "501026802"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -15107,8 +15672,6 @@
     "ids": [
       "501026800"
     ],
-    "check_position": 1,
-    "pattern": "odd_good",
     "notes": ""
   },
   {
@@ -15139,35 +15702,35 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) What I'm Looking For...",
     "ids": [
       "820017002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Doomsday for the Overlord?!",
     "ids": [
       "830079001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Coupon Gone Wrong",
     "ids": [
       "830079002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) New Recruit",
     "ids": [
       "830079003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Fierce Fight! A Spicy Match",
@@ -15188,6 +15751,12 @@
     "ids": [
       "501058515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -15483,6 +16052,9 @@
     "ids": [
       "501058523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -15530,14 +16102,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) The Place I Wish to Stand",
     "ids": [
       "820034002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Faith in One Another",
@@ -15558,6 +16130,12 @@
     "ids": [
       "501071515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -15746,6 +16324,9 @@
     "ids": [
       "501071523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -15783,7 +16364,7 @@
     "ids": [
       "820018001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Don't Need to Be Seen",
@@ -15792,7 +16373,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) One Step Forward",
@@ -15801,21 +16382,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Two Steps Up",
     "ids": [
       "830041002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Three Steps Forward, Two Steps Back",
     "ids": [
       "830041003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Mejiro Colors",
@@ -15836,6 +16417,12 @@
     "ids": [
       "501059515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -15909,6 +16496,9 @@
     "ids": [
       "501059523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -16033,6 +16623,12 @@
     "ids": [
       "501059800"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -16068,14 +16664,14 @@
     "ids": [
       "830027001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Runaway Romance",
     "ids": [
       "830027002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Optimistic Escapism: Never Give Up!",
@@ -16084,7 +16680,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "A Precious Place",
@@ -16105,6 +16701,12 @@
     "ids": [
       "501064515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -16163,6 +16765,9 @@
     "ids": [
       "501064523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -16244,21 +16849,21 @@
     "ids": [
       "830087001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) I'll Go on Stage!",
     "ids": [
       "830087002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) I'll Win!",
     "ids": [
       "830087003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "The Blues Beneath the Green and White",
@@ -16279,6 +16884,12 @@
     "ids": [
       "501074515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -16423,6 +17034,9 @@
     "ids": [
       "501074523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -16460,21 +17074,21 @@
     "ids": [
       "830022001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Expectations Are Affection",
     "ids": [
       "830022002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Meeting Expectations",
     "ids": [
       "830022003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Resolve and Duty",
@@ -16495,6 +17109,12 @@
     "ids": [
       "501013515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -16543,8 +17163,7 @@
       "501013524"
     ],
     "check_position": [
-      1,
-      3
+      1
     ],
     "pattern": "odd_good",
     "notes": ""
@@ -16645,6 +17264,9 @@
     "ids": [
       "501013523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -16682,6 +17304,12 @@
     "ids": [
       "501013802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -16696,6 +17324,12 @@
     "ids": [
       "501013805"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -16717,49 +17351,49 @@
     "ids": [
       "820010001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Carried by Cheers",
     "ids": [
       "820010002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Flustered Afternoon Tea!",
     "ids": [
       "830048001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Home Run Derby!",
     "ids": [
       "830048002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Indomitable Hearts on Fire!",
     "ids": [
       "830048003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) All Roads Lead to Gains!",
     "ids": [
       "820040001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Success Starts with Reps!",
     "ids": [
       "820040002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "My Signature Racewear",
@@ -16780,6 +17414,12 @@
     "ids": [
       "501027515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -16910,6 +17550,9 @@
     "ids": [
       "501027523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -16963,14 +17606,14 @@
     "ids": [
       "830032001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Reasonable Diet vs. an Explosive Diet",
     "ids": [
       "830032002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Yaeno Muteki's Love Song Nightmare",
@@ -16979,7 +17622,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "The Weight of Recognition",
@@ -17000,6 +17643,12 @@
     "ids": [
       "501072515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -17139,6 +17788,9 @@
     "ids": [
       "501072523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -17192,56 +17844,56 @@
     "ids": [
       "820011001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Natural City Girl",
     "ids": [
       "820011002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Cozy Memories of Wanko Soba",
     "ids": [
       "830031001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) The Class Rep's Intense Crash Course",
     "ids": [
       "830031002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) I Wanna Win!",
     "ids": [
       "830031003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) A Help'n Hand!",
     "ids": [
       "830070001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Plain Ol' Charm",
     "ids": [
       "830070002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Star of the Show",
     "ids": [
       "830070003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "A Page of Flower Shop Assistance",
@@ -17262,63 +17914,63 @@
     "ids": [
       "830023001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Page from a Day Spent with Friends",
     "ids": [
       "830023002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) A Page from a Day of Hard Work",
     "ids": [
       "830023003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Rainy Day, Floating Flowers",
     "ids": [
       "830034001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Magical Flowers, Forever Fair",
     "ids": [
       "830034002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) A Bouquet Fluttering in the Sun",
     "ids": [
       "830034003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Forever a Child in Our Eyes",
     "ids": [
       "830100001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) They Grow Up So Fast",
     "ids": [
       "830100002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Hearts Full of Bittersweet Joy",
     "ids": [
       "830100003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Am I Enough?",
@@ -17339,6 +17991,12 @@
     "ids": [
       "501030515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -17445,6 +18103,12 @@
     "ids": [
       "501030802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -17485,28 +18149,28 @@
     "ids": [
       "809006005"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) A Change of Pace",
     "ids": [
       "809006006"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Picture Their Joy",
     "ids": [
       "809006007"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯❯) Confused by Kindness",
     "ids": [
       "809006008"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "A Priceless Connection",
@@ -17536,14 +18200,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Good Work",
     "ids": [
       "809008003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Etsuko's Elated Coverage",
@@ -17864,7 +18528,7 @@
     "ids": [
       "809004005"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) How I Play at the Park",
@@ -17873,21 +18537,21 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Reckless Training",
     "ids": [
       "809004007"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯❯) The Joy of Respect",
     "ids": [
       "809004008"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯❯❯) Chasing Dreams",
@@ -17896,7 +18560,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "My Chosen Way of Life",
@@ -17924,28 +18588,28 @@
     "ids": [
       "809001005"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Inexplicable Speed",
     "ids": [
       "809001006"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Memories of Cinema",
     "ids": [
       "809001007"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯❯) A Sigh and a Bandage",
     "ids": [
       "809001008"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯❯❯) A Surprise Breather",
@@ -17954,7 +18618,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "From Just a Little Closer",
@@ -18030,7 +18694,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Storied ☆ Sunglasses",
@@ -18039,7 +18703,7 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Healing Hot Spring Holiday ☆",
@@ -18081,7 +18745,7 @@
       2
     ],
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "The Little Marvelous Match Girl",
@@ -18481,14 +19145,14 @@
     ],
     "check_position": 1,
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Sloppy Captain",
     "ids": [
       "820075002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "No Border",
@@ -18558,42 +19222,42 @@
     "ids": [
       "830220001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Reciprocate Your Dreams",
     "ids": [
       "830220002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) For You",
     "ids": [
       "830220003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯) Etude",
     "ids": [
       "830219001"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯) Premiere",
     "ids": [
       "830219002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) Remake",
     "ids": [
       "830219003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Have a good “knight”!",
@@ -18607,14 +19271,14 @@
     "ids": [
       "830228002"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "(❯❯❯) WOTAGEI",
     "ids": [
       "830228003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Parley!",
@@ -18628,7 +19292,7 @@
     "ids": [
       "830248003"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "Queen's Heart",
@@ -18672,7 +19336,7 @@
       "501044117",
       "501044405"
     ],
-    "notes": ""
+    "notes": "aggressive match - verify"
   },
   {
     "event_name": "The Coolest Spot",
@@ -18791,6 +19455,9 @@
     "ids": [
       "501004523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -18798,6 +19465,9 @@
     "ids": [
       "501030523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -18805,6 +19475,9 @@
     "ids": [
       "501061523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -19289,6 +19962,9 @@
     "ids": [
       "501023523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -19390,6 +20066,9 @@
     "ids": [
       "501037523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -19559,6 +20238,9 @@
     "ids": [
       "501048523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -19566,6 +20248,12 @@
     "ids": [
       "501048515"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -19723,6 +20411,9 @@
     "ids": [
       "501031523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -19857,6 +20548,9 @@
     "ids": [
       "501044523"
     ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -20216,7 +20910,8 @@
       "501069521",
       "501071521",
       "501072521",
-      "501074521"
+      "501074521",
+      "501098521"      
     ],
     "notes": ""
   },
@@ -20284,7 +20979,8 @@
       "501069522",
       "501071522",
       "501072522",
-      "501074522"
+      "501074522",
+      "501098522"
     ],
     "notes": ""
   },
@@ -20351,7 +21047,8 @@
       "501069712",
       "501071712",
       "501072712",
-      "501074712"
+      "501074712",
+      "501098712"      
     ],
     "notes": ""
   },
@@ -20480,7 +21177,9 @@
       "501072732",
       "501072733",
       "501074732",
-      "501074733"
+      "501074733",
+      "501098732",
+      "501098733"
     ],
     "notes": ""
   },
@@ -20996,7 +21695,8 @@
     "event_name": "Tutorial",
     "ids": [
       "400002041",
-      "400004002"
+      "400004002",
+      "400003027"
     ],
     "notes": ""
   },
@@ -22317,7 +23017,9 @@
       "501072103",
       "501072405",
       "501074103",
-      "501074406"
+      "501074406",
+      "501098103",
+      "501098406"      
     ],
     "notes": ""
   },
@@ -22445,7 +23147,9 @@
       "501072105",
       "501072406",
       "501074105",
-      "501074407"
+      "501074407",
+      "501098105",
+      "501098407"
     ],
     "notes": ""
   },
@@ -22512,7 +23216,8 @@
       "501069107",
       "501071107",
       "501072107",
-      "501074107"
+      "501074107",
+      "501098107"      
     ],
     "notes": ""
   },
@@ -22579,7 +23284,8 @@
       "501069108",
       "501071108",
       "501072108",
-      "501074108"
+      "501074108",
+      "501098108"      
     ],
     "notes": ""
   },
@@ -22646,7 +23352,8 @@
       "501069109",
       "501071109",
       "501072109",
-      "501074109"
+      "501074109",
+      "501098109"      
     ],
     "notes": ""
   },
@@ -22713,7 +23420,8 @@
       "501069110",
       "501071110",
       "501072110",
-      "501074110"
+      "501074110",
+      "501098110"      
     ],
     "notes": ""
   },
@@ -22780,7 +23488,8 @@
       "501069112",
       "501071112",
       "501072112",
-      "501074112"
+      "501074112",
+      "501098112"      
     ],
     "notes": ""
   },
@@ -22908,7 +23617,9 @@
       "501072200",
       "501072407",
       "501074200",
-      "501074408"
+      "501074408",
+      "501098200",
+      "501098408"      
     ],
     "notes": ""
   },
@@ -23399,7 +24110,8 @@
       "501069300",
       "501071300",
       "501072300",
-      "501074300"
+      "501074300",
+      "501098300"      
     ],
     "notes": ""
   },
@@ -23466,7 +24178,8 @@
       "501069302",
       "501071302",
       "501072302",
-      "501074302"
+      "501074302",
+      "501098302"
     ],
     "notes": ""
   },
@@ -23540,6 +24253,12 @@
       "501001311",
       "501001423"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -23628,7 +24347,8 @@
       "501069508",
       "501071508",
       "501072508",
-      "501074508"
+      "501074508",
+      "501098508"
     ],
     "notes": ""
   },
@@ -23695,7 +24415,8 @@
       "501069509",
       "501071509",
       "501072509",
-      "501074509"
+      "501074509",
+      "501098509"      
     ],
     "notes": ""
   },
@@ -23762,7 +24483,8 @@
       "501069600",
       "501071600",
       "501072600",
-      "501074600"
+      "501074600",
+      "501098600"      
     ],
     "notes": ""
   },
@@ -23829,7 +24551,8 @@
       "501069601",
       "501071601",
       "501072601",
-      "501074601"
+      "501074601",
+      "501098601"
     ],
     "notes": ""
   },
@@ -23896,7 +24619,8 @@
       "501069700",
       "501071700",
       "501072700",
-      "501074700"
+      "501074700",
+      "501098700"
     ],
     "notes": ""
   },
@@ -23963,7 +24687,8 @@
       "501069701",
       "501071701",
       "501072701",
-      "501074701"
+      "501074701",
+      "501098701"
     ],
     "notes": ""
   },
@@ -24029,7 +24754,8 @@
       "501069707",
       "501071707",
       "501072707",
-      "501074707"
+      "501074707",
+      "501098707"
     ],
     "notes": ""
   },
@@ -24098,7 +24824,8 @@
       "501069711",
       "501071711",
       "501072711",
-      "501074711"
+      "501074711",
+      "501098711"      
     ],
     "notes": ""
   },
@@ -24165,7 +24892,8 @@
       "501069716",
       "501071716",
       "501072716",
-      "501074716"
+      "501074716",
+      "501098716"      
     ],
     "notes": ""
   },
@@ -24232,7 +24960,8 @@
       "501069717",
       "501071717",
       "501072717",
-      "501074717"
+      "501074717",
+      "501098717"      
     ],
     "notes": ""
   },
@@ -24299,7 +25028,8 @@
       "501069718",
       "501071718",
       "501072718",
-      "501074718"
+      "501074718",
+      "501098718"
     ],
     "notes": ""
   },
@@ -24366,7 +25096,8 @@
       "501069722",
       "501071722",
       "501072722",
-      "501074722"
+      "501074722",
+      "501098722"      
     ],
     "notes": ""
   },
@@ -24433,7 +25164,8 @@
       "501069726",
       "501071726",
       "501072726",
-      "501074726"
+      "501074726",
+      "501098726"      
     ],
     "notes": ""
   },
@@ -24561,7 +25293,9 @@
       "501072727",
       "501072730",
       "501074727",
-      "501074730"
+      "501074730",
+      "501098727",
+      "501098730"      
     ],
     "notes": ""
   },
@@ -24689,7 +25423,9 @@
       "501072728",
       "501072731",
       "501074728",
-      "501074731"
+      "501074731",
+      "501098728",
+      "501098731"
     ],
     "notes": ""
   },
@@ -24756,7 +25492,8 @@
       "501069729",
       "501071729",
       "501072729",
-      "501074729"
+      "501074729",
+      "501098729"      
     ],
     "notes": ""
   },
@@ -27688,6 +28425,9 @@
     "ids": [
       "501021735"
     ],
+    "check_position": 2,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -29046,7 +29786,11 @@
       "501046204",
       "501046209",
       "501046413",
-      "501046418"
+      "501046418",
+      "501098204",
+      "501098210",
+      "501098412",
+      "501098418"      
     ],
     "notes": ""
   },
@@ -30276,7 +31020,11 @@
       "501046203",
       "501046207",
       "501046412",
-      "501046416"
+      "501046416",
+      "501098202",
+      "501098209",
+      "501098410",
+      "501098417"      
     ],
     "notes": ""
   },
@@ -30286,7 +31034,9 @@
       "501046205",
       "501046414",
       "501052202",
-      "501052411"
+      "501052411",
+      "501098205",
+      "501098413"      
     ],
     "notes": ""
   },
@@ -30294,15 +31044,19 @@
     "event_name": "Before the Teio Sho",
     "ids": [
       "501046206",
-      "501046415"
+      "501046415",
+      "501098207",
+      "501098415"      
     ],
     "notes": ""
   },
   {
-    "event_name": "Before the Champions Cup",
+    "event_name": "Before the Champions C",
     "ids": [
       "501046208",
-      "501046417"
+      "501046417",
+      "501098203",
+      "501098411"      
     ],
     "notes": ""
   },
@@ -33246,7 +34000,8 @@
   {
     "event_name": "Happy Meek's Challenge!",
     "ids": [
-      "400001418"
+      "400001418",
+      "400001043"
     ],
     "check_position": [
       1,
@@ -33254,6 +34009,1106 @@
       3
     ],
     "pattern": "top_good",
+    "always": true,
+    "notes": ""
+  },
+    {
+    "event_name": "(❯) Researching the Limits of Running: Rapport",
+    "ids": [
+      "830101001"
+    ],
+    "check_position": 2,
+    "pattern": "odd_good",
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯) Researching the Limits of Running: Dreams",
+    "ids": [
+      "830101002"
+    ],
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯❯) Researching the Limits of Running: Velocity",
+    "ids": [
+      "830101003"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": "aggressive match - verify"
+  },
+    {
+    "event_name": "(❯) Chasing Down Turbo!",
+    "ids": [
+      "830112001"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯) Gaming with Turbo!",
+    "ids": [
+      "830112002"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯❯) The Unbeatable Turbo!",
+    "ids": [
+      "830112003"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": "aggressive match - verify"
+  },
+    {
+    "event_name": "(❯) The Monarch's Weak Point",
+    "ids": [
+      "830111001"
+    ],
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯) A New Way of Cool",
+    "ids": [
+      "830111002"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯❯) The Monarch's Play Style",
+    "ids": [
+      "830111003"
+    ],
+    "notes": "aggressive match - verify"
+  },
+    {
+    "event_name": "(❯) The Problems in Running a Family Business",
+    "ids": [
+      "830113001"
+    ],
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯) Cognitive Restructuring in a Virtual Space",
+    "ids": [
+      "830113002"
+    ],
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯❯) The Planner's Effect on the Party",
+    "ids": [
+      "830113003"
+    ],
+    "notes": "aggressive match - verify"
+  },
+    {
+    "event_name": "(❯) Not All Phenomena Must Be Seen",
+    "ids": [
+      "830110001"
+    ],
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯) The Big Picture Isn't So Big",
+    "ids": [
+      "830110002"
+    ],
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯❯) Not All Mysteries Must Be Solved",
+    "ids": [
+      "830110003"
+    ],
+    "notes": "aggressive match - verify"
+  },
+    {
+    "event_name": "(❯) Please Rerun Task",
+    "ids": [
+      "830121001"
+    ],
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯) Finding the Common Denominator",
+    "ids": [
+      "830121002"
+    ],
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯❯) The Fan-Appreciation Prize Drawing!",
+    "ids": [
+      "830121003"
+    ],
+    "notes": "aggressive match - verify"
+  },
+    {
+    "event_name": "Another Day's Hard Work!",
+    "ids": [
+      "809006003",
+      "809008003",
+      "809044003",
+      "809001003",
+      "809004003"      
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "Some Crafty Research ♪",
+    "ids": [
+      "809008001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Embrace Those Emotions!",
+    "ids": [
+      "809008004"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯) Repose in the Lunar Mare",
+    "ids": [
+      "809008005"
+    ],
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯) Tycho's Radiance",
+    "ids": [
+      "809008006"
+    ],
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯❯) Hidden Beneath the Regolith",
+    "ids": [
+      "809008007"
+    ],
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯❯❯) Scaling Mons Huygens",
+    "ids": [
+      "809008008"
+    ],
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "(❯❯❯❯❯) At Rainbow Cove",
+    "ids": [
+      "830052001"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": "aggressive match - verify"
+  },
+  {
+    "event_name": "Bonding with Light Hello: Letting Loose",
+    "ids": [
+      "809008011"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Light Hello, the Event Planner",
+    "ids": [
+      "809008002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Until It Shines in Full",
+    "ids": [
+      "809008010"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Dawn Under the Waning Moon",
+    "ids": [
+      "809008009"
+    ],
+    "notes": ""
+  },
+    {
+    "event_name": "Tickezo's Delivery Service: The Outset",
+    "ids": [
+      "501035800"
+    ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "Tickezo's Delivery Service: Academy Antics",
+    "ids": [
+      "501035801"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Tickezo's Delivery Service: From the Heart",
+    "ids": [
+      "501035802"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Signature Racewear That Attracts Happiness ☆",
+    "ids": [
+      "501098513"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Feng Shui Can Catch Ghosts?!",
+    "ids": [
+      "501098514"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Happy on TV ☆",
+    "ids": [
+      "501098515"
+    ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "After the February S.: Proof of the Dragon's Ascension",
+    "ids": [
+      "501098312",
+      "501098428"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the February S.: Soaring Dragon",
+    "ids": [
+      "501098311",
+      "501098427"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the February S.: Win or Lose, Take to the Sky",
+    "ids": [
+      "501098313",
+      "501098429"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the Kashiwa Kinen: But I Won't Sing",
+    "ids": [
+      "501098314",
+      "501098430"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the JBC Classic: The Mark of a Winner",
+    "ids": [
+      "501098308",
+      "501098424"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the Tokyo Daishoten: An Irresistible Vortex",
+    "ids": [
+      "501098310",
+      "501098426"      
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Let Long-Held Relationships Flow like Rivers",
+    "ids": [
+      "501098113",
+      "501098401"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Which Path Should I Take?",
+    "ids": [
+      "501098114",
+      "501098402"      
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "In the Circle of Light",
+    "ids": [
+      "501098115",
+      "501098403"      
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "It's Your Song!",
+    "ids": [
+      "501098116",
+      "501098404"      
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Challenge on the Hot Sand",
+    "ids": [
+      "501098117",
+      "501098405"      
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Go Rickey!",
+    "ids": [
+      "501098111"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Spreading the Word of Feng Shui",
+    "ids": [
+      "501098510"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Bond Between Classmates",
+    "ids": [
+      "501098520"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Dramatic Feng Shui Renovation!",
+    "ids": [
+      "501098702"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Let's Make Some Good Memories!",
+    "ids": [
+      "501098703"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Customized and Special Day",
+    "ids": [
+      "501098704"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Happiness! ☆ Luck! ☆ Come Forth!",
+    "ids": [
+      "501098705"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Happy Barbecue for One and All ☆",
+    "ids": [
+      "501098706"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Eleven Stars in the Sky",
+    "ids": [
+      "501098118"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Shrimpy! Tempy! Crisis?!",
+    "ids": [
+      "501098517"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "I Thought It'd Help...",
+    "ids": [
+      "501098518"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Technically Correct (?) Advice",
+    "ids": [
+      "501098519"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Sudden Feng Shui Battle?!",
+    "ids": [
+      "501098511"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Lucky, Lucky ♪",
+    "ids": [
+      "501098524"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Enlightened Feng Shui Master ☆",
+    "ids": [
+      "501098523"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "Rickey's Unsolicited Advice ☆",
+    "ids": [
+      "501098719"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Happy! Lucky! Sumo Stew! ♪",
+    "ids": [
+      "501098516"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "My First Concert",
+    "ids": [
+      "501046800"
+    ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "One Hot Stage, Coming Right Up!",
+    "ids": [
+      "501046801"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Umadol Road, Far, Far Away",
+    "ids": [
+      "501046802"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Quest: Help the Theater Club!",
+    "ids": [
+      "501050801"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Quest: Help the Boy!",
+    "ids": [
+      "501050802"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Quest: Help Dismantle the Set!",
+    "ids": [
+      "501050800"
+    ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "odd_good",
+    "notes": ""
+  },
+    {
+    "event_name": "Where No Spotlight Shines",
+    "ids": [
+      "400003000",
+      "400003400"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Bring Back the Grand Concert!",
+    "ids": [
+      "400003001",
+      "400003401"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Not an Order",
+    "ids": [
+      "400003002",
+      "400003402",
+      "400003403"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Steps to Success",
+    "ids": [
+      "400003003"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "How to Get Across to You",
+    "ids": [
+      "400003004",
+      "400003404"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Can You Sing?",
+    "ids": [
+      "400003005",
+      "400003405"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Past Regret",
+    "ids": [
+      "400003006",
+      "400003406"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Stage Where You Shine",
+    "ids": [
+      "400003007",
+      "400003407"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Stage Where We Shine",
+    "ids": [
+      "400003008",
+      "400003408"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "What We Want",
+    "ids": [
+      "400003009",
+      "400003409"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Endeavor Together",
+    "ids": [
+      "400003010",
+      "400003410"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "In Pursuit of Big Dreams",
+    "ids": [
+      "400003011",
+      "400003411"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Whose Wish?",
+    "ids": [
+      "400003012",
+      "400003412"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Our Song",
+    "ids": [
+      "400003013",
+      "400003413"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Finale",
+    "ids": [
+      "400003017",
+      "400003018",
+      "400003019",
+      "400003020",
+      "400003021",
+      "400003417"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Grand Finale",
+    "ids": [
+      "400003022",
+      "400003023",
+      "400003024",
+      "400003025",
+      "400003026",
+      "400003418"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Concert Fever",
+    "ids": [
+      "400003028"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Event Producer's Appraisal",
+    "ids": [
+      "400003100",
+      "400003101",
+      "400003102",
+      "400003103"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the First Concert",
+    "ids": [
+      "400003200",
+      "400003425"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Movements of the Heart",
+    "ids": [
+      "400003201",
+      "400003426"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Closer Together",
+    "ids": [
+      "400003202",
+      "400003231",
+      "400003427",
+      "400003428"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The First Concert Begins!",
+    "ids": [
+      "400003207",
+      "400003208",
+      "400003430",
+      "400003431"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Second Concert Begins!",
+    "ids": [
+      "400003209",
+      "400003210",
+      "400003211",
+      "400003432",
+      "400003433",
+      "400003434"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Third Concert Begins!",
+    "ids": [
+      "400003212",
+      "400003213",
+      "400003435",
+      "400003436"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Fourth Concert Begins!",
+    "ids": [
+      "400003214",
+      "400003215",
+      "400003437",
+      "400003438"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The First Concert Ends!",
+    "ids": [
+      "400003218",
+      "400003219",
+      "400003441",
+      "400003442"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Second Concert Ends!",
+    "ids": [
+      "400003220",
+      "400003221",
+      "400003222",
+      "400003443",
+      "400003444",
+      "400003445"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Third Concert Ends!",
+    "ids": [
+      "400003223",
+      "400003446"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Fourth Concert Ends!",
+    "ids": [
+      "400003224",
+      "400003225",
+      "400003447",
+      "400003448"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "From Training Partners to Supporters!",
+    "ids": [
+      "400003228"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Sudden New Supporters!",
+    "ids": [
+      "400003229"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "New Supporters!",
+    "ids": [
+      "400003230"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "We Are...",
+    "ids": [
+      "400003300"
+    ],
+    "notes": ""
+  },
+    {
+    "event_name": "A \"Good Singer\"",
+    "ids": [
+      "400003301"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Proposal! A New Single",
+    "ids": [
+      "400003302"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Tracen Idol",
+    "ids": [
+      "400003303"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Every Bit of Effort Counts",
+    "ids": [
+      "400003304"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Grand Concert Begins!",
+    "ids": [
+      "400003460",
+      "501001901",
+      "501002901",
+      "501003901",
+      "501004901",
+      "501005901",
+      "501006901",
+      "501007901",
+      "501008901",
+      "501009901",
+      "501010901",
+      "501011901",
+      "501012901",
+      "501013901",
+      "501014901",
+      "501015901",
+      "501016901",
+      "501017901",
+      "501018901",
+      "501019901",
+      "501020901",
+      "501021901",
+      "501022901",
+      "501023901",
+      "501024901",
+      "501025901",
+      "501026901",
+      "501027901",
+      "501028901",
+      "501030901",
+      "501031901",
+      "501032901",
+      "501033901",
+      "501034901",
+      "501035901",
+      "501036901",
+      "501037901",
+      "501038901",
+      "501039901",
+      "501040901",
+      "501041901",
+      "501044901",
+      "501045901",
+      "501046901",
+      "501048901",
+      "501050901",
+      "501051901",
+      "501052901",
+      "501053901",
+      "501056901",
+      "501058901",
+      "501059901",
+      "501060901",
+      "501061901",
+      "501062901",
+      "501064901",
+      "501067901",
+      "501068901",
+      "501069901",
+      "501071901",
+      "501072901",
+      "501074901",
+      "501098901"
+    ],
+    "notes": ""
+  },
+    {
+    "event_name": "Before the Mile Ch. Nambu Hai",
+    "ids": [
+      "501019207",
+      "501019208",
+      "501019425",
+      "501019427",
+      "501098208",
+      "501098416"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the Mile Ch. Nambu Hai: This Is Heaven",
+    "ids": [
+      "501019426",
+      "501019428"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Before the Kawasaki Kinen",
+    "ids": [
+      "501046210",
+      "501046432"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the Kawasaki Kinen: Hearts Aflutter!",
+    "ids": [
+      "501046433"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Let Your Dreams Shine!",
+    "ids": [
+      "501053404",
+      "501053116"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "For FRIENDSHIP!",
+    "ids": [
+      "501053405",
+      "501053117"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Before the Fukuryu S.",
+    "ids": [
+      "501098201",
+      "501098409"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Before the Kashiwa Kinen",
+    "ids": [
+      "501098206",
+      "501098414"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the Debut: Feng Shui Doesn't Make Miracles Happen",
+    "ids": [
+      "501098303",
+      "501098419"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Goal Achieved: A Mixture of Black and White",
+    "ids": [
+      "501098304",
+      "501098420"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the Fukuryu S.: A Hidden Floodgate",
+    "ids": [
+      "501098305",
+      "501098421"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the Japanese Derby: The Spreading Dew",
+    "ids": [
+      "501098306",
+      "501098422"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Tipster Prodigy?",
+    "ids": [
+      "501098307",
+      "501098423"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the Champions C.: Rivalry",
+    "ids": [
+      "501098309",
+      "501098425"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the Teio Sho: The Four Guardians",
+    "ids": [
+      "501098315",
+      "501098431"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the Mile Ch. Nambu Hai: Because We Lose Our Way",
+    "ids": [
+      "501098316",
+      "501098432"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the JBC Classic: An Unknown Roar",
+    "ids": [
+      "501098317",
+      "501098433"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the Tokyo Daishoten: 3,000-Year Wish",
+    "ids": [
+      "501098318",
+      "501098434"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Introducing Copano Rickey!",
+    "ids": [
+      "501098400"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the Fishing Trip...",
+    "ids": [
+      "820050001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Let's Go Fishing Again",
+    "ids": [
+      "820050002"
+    ],
     "notes": ""
   }
 ]
