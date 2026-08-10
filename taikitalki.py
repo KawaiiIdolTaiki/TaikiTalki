@@ -123,14 +123,6 @@ PATTERNS = {
 # Scenario whose events use the patterns stored in events.json.
 CLIMAX_SCENARIO_ID = 4
 
-# Event names whose stored pattern applies in EVERY scenario, not just Climax.
-# Everything else outside Climax is forced to odd_good.
-ALWAYS_PATTERN_NAMES = {
-    "Get Well Soon!",       
-    "Happy Meek's Challenge!",
-    "Don't Overdo It!"
-}
-
 def resolve_outcome(pattern, found_value, outcomes=None):
     if found_value is None:
         return None
@@ -178,13 +170,12 @@ def process_file(filepath: str):
         check_pos       = db_entry.get("check_position")
         check_positions = [check_pos] if isinstance(check_pos, int) else check_pos
 
-        event_name = db_entry.get("event_name", "")
-
+        always = db_entry.get("always", False)
         # Use the entry's stored pattern if EITHER:
-        #   - its name is scenario-independent (always applies), OR
+        #   - it's flagged "always" (applies in every scenario), OR
         #   - we're in Climax (scenario 4).
         # Otherwise force odd_good.
-        if event_name in ALWAYS_PATTERN_NAMES or scenario_id == CLIMAX_SCENARIO_ID:
+        if always or scenario_id == CLIMAX_SCENARIO_ID:
             eff_pattern  = db_entry.get("pattern")
             eff_outcomes = db_entry.get("outcomes")
         else:
