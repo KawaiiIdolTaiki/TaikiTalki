@@ -3,6 +3,8 @@ stolen project from https://github.com/SweepTosher/dumper
 
 ---
 
+i just realized updater broke grrr maybe ill finish it this month or next month
+
 grand live/concert done  
 
 
