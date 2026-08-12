@@ -4300,8 +4300,6 @@
     "ids": [
       "501006719"
     ],
-    "check_position": 1,
-    "pattern": "odd_good",
     "notes": ""
   },
   {
@@ -17165,8 +17163,7 @@
       "501013524"
     ],
     "check_position": [
-      1,
-      3
+      1
     ],
     "pattern": "odd_good",
     "notes": ""
@@ -34156,7 +34153,6 @@
     {
     "event_name": "Another Day's Hard Work!",
     "ids": [
-      "809006003",
       "809008003",
       "809044003",
       "809001003",
@@ -34489,7 +34485,8 @@
       "501098523"
     ],
     "check_position": 1,
-    "pattern": "odd_good",
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -34504,7 +34501,7 @@
     "ids": [
       "501098516"
     ],
-    "check_position": 1,
+    "check_position": 2,
     "pattern": "odd_good",
     "notes": ""
   },
