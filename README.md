@@ -83,6 +83,9 @@ program is tested only on firefox and idc about other browser
 -restart the program
 
 ## Changelog
+### 24-08-2026
+    -new character/cards updated
+
 ### 02-08-2026
     -updated till grand live/concert
 

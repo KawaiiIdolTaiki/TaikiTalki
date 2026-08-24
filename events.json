@@ -4319,7 +4319,7 @@
       1
     ],
     "pattern": "odd_good",
-    "notes": ""
+    "notes": "server-side"
   },
   {
     "event_name": "Together Forever",
@@ -8526,8 +8526,6 @@
       "501001803",
       "501099118"
     ],
-    "check_position": 1,
-    "pattern": "odd_good",
     "notes": ""
   },
   {
@@ -34250,7 +34248,8 @@
       1,
       2
     ],
-    "pattern": "odd_good",
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -34290,7 +34289,8 @@
       1,
       2
     ],
-    "pattern": "odd_good",
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -34510,11 +34510,9 @@
     "ids": [
       "501046800"
     ],
-    "check_position": [
-      1,
-      2
-    ],
-    "pattern": "odd_good",
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -34529,6 +34527,12 @@
     "ids": [
       "501046802"
     ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
   {
@@ -34554,7 +34558,8 @@
       1,
       2
     ],
-    "pattern": "odd_good",
+    "pattern": "even_good",
+    "always": true,
     "notes": ""
   },
     {
@@ -35109,6 +35114,561 @@
     "ids": [
       "820050002"
     ],
+    "notes": ""
+  },
+    {
+    "event_name": "(❯) What Do You Mean, \"Stale?!\"",
+    "ids": [
+      "830117001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) The Big Prank Plan!",
+    "ids": [
+      "830117002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯❯) Executing the Plan!",
+    "ids": [
+      "830117003"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Magnificent Dismay?",
+    "ids": [
+      "801085001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Magnificent Melodia",
+    "ids": [
+      "801085002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯) To Uphold Oneself with Strictness",
+    "ids": [
+      "830114001"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) To Exert Oneself with Diligence",
+    "ids": [
+      "830114002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯❯) To Conduct Oneself with Kindness",
+    "ids": [
+      "830114003"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯) Helios's Hype Heaven: The Lead-up ☆",
+    "ids": [
+      "830116001"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) Helios's Hype Heaven Week!",
+    "ids": [
+      "830116002"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",    
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯❯) Hype Heaven, Part Two!",
+    "ids": [
+      "830116003"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",    
+    "notes": ""
+  },
+  {
+    "event_name": "(❯) Giving up Candy's No Big Deal",
+    "ids": [
+      "830115001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) As Long as You’re Happy",
+    "ids": [
+      "830115002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯❯) This Is Just Who I Am",
+    "ids": [
+      "830115003"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",    
+    "notes": ""
+  },
+    {
+    "event_name": "Halloween Karaoke Party",
+    "ids": [
+      "501019800"
+    ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "The Tragic Tale of the Otaku Jiangshi",
+    "ids": [
+      "501019801"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Love Makes You Stronger",
+    "ids": [
+      "501019802"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Unprecedented Challenge",
+    "ids": [
+      "501042513"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Steadfast Spirit and Prevailing Power",
+    "ids": [
+      "501042514"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Fantastic Tea Party",
+    "ids": [
+      "501042515"
+    ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "The Secretive Family",
+    "ids": [
+      "501042113"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Sudden Entrapment!",
+    "ids": [
+      "501042114"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "To Know Pain is to Know Struggle",
+    "ids": [
+      "501042115"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Discovery of the Destined G1!",
+    "ids": [
+      "501042116"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Clear Skies and New Plans",
+    "ids": [
+      "501042117"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Flower Crown for the World",
+    "ids": [
+      "501042118"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Mile is All Mine",
+    "ids": [
+      "501042119"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Tale from Number 102",
+    "ids": [
+      "501042111"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Airport Anguish",
+    "ids": [
+      "501042517"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Permanent Regrets",
+    "ids": [
+      "501042519"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Sweeping Away Fears",
+    "ids": [
+      "501042510"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Windy Bites",
+    "ids": [
+      "501042511"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Infectious Vacance",
+    "ids": [
+      "501042520"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Soup of Possibilities",
+    "ids": [
+      "501042702"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Sudden Inspiration",
+    "ids": [
+      "501042703"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Blank Canvas for Two",
+    "ids": [
+      "501042704"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Riveting ☆ Rockets",
+    "ids": [
+      "501042705"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "An Honest Salesman!",
+    "ids": [
+      "501042706"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Drawing Out the Greatest Potential!",
+    "ids": [
+      "501042524"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Meditation Workshop",
+    "ids": [
+      "501042523"
+    ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "Words from the World's Best",
+    "ids": [
+      "501042719"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "A Guide for the Long Run",
+    "ids": [
+      "501042518"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Cheers to the Season We Spent Together",
+    "ids": [
+      "501042516"
+    ],
+    "check_position": 2,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "A Friendly Halloween Parade",
+    "ids": [
+      "501058800"
+    ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "Doto's Party Palace?!",
+    "ids": [
+      "501058801"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "Friends Cry Together",
+    "ids": [
+      "501058802"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "No Place Like Home",
+    "ids": [
+      "501029513"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Trendy Day Out ♪",
+    "ids": [
+      "501029514"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Mountain Folks Are Tough",
+    "ids": [
+      "501029515"
+    ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "After the Mile Ch. Nambu Hai: Dazzl'n Ties",
+    "ids": [
+      "501029310",
+      "501029315"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Shining in the Night",
+    "ids": [
+      "501029115"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Dazzl'n Tears",
+    "ids": [
+      "501029116"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Dazzl'n Gold",
+    "ids": [
+      "501029117"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Path Beyond the Tiara",
+    "ids": [
+      "501029118"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Yukino Bijin",
+    "ids": [
+      "501029111"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Staying On Trend! ...Or Not!",
+    "ids": [
+      "501029517"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Beauty Is Pain...",
+    "ids": [
+      "501029518"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Snow That Doesn't Melt?",
+    "ids": [
+      "501029519"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "What a Cutie-Patootie!",
+    "ids": [
+      "501029510"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Welcome to the Miho Market!",
+    "ids": [
+      "501029511"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Noth'n Like Work'n in the Fields!",
+    "ids": [
+      "501029520"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A New Challenge!",
+    "ids": [
+      "501029702"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Hardcore Train'n with City!",
+    "ids": [
+      "501029703"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Lights, Camera, Action!",
+    "ids": [
+      "501029704"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Journey Through the Stars",
+    "ids": [
+      "501029705"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Gotta Stay Quiet",
+    "ids": [
+      "501029706"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Call of the City...",
+    "ids": [
+      "501029719"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "Dazzl'n Admiration",
+    "ids": [
+      "501029113"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Blow'n Up!",
+    "ids": [
+      "501029114"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "To Be a City Girl",
+    "ids": [
+      "501029524"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Teach an Uma to Fish",
+    "ids": [
+      "501029523"
+    ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "Round Temptation",
+    "ids": [
+      "501029516"
+    ],
+    "check_position": 2,
+    "pattern": "odd_good",
     "notes": ""
   }
 ]
