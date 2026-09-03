@@ -33850,7 +33850,8 @@
       "801072003",
       "801073003",
       "801074003",
-      "801077003"
+      "801077003",
+      "801085003"
     ],
     "notes": ""
   },
@@ -35669,6 +35670,505 @@
     ],
     "check_position": 2,
     "pattern": "odd_good",
+    "notes": ""
+  },
+    {
+    "event_name": "Spreading Kindness",
+    "ids": [
+      "801093001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Come Rain or River",
+    "ids": [
+      "801093002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯) Across Still Waters",
+    "ids": [
+      "820051001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) On Thin Ice",
+    "ids": [
+      "820051002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Euphoria of Destruction!",
+    "ids": [
+      "801084001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "An Electrifying Present!",
+    "ids": [
+      "801084002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯) As the Great Artists of Yore...",
+    "ids": [
+      "830145001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) As the Criminal from the North...",
+    "ids": [
+      "830145002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯❯) As Bacchus, God of Wine...",
+    "ids": [
+      "830145003"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Helping Out to the MAX!",
+    "ids": [
+      "801073002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Preparing to the MAX!",
+    "ids": [
+      "801073001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯) An Optimistic Outlook!",
+    "ids": [
+      "820052001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) A Strength That's All My Own!",
+    "ids": [
+      "820052002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Wrapped and Remembered",
+    "ids": [
+      "501087513"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Call Me Machan",
+    "ids": [
+      "501087514"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Cooking up Memories",
+    "ids": [
+      "501087515"
+    ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "Speaking of Crowns…",
+    "ids": [
+      "501087516"
+    ],
+    "check_position": 2,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "Tell Machan",
+    "ids": [
+      "501087118"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Say It to Machan, Too",
+    "ids": [
+      "501087119"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "An Urban Legend?",
+    "ids": [
+      "501087510"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Let's Make the Most of Every Moment",
+    "ids": [
+      "501087511"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Unraveling the Mystery of the SSB!",
+    "ids": [
+      "501087520"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Lesson from the Sea Mascots",
+    "ids": [
+      "501087702"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Where's Your Lens Pointing?",
+    "ids": [
+      "501087703"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Even When I Make It Big Someday",
+    "ids": [
+      "501087704"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Toby the Kid and the Stolen Ham Cutlet",
+    "ids": [
+      "501087705"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Machan Wants to Forget",
+    "ids": [
+      "501087706"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "All Sorts of Yumminess",
+    "ids": [
+      "501087524"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "Chasing the Ruby Wind",
+    "ids": [
+      "501078514"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "That's Nature",
+    "ids": [
+      "501078515"
+    ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "More than a Gentle Breeze",
+    "ids": [
+      "501078513"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Innocent Breeze Alert",
+    "ids": [
+      "501078510"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Secret of the Whirling Vortex",
+    "ids": [
+      "501078520"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Shining Place",
+    "ids": [
+      "501078524"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Wind Within You",
+    "ids": [
+      "501078119"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Blossoming Winds",
+    "ids": [
+      "501078511"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Gentle Gust",
+    "ids": [
+      "501078702"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Breath of Fresh Air",
+    "ids": [
+      "501078703"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Wind in the Woods",
+    "ids": [
+      "501078704"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "More Fantastical than Fiction",
+    "ids": [
+      "501078705"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Playing in the Wind",
+    "ids": [
+      "501078706"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Morning Breeze Beckons",
+    "ids": [
+      "501078516"
+    ],
+    "check_position": 2,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "Out of the Drawer, Into the Past",
+    "ids": [
+      "501087111"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Cameos Don’t Always Go to Plan",
+    "ids": [
+      "501087517"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "I'll Make Sure You Remember It",
+    "ids": [
+      "501087518"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "I Was So Proud of This Story…",
+    "ids": [
+      "501087519"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Machan the Spy Goes on Recon",
+    "ids": [
+      "501087523"
+    ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "Fan Service Matters Too",
+    "ids": [
+      "501087719"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Cherry Blossoms Must Be in Full Bloom",
+    "ids": [
+      "501087113"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "I Wish I Got Along with Spring",
+    "ids": [
+      "501087114"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Somewhere I Can Be the Sun",
+    "ids": [
+      "501087115"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Am I Still Shining in Your Eyes?",
+    "ids": [
+      "501087116"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Around the World, Always and Forever",
+    "ids": [
+      "501087117"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the Shuka Sho: Machan's Here Too",
+    "ids": [
+      "501087314",
+      "501087315",
+      "501087316",
+      "501087317"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "After the Tenno Sho (Autumn): A Legendary Clash",
+    "ids": [
+      "501087320",
+      "501087321",
+      "501087322",
+      "501087323"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "In the Wind Stream with You",
+    "ids": [
+      "501078111"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Morning Bird",
+    "ids": [
+      "501078517"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Laws of Nature",
+    "ids": [
+      "501078518"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Beyond the Wind's Reach",
+    "ids": [
+      "501078519"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "In Pursuit of the Welkin Wind",
+    "ids": [
+      "501078523"
+    ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "Where the Wind Takes Me",
+    "ids": [
+      "501078719"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Gathering Winds, Blowing in Tandem",
+    "ids": [
+      "501078113"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Wind That Shakes the Buds",
+    "ids": [
+      "501078114"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Clouds Bring Storms",
+    "ids": [
+      "501078115"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Beyond Words",
+    "ids": [
+      "501078116"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Gallant Gales with Boundless Resolve",
+    "ids": [
+      "501078117"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Eyes on the Promise",
+    "ids": [
+      "501078118"
+    ],
     "notes": ""
   }
 ]
