@@ -83,6 +83,9 @@ program is tested only on firefox and idc about other browser
 -restart the program
 
 ## Changelog
+### 07-09-2026
+    -kris s
+
 ### 03-09-2026
     -new char/card(incl sr oops) updated
     
