@@ -17161,7 +17161,8 @@
       "501013524"
     ],
     "check_position": [
-      1
+      1,
+      3
     ],
     "pattern": "odd_good",
     "notes": ""
@@ -35736,20 +35737,6 @@
     "notes": ""
   },
   {
-    "event_name": "Helping Out to the MAX!",
-    "ids": [
-      "801073002"
-    ],
-    "notes": ""
-  },
-  {
-    "event_name": "Preparing to the MAX!",
-    "ids": [
-      "801073001"
-    ],
-    "notes": ""
-  },
-  {
     "event_name": "(❯) An Optimistic Outlook!",
     "ids": [
       "820052001"
@@ -36205,5 +36192,678 @@
       "830118003"
     ],
     "notes": ""
+  },
+    {
+    "event_name": "(❯) Great, Another Headache",
+    "ids": [
+      "830124001"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) A Use for the Blaze",
+    "ids": [
+      "830124002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯❯) Twinkles of One Wintry Eve",
+    "ids": [
+      "830124003"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯) One Should Give Gals Their Care",
+    "ids": [
+      "830122001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) One Should Show Umadols Their Utmost",
+    "ids": [
+      "830122002"
+    ],
+    "check_position": 2,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯❯) One Should Share Friends' Hometown Love",
+    "ids": [
+      "830122003"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "(❯) Fostering Gratitude",
+    "ids": [
+      "830146001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) Creating Smiles",
+    "ids": [
+      "830146002"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯❯) Sharing Happiness",
+    "ids": [
+      "830146003"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "Stay Positive at All Times!",
+    "ids": [
+      "801076001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Stay Positive in All Situations!",
+    "ids": [
+      "801076002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯) Marvelously Grown-Up",
+    "ids": [
+      "830125001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) The Secret to Staying Positive",
+    "ids": [
+      "830125002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯❯) Guess We're Trapped",
+    "ids": [
+      "830125003"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯) Don't Go Overboard!",
+    "ids": [
+      "820053001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) Going Overboard for You!",
+    "ids": [
+      "820053002"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "(❯) The Blazing Chaos of the Morning Star",
+    "ids": [
+      "830123001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) A Yet Unnoticed Light",
+    "ids": [
+      "830123002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯❯) Clumsy Pair",
+    "ids": [
+      "830123003"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "(❯) Let's Use Our Imaginations",
+    "ids": [
+      "830119001"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) Let's Read a Story",
+    "ids": [
+      "830119002"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯❯) Let's Learn Through Immersion",
+    "ids": [
+      "830119003"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "(❯) First, Know Thyself",
+    "ids": [
+      "830120001"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯) Second, Know Thy Duty",
+    "ids": [
+      "830120002"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "(❯❯❯) Third, Show Thy Spirit",
+    "ids": [
+      "830120003"
+    ],
+    "notes": "3 choices"
+  },
+    {
+    "event_name": "Old Tales, Edo Style!",
+    "ids": [
+      "501034800"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Sweat It Off at the Bathhouse!",
+    "ids": [
+      "501034801"
+    ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "Inari—God of Class!",
+    "ids": [
+      "501034802"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "Too Soon for Vodka",
+    "ids": [
+      "501008800"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Holidays Hit You Fast",
+    "ids": [
+      "501008801"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "What Bein' Cool Means",
+    "ids": [
+      "501008802"
+    ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "Planning the Perfect Party",
+    "ids": [
+      "501009800"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Jingle Bells for Two",
+    "ids": [
+      "501009801"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Sun Keeps Rising",
+    "ids": [
+      "501009802"
+    ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "A Mighty Mikoshi Procession",
+    "ids": [
+      "501021800"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Mystery on the Mountain",
+    "ids": [
+      "501021801"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Quick-Witted Pretty Priest",
+    "ids": [
+      "501021802"
+    ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "always": true,
+    "notes": "3 choices idk"
+  },
+  {
+    "event_name": "The Howl from Outside the Pack",
+    "ids": [
+      "501049113"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Taste of Dust Clouds",
+    "ids": [
+      "501049114"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "If Dawn Doesn't Come, Let's Go and Meet It",
+    "ids": [
+      "501049115"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Finishing Touches",
+    "ids": [
+      "501049519"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Surefire Victory Plan, Nakayama-Style",
+    "ids": [
+      "501049510"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Youth Is a Spring",
+    "ids": [
+      "501049523"
+    ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "notes": ""
+  },
+  {
+    "event_name": "One Serving Only! The Fleeting Dish",
+    "ids": [
+      "501049516"
+    ],
+    "check_position": 2,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "After the Takarazuka Kinen: Loud and Proud",
+    "ids": [
+      "501049309"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "One-Way Hourglass",
+    "ids": [
+      "501049116"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "So Very Far Away",
+    "ids": [
+      "501049117"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Gold Beyond the Ship",
+    "ids": [
+      "501049118"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Endless Road",
+    "ids": [
+      "501049111"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Heat Subsides",
+    "ids": [
+      "501049517"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Path of Destiny",
+    "ids": [
+      "501049518"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Peers Beyond the Rail",
+    "ids": [
+      "501049511"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "My Dear Violet",
+    "ids": [
+      "501049520"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Dangerous Back Alley",
+    "ids": [
+      "501049702"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Shaking Catwalk",
+    "ids": [
+      "501049703"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Awakened Risk-Junkie",
+    "ids": [
+      "501049704"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Too Young for the Thrill",
+    "ids": [
+      "501049705"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Seeking Excitement",
+    "ids": [
+      "501049706"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Silly Game",
+    "ids": [
+      "501049524"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": "maybe wrong"
+  },
+  {
+    "event_name": "Delight After Disembarking",
+    "ids": [
+      "501049719"
+    ],
+    "notes": "3 choices"
+  },
+  {
+    "event_name": "Five-Minute Thrill",
+    "ids": [
+      "501049513"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "From Storyland to Reality",
+    "ids": [
+      "501049514"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Rolling the Dice",
+    "ids": [
+      "501049515"
+    ],
+    "check_position": 2,
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "One Such Answer",
+    "ids": [
+      "501100513"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Slow, Steady, Steadfast",
+    "ids": [
+      "501100514"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Built on Experience",
+    "ids": [
+      "501100515"
+    ],
+    "check_position": [
+      1,
+      2
+    ],
+    "pattern": "even_good",
+    "always": true,
+    "notes": ""
+  },
+  {
+    "event_name": "A Surprise Diagnosis",
+    "ids": [
+      "501100113"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Take a Gander at the Sky",
+    "ids": [
+      "501100114"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Polishing the Silver",
+    "ids": [
+      "501100115"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Setting Sun",
+    "ids": [
+      "501100116"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "One Final Run Along the Beach",
+    "ids": [
+      "501100117"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Everlasting Wonder Acute",
+    "ids": [
+      "501100111"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Today's Period Drama Is...",
+    "ids": [
+      "501100518"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Torn Stitch",
+    "ids": [
+      "501100519"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Efficient Meets Easygoing",
+    "ids": [
+      "501100510"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Mellow and Comforting",
+    "ids": [
+      "501100511"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "A Nostalgic Taste",
+    "ids": [
+      "501100702"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "What a Good Li'l Phone!",
+    "ids": [
+      "501100703"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "Let It Have It!",
+    "ids": [
+      "501100705"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Wonderland Rush",
+    "ids": [
+      "501100706"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Standing My Ground",
+    "ids": [
+      "501100524"
+    ],
+    "check_position": 1,
+    "pattern": "odd_good",
+    "notes": "maybe wrong"
+  },
+  {
+    "event_name": "Favorite Thing",
+    "ids": [
+      "501100517"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Adorable Little Fans",
+    "ids": [
+      "501100520"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "The Warmth of Shared Food",
+    "ids": [
+      "501100704"
+    ],
+    "notes": ""
+  },
+  {
+    "event_name": "Switching Things Up",
+    "ids": [
+      "501100523"
+    ],
+    "check_position": 1,
+    "pattern": "even_good",
+    "notes": ""
+  },
+  {
+    "event_name": "Table-ette Troubles!",
+    "ids": [
+      "501100516"
+    ],
+    "check_position": 2,
+    "pattern": "odd_good",
+    "notes": ""
+  },
+  {
+    "event_name": "A Grassroots Battle!",
+    "ids": [
+      "501100719"
+    ],
+    "notes": "3 choices"
   }
 ]
