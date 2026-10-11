@@ -83,7 +83,10 @@ program is tested only on firefox and idc about other browser
 -restart the program
 
 ## Changelog
-###  05-10-2026
+### 12-10-2026
+    -rob roy and cafe fix
+
+### 05-10-2026
     -monthly update(automatic update eta 2 business months)
 
 ### 07-09-2026
