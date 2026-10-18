@@ -83,6 +83,9 @@ program is tested only on firefox and idc about other browser
 -restart the program
 
 ## Changelog
+### 18-10-2026
+    -new update and stuffs
+
 ### 12-10-2026
     -rob roy and cafe fix
 
