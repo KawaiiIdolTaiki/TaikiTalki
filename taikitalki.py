@@ -598,7 +598,7 @@ HTML = """<!DOCTYPE html>
 <div class="card" id="card">
   <div class="waiting">
     <div class="waiting-horse"><img src="/static/waiting.png" style="width:auto;height:125px;"></div>
-    <div class="waiting-text">Waiting for event…</div>
+    <div class="waiting-text">EVENT PREDICTER PATCHED NO LONGER CAN PREDICT ACCURATELY</div>
   </div>
 </div>
 

@@ -1,3 +1,6 @@
+# RIP TAIKITALKI 2026-2026
+## Cygames patched the event prediction. No longer accurate
+
 # TaikiTalki
 stolen project from https://github.com/SweepTosher/dumper
 
@@ -83,6 +86,9 @@ program is tested only on firefox and idc about other browser
 -restart the program
 
 ## Changelog
+### 31-10-2026
+    -will turn this into archive in a month or so :salute:
+
 ### 18-10-2026
     -new update and stuffs
 
